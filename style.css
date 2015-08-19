@@ -182,7 +182,7 @@ table {
 body {
   background-color: #FFFFFF;
   font-size: 16px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Serif', Georgia, serif;
   font-weight: 300;
 }
 #canvas {
@@ -207,7 +207,7 @@ header h6 {
 footer {
   margin-left: 25px;
   font-size: 12px;
-  font-family: 'Exo', 'Rockwell', serif;
+  font-family: 'Droid Serif', Georgia, serif;
   font-weight: normal;
 }
 footer a,
@@ -228,7 +228,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Exo', 'Rockwell', serif;
+  font-family: 'Droid Serif', Georgia, serif;
   font-weight: normal;
 }
 h1 {
