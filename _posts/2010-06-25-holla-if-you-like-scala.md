@@ -6,8 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=462
 permalink: /2010/06/25/holla-if-you-like-scala/
 categories:
-  - technology
-tags:
   - scala
 ---
 I started playing with the [Scala programming language][1] recently. For most new languages I want to learn, I try them out solving problems from [Project Euler][2] &#8212; a fun site with various challenging math problems that typically require programming to solve. For example: What is the largest prime factor of the number 600851475143 ?
@@ -19,7 +17,7 @@ So the past month or so I've been investigating and learning the language more a
 ### What I like about Scala&#8230;
 
   * Blend of Functional and Pure Object Oriented
-  * Gives flexibility of passing functions and using closures, like Javascript 
+  * Gives flexibility of passing functions and using closures, like Javascript
   * Plus real Object Oriented constructs allowing larger more structured systems
   * Legible and Concise Style, not nearly as verbose as Java
   * Statically Typed and Compiled (Easier Refactoring, contributes to consistent programmer's behavior)

@@ -6,11 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=718
 permalink: /2011/06/28/how-to-use-scala-and-lucene-to-create-a-basic-search-application/
 categories:
-  - solutions log
-tags:
-  - lucene
   - scala
-  - search
 ---
 How to use Scala and Lucene to create a basic search application. One of the powerful benefits of Scala is that it has full access to any Java libraries; giving you a tremendous number of available resources and technology. This example doesn&rsquo;t tap into the full power of Lucene, but highlights how easy it is to incorporate Java libraries into a Scala project.
 

@@ -6,10 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=720
 permalink: /2011/05/24/using-regular-expressions-in-scala/
 categories:
-  - solutions log
-tags:
-  - regex
-  - regular expressions
   - scala
 ---
 The easiest way of creating a regular expression in scala is by simply applying the <tt>.r</tt> method to a string. This creates a regular expression object, which then can be used to match and/or replace. See [Regex API][1] for available methods.

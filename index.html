@@ -6,6 +6,10 @@ layout: default
 
 	<h3> Articles </h3>
 
+    {% for post in site.posts %}
+
+    {% endfor %}
+
 
     <h4> Python </h4>
 	<ul class="posts">
@@ -27,12 +31,8 @@ layout: default
 
     <h4> Scala </h4>
 	<ul class="posts">
-        {% for post in site.posts %}
-            {% for tag in post.tags %}
-                {% if tag == 'scala' %}
-                    <li class="post"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-                {% endif %}
-            {% endfor %}
+        {% for post in site.categories['scala'] %}
+            <li class="post"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 

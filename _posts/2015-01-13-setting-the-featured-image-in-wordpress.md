@@ -6,7 +6,7 @@ layout: post
 guid: https://mkaz.com/?p=5884
 permalink: /2015/01/13/setting-the-featured-image-in-wordpress/
 categories:
-  - technology
+  - solutions log
 tags:
   - featured image
   - rest api

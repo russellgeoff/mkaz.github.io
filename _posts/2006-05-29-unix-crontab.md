@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=490
 permalink: /2006/05/29/unix-crontab/
 categories:
-  - technology
+  - solutions log
 tags:
   - crontab
   - linux
@@ -40,95 +40,95 @@ The following is the format entries in a crontab must be. Note all lines startin
     <th>
       Item
     </th>
-    
+
     <th>
       Definition
     </th>
-    
+
     <th>
       Valid Values
     </th>
   </tr>
-  
+
   <tr>
     <td>
       MIN
     </td>
-    
+
     <td>
       Minute
     </td>
-    
+
     <td>
       0-60
     </td>
   </tr>
-  
+
   <tr>
     <td>
       HOUR
     </td>
-    
+
     <td>
       Hour [24-hour clock]
     </td>
-    
+
     <td>
       0-23
     </td></td>
   </tr>
-  
+
   <tr>
     <td>
       MDAY
     </td>
-    
+
     <td>
       Day of Month
     </td>
-    
+
     <td>
       1-31
     </td>
   </tr>
-  
+
   <tr>
     <td>
       MON
     </td>
-    
+
     <td>
       Month
     </td>
-    
+
     <td>
       1-12 OR jan,feb,mar,apr &#8230;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       DOW
     </td>
-    
+
     <td>
       Day of Week
     </td>
-    
+
     <td>
       0-6 OR <br />sun,mon,tue,wed,thu,fri,sat
     </td>
   </tr>
-  
+
   <tr>
     <td>
       COMMAND
     </td>
-    
+
     <td>
       Command to be run
     </td>
-    
+
     <td>
       Any valid command-line
     </td>
@@ -158,11 +158,11 @@ You can use an **asterisk** in any category to mean for every item, such as ever
 
 You can use **commas** in any category to specify multiple values. For example: `mon,wed,fri`
 
-You can use **dashes** to specify ranges. For example: `mon-fri`, or `9-17` 
+You can use **dashes** to specify ranges. For example: `mon-fri`, or `9-17`
 
 You can use **forward slash** to specify a repeating range. For example: `*/5` for every five minutes, hours, days
 
-### Special Entries 
+### Special Entries
 
 There are several special entries, some which are just shortcuts, that you can use instead of specifying the full cron entry.
 
@@ -181,123 +181,123 @@ The complete list:
     <th>
       Entry
     </th>
-    
+
     <th>
       Description
     </th>
-    
+
     <th>
       Equivalent To
     </th>
   </tr>
-  
+
   <tr>
     <td>
       @reboot
     </td>
-    
+
     <td>
       Run once, at startup.
     </td>
-    
+
     <td>
       None
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @yearly
     </td>
-    
+
     <td>
       Run once a year
     </td>
-    
+
     <td>
       0 0 1 1 *
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @annually
     </td>
-    
+
     <td>
       (same as @yearly)
     </td>
-    
+
     <td>
       0 0 1 1 *
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @monthly
     </td>
-    
+
     <td>
       Run once a month
     </td>
-    
+
     <td>
       0 0 1 * *
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @weekly
     </td>
-    
+
     <td>
       Run once a week
     </td>
-    
+
     <td>
       0 0 * * 0
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @daily
     </td>
-    
+
     <td>
       Run once a day
     </td>
-    
+
     <td>
       0 0 * * *
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @midnight
     </td>
-    
+
     <td>
       (same as @daily)
     </td>
-    
+
     <td>
       0 0 * * *
     </td>
   </tr>
-  
+
   <tr>
     <td>
       @hourly
     </td>
-    
+
     <td>
       Run once an hour
     </td>
-    
+
     <td>
       0 * * * *
     </td>
@@ -318,7 +318,7 @@ MAILTO="admin@mydomain.com"<br />
 You can redirect the output from a cron script to /dev/null which just throws it away. By redirecting to /dev/null you will not receive anything from the script, even if it is throwing errors.  
 `<br />
 * * * * * /script/every_minute.pl > /dev/null 2>&1<br />
-` 
+`
 
 **Missed Schedule Time**  
 Cron does not run a command if it was missed. Your computer must be running for cron to run the job at the time it is scheduled. For example, if you have a 1:00am scheduled job and your computer was off at that time, it will **not** run the missed job in the morning when you turn it on.

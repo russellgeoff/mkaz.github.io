@@ -6,10 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=710
 permalink: /2011/05/27/using-scala-with-jdbc-to-connect-to-mysql/
 categories:
-  - solutions log
-tags:
-  - jdbc
-  - mysql
   - scala
 ---
 A howto on connecting Scala to a MySQL database using JDBC. There are a number of database libraries for Scala, but I ran into a problem getting most of them to work. I attempted to use scala.dbc, scala.dbc2, Scala Query and Querulous but either they aren&rsquo;t supported, have a very limited featured set or abstracts SQL to a weird pseudo language.

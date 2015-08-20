@@ -5,15 +5,8 @@ author: Marcus Kazmierczak
 layout: post
 guid: http://ebeab.com/?p=712
 permalink: /2011/05/28/functional-testing-with-selenium-webdriver-and-scala/
-twitter_cards_summary_img_size:
-  - 'a:7:{i:0;i:374;i:1;i:380;i:2;i:2;i:3;s:24:"width="374" height="380"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
 categories:
-  - solutions log
-tags:
-  - functional testing
   - scala
-  - selenium
-  - webdriver
 ---
 Selenium&rsquo;s WebDriver tools can be used together with Scala, ScalaTest and sbt to create a great functional testing toolkit. This will give you the ability to test in various browsers, use a fast &ldquo;headless&rdquo; browser and even test iPhone and Android apps and web sites; though I haven&rsquo;t gotten to mobile testing yet.
 

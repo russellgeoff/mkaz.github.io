@@ -6,8 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=708
 permalink: /2011/05/31/10-scala-one-liners-to-impress-your-friends/
 categories:
-  - solutions log
-tags:
   - scala
 ---
 Here are 10 one-liners which show the power of scala programming, impress your friends and woo women; ok, maybe not. However, these one liners are a good set of examples using functional programming and scala syntax you may not be familiar with. I feel there is no better way to learn than to see real examples.

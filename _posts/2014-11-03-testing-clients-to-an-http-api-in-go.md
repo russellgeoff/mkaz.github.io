@@ -5,14 +5,6 @@ author: Marcus Kazmierczak
 layout: post
 guid: https://mkaz.com/?p=4371
 permalink: /2014/11/03/testing-clients-to-an-http-api-in-go/
-video_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-videourl:
-  - 
 categories:
   - solutions log
 tags:

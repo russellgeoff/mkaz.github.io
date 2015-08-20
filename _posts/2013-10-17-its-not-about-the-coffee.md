@@ -1,14 +1,9 @@
 ---
 id: 619
-title: 'It's not about the coffee'
+title: It's not about the coffee
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=619
 permalink: /2013/10/17/its-not-about-the-coffee/
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/ZpdqRLMcy5
 categories:
   - technology
 tags:
@@ -16,11 +11,11 @@ tags:
   - coffee
   - robotics
 ---
-A few companies are launching fancy robotic coffee kiosks intended to take on Starbucks and high-end coffee shops, from Quartz [An army of robot baristas could mean the end of Starbucks as we know it][1] 
+A few companies are launching fancy robotic coffee kiosks intended to take on Starbucks and high-end coffee shops, from Quartz [An army of robot baristas could mean the end of Starbucks as we know it][1]
 
 ![][2]
 
-It appears the main selling point is speed, consistency, reliability and the perfect cup of coffee. I think they are missing the point on why Starbucks and coffee shops succeed and what value they provide, it's not about the coffee but the social experience. 
+It appears the main selling point is speed, consistency, reliability and the perfect cup of coffee. I think they are missing the point on why Starbucks and coffee shops succeed and what value they provide, it's not about the coffee but the social experience.
 
 People meet at coffee shops to talk, gossip, catch up and socialize with each other. [Starbucks own mission statement][3] is more about people and neighborhoods then the coffee. Sure people get coffee there, but that's the excuse not the reason.
 

@@ -6,10 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=716
 permalink: /2011/06/28/how-to-sort-collections-in-scala/
 categories:
-  - solutions log
-tags:
   - scala
-  - sorting
 ---
 Here is a list of examples sorting different data structures in Scala, Lists and Arrays
 

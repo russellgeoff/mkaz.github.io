@@ -6,11 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=714
 permalink: /2011/05/23/how-to-convert-xml-to-json/
 categories:
-  - solutions log
-tags:
-  - json
   - scala
-  - xml
 ---
 Download lift-json jar from <http://scala-tools.org/repo-releases/net/liftweb/>
 

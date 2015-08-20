@@ -6,10 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=722
 permalink: /2011/05/24/date-calculations-in-scala/
 categories:
-  - solutions log
-tags:
-  - date
-  - jodatime
   - scala
 ---
 A couple of solutions for formatting and calculating dates. These examples use the joda library, included with Play by default.

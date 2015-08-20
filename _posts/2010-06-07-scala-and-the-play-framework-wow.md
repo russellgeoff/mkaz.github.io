@@ -6,9 +6,6 @@ layout: post
 guid: http://ebeab.com/?p=479
 permalink: /2010/06/07/scala-and-the-play-framework-wow/
 categories:
-  - technology
-tags:
-  - play framework
   - scala
 ---
 As I continue down the path of testing out the Scala language and compatible web frameworks, I came across the [Play Framework][1] and all I can say is Wow! Play is a very nice polished framework, which just feels right to me. I had the app up running and doing everything I wanted in a fraction of the time on any other technology I tested. Everything just worked, I didn't have to fuss with a bunch of settings, config files, library versions, or anything.
@@ -24,10 +21,10 @@ The Play structure is very intuitive and works well with the way I think. I come
 A few key features of Play:
 
   * Automatic Compiling and Reloading of Everything
-  * Contextual and Relevant Error Codes 
-  * Testing Framework baked in 
-  * Fast getting started time 
-  * Good Documentation and Tutorials 
+  * Contextual and Relevant Error Codes
+  * Testing Framework baked in
+  * Fast getting started time
+  * Good Documentation and Tutorials
 I haven't used the Play ORM yet, but I don't really use Zend's either. Most apps and queries tend to require a little more customization and optimizations than any ORM can give. I'm sure I'll check it out, maybe they'll surprise me there too.
 
 ### Quick Start
@@ -36,21 +33,21 @@ Download the Play Framework 1.1 nightly build from: [download.playframework.com]
 
 I downloaded and installed to: `/opt/play`. Add the directory you extracted play to your PATH.
 
-Create New App: 
+Create New App:
 
 <pre>play new testapp --with scala</pre>
 
-oops.. you haven't installed Scala Module yet, it's as simple as 
+oops.. you haven't installed Scala Module yet, it's as simple as
 
 <pre>play install scala</pre>
 
 Try to create your app again and it will generate the app structure and a working demo app.
 
-Run App: 
+Run App:
 
 <pre>play run testapp</pre>
 
-or from within the testapp directory just run 
+or from within the testapp directory just run
 
 <pre>play run</pre>
 
@@ -61,7 +58,7 @@ Kudos to the Play team, my search for a Scala Framework might be complete.
 Further Reading:
 
   * [Play Framework: Scala Module][4]
-  * [Scala + Play Quick Start Video][5] [vimeo] 
+  * [Scala + Play Quick Start Video][5] [vimeo]
   * []() </ul>
 
  [1]: http://www.playframework.com/

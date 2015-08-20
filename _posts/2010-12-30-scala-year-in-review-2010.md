@@ -6,13 +6,11 @@ layout: post
 guid: http://ebeab.com/?p=483
 permalink: /2010/12/30/scala-year-in-review-2010/
 categories:
-  - technology
-tags:
   - scala
 ---
 A year in review for Scala, 2010 was a great year for continued expansion of Scala. Here are a few highlights from major releases to new books and further adoption. 2011 looks poised to have an even bigger break out year.
 
-### Major Releases 
+### Major Releases
 
 The biggest news of the year is the finalized release of **Scala 2.8**. The 2.8 version wraps up a major effort by the Scala Team and lays out the ground work for further growth. Scala 2.8 created some binary incompatibility with previous versions, but planned to be stabilized going forward. A few of the major changes to sub-systems include [Scala Collections][1], [Scala Actors][2], and [Scala Package Objects][3]. Plus a bunch more, see [Release Announcement 7/14/2010][4]
 

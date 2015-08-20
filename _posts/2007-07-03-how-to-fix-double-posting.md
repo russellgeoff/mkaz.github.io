@@ -6,14 +6,14 @@ layout: post
 guid: http://ebeab.com/?p=691
 permalink: /2007/07/03/how-to-fix-double-posting/
 categories:
-  - solutions log
+  - technology
 tags:
   - it can be easier
   - webdev
 ---
 You see the following on order forms all the time
 
-> &#8220;press the button only once or we may charge you double&#8221;</em> 
+> &#8220;press the button only once or we may charge you double&#8221;</em>
 
 This is just laziness on the developers, there are a few easy techniques to avoid double processing a form. Plus if you have ever watched my mother-in-law use a computer, there is a fine line between clicking once and double (or even triple) clicking.
 
