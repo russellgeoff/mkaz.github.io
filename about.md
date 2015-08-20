@@ -12,7 +12,7 @@ I work at [Automattic](https://automattic.com/), purveyor of fine web services s
 
 Previously, I was the founding engineer at a start-up called Maya’s Mom. Our company was acquired by [BabyCenter](https://babycenter.com/). I continued working for BabyCenter as VP of Engineering, leading the engineering team developing new features and services for millions of moms around the world.
 
-I worked briefly at CNET as a consultant on the Haystack storage project, which was a massive storage solution for the Webshots photo sharing site. We basically built a closed Amazon S3 system a month or two prior to Amazon, they smartly did an open service.
+I worked briefly at CNET as a consultant on the [Haystack storage project](http://martingreen.typepad.com/forward_looking_statement/2006/06/more_on_haystac.html), which was a massive storage solution for the Webshots photo sharing site. We basically built a closed Amazon S3 system a month or two prior to Amazon, they smartly did an open service.
 
 I cut my technical chops at [E-TRADE Financial](https://etrade.com) for many years during the go-go dotcom days. I worked in the Architecture group on problems such as site scalability and performance. I also led the embracing of open source and converting the data center to Linux and open services such as Apache and Tomcat, which were radical ideas back then.
 
