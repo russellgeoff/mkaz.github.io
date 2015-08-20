@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=492
 permalink: /2007/03/03/distributed-social-networks/
 categories:
-  - technology
+  - classics
 ---
 As the [NY Times article today ][1]shows, social networks are sprouting up everywhere. Small niche sites such as the Portland Trailblazers, BarackObama, Nike, and now Ning's wicked service which allows anyone to build their own in just a few minutes. But how many of these disparate sites will someone want to join?
 

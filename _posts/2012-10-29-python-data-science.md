@@ -6,10 +6,9 @@ layout: post
 guid: http://ebeab.com/?p=670
 permalink: /2012/10/29/python-data-science/
 categories:
-  - solutions log
+  - python
 tags:
   - data science
-  - python
 ---
 My notes, resources and examples using Python, NumPy, SciPy and Matplotlib as alternatives to R and Matlab for data science and analysis.
 

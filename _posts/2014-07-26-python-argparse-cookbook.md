@@ -6,11 +6,10 @@ layout: post
 guid: https://mkaz.com/?p=3730
 permalink: /2014/07/26/python-argparse-cookbook/
 categories:
-  - solutions log
+  - python
 tags:
   - arguments
   - command-line
-  - python
 ---
 I use Python as my go to tool for command-line scripts. So I find myself often parsing command-line arguments for these script. Since I use various programming languages I don't remember anything, so I'm constantly looking at documentation and sadly, Python docs are a bit challenging to read.
 
@@ -216,7 +215,7 @@ args = parser.parse_args()
 
 Output:
 
-<pre class="brush: plain; title: ; notranslate" title="">$ python test.py test.txt 3 
+<pre class="brush: plain; title: ; notranslate" title="">$ python test.py test.txt 3
 ~ Filename: test.txt
 ~ Nums: 3
 
@@ -235,7 +234,7 @@ args = parser.parse_args()
 
 Output:
 
-<pre class="brush: plain; title: ; notranslate" title="">$ python test.py 3 2 1 
+<pre class="brush: plain; title: ; notranslate" title="">$ python test.py 3 2 1
 ~ Filename: 3
 ~ Nums: ['2', '1']
 </pre>
@@ -347,7 +346,7 @@ print("~ Verbose: {}".format(args.verbose))
 Output:
 
 <pre class="brush: plain; title: ; notranslate" title="">$ python test.py
-~ Verbose: None 
+~ Verbose: None
 
 $ python test.py --verbose
 ~ Verbose: 1
@@ -410,7 +409,7 @@ parser.add_argument('-R',
     help="Copy all files and directories recursively")
 
 parser.add_argument('infile',
-    type=argparse.FileType('r'), 
+    type=argparse.FileType('r'),
     help="file to be copied")
 
 parser.add_argument('outfile',

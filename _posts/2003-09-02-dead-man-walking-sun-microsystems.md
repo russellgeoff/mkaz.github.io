@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=491
 permalink: /2003/09/02/dead-man-walking-sun-microsystems/
 categories:
-  - technology
+  - classics
 ---
 Sun is in big trouble. They have their head in the sand, or possibly some where else, and unless they pull it out quickly they are nothing but a Dead Man Walking.
 
@@ -22,10 +22,10 @@ Note: I was tech lead for the project converting E*TRADE systems to Linux
 Sun's responses:
 
 > Sun's CEO Scott McNealy. &#8220;It's conventional wisdom, which isn't actual wisdom, that the high end gets clobbered and business is going to Intel, Microsoft and Linux. It's just not the case&#8221; <small><a href="http://biz.yahoo.com/rb/030125/tech_sun_2.html">1/25/2003</a></small>
-> 
+>
 > &#8220;If you're suggesting that Linux will replace Solaris, well, I am totally dismissive of that,&#8221; says Jonathan Schwartz, head of Sun's software business. <small><a href="http://www.fortune.com/fortune/techatwork/articles/0,15114,372217-4,00.html">9/18/2002</a></small>
-> 
-> Sun's Chief Competitive Officer Shahin Kahn &#8220;Dell is a grocery store masquerading as a computer company.&#8221; <small><a href="http://www.forbes.com/2003/02/07/cx_ld_0207sun.html?partner=yahoo&referrer=">2/7/2003</a></small> 
+>
+> Sun's Chief Competitive Officer Shahin Kahn &#8220;Dell is a grocery store masquerading as a computer company.&#8221; <small><a href="http://www.forbes.com/2003/02/07/cx_ld_0207sun.html?partner=yahoo&referrer=">2/7/2003</a></small>
 
 **Technology Issues?** [The Java Problem][4], a supposed internal memo from Solaris engineers complaining about how crappy Java is on Solaris. Solaris is their premier OS they load on their big iron which they charge two arms and two legs for.
 

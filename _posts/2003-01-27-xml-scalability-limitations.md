@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=481
 permalink: /2003/01/27/xml-scalability-limitations/
 categories:
-  - technology
+  - classics
 ---
 XML is not the answer to all data storage and transport problems that many claim it to be. XML works ok for small amounts of data, when files are small it is much quicker and easier to parse. The real limitation of XML comes when dealing with large amounts of data.
 
@@ -24,12 +24,12 @@ Another problem that arises with XML is the excessively large data records. The 
 
 Here's a simple address book example, note the data definition is only included once on the first line:
 
-    
+
     Comma Separated Example
     First Name, Last Name, Phone Number
     John, Doe, 555-1234
     Jane, Doe, 555-1234
-    
+
 
 Here's the same data expressed in common XML format:
 

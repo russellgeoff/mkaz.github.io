@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=489
 permalink: /2004/12/14/collaborative-power-of-the-internet/
 categories:
-  - technology
+  - classics
 ---
 Here is an interesting example of collaboration over the Internet, with the collaborative parties not even talking with each other. A fine example of how the connectivity sparks inspiration and creativity, allowing for people to try and do new things.
 

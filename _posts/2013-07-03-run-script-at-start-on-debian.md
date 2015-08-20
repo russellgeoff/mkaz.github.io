@@ -1,6 +1,6 @@
 ---
 id: 726
-title: Run script at start on debian
+title: Run script at start on Debian
 author: Marcus Kazmierczak
 layout: post
 guid: http://ebeab.com/?p=726
@@ -37,17 +37,17 @@ First you need to create the script to run, here is a template, modify the examp
 case "$1" in
   start)
     echo "Starting foobar "
-    
+
     # example 1 - system service
     # /usr/bin/foobar --config /etc/foo.conf start
 
     # example 2 - run script as user
     # su --login mkaz --command "/home/mkaz/bin/my-script --cmd-args"
-    
+
     ;;
   stop)
     echo "Stopping foobar"
-    
+
     # example 1
     # /usr/bin/foobar --config /etc/foo.conf stop
 
@@ -89,6 +89,6 @@ Once added you can test starting your service using:
 If you see this warning
 
     insserv: warning: script 'foobar' missing LSB tags and overrides
-    
+
 
 You probably did not includ the INIT INFO block, see template above. Your script will still run, just does not have the dependency info used by insserv program to try to start items in proper order.

@@ -6,11 +6,10 @@ layout: post
 guid: http://ebeab.com/?p=458
 permalink: /2004/02/15/firefox-and-safari-compared/
 categories:
-  - technology
+  - classics
 ---
-<img src="/images/icon_firefox.gif" width='110' height='105' align='right' />
 
-There are a few compelling reasons I want to use Safari as my primary browser. These include: a faster native browser, iSyncing bookmarks, smaller footprint<sup>1</sup> and nicer OS X fit. Each time the lastest Safari comes out I try it out hoping I can stick with it.
+There are a few compelling reasons I want to use Safari as my primary browser. These include: a faster native browser, iSyncing bookmarks, smaller footprint<sup>1</sup> and nicer OS X fit. Each time the latest Safari comes out I try it out hoping I can stick with it.
 
 However, I always end up going back to Mozilla, Firefox this week, hopefully the last name change. I think the top feature Firefox has going for it is the ability to customize the Search Box on the top-right.
 

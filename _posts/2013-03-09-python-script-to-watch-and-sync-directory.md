@@ -6,9 +6,8 @@ layout: post
 guid: http://ebeab.com/?p=683
 permalink: /2013/03/09/python-script-to-watch-and-sync-directory/
 categories:
-  - solutions log
-tags:
   - python
+tags:
   - sync
 ---
 At work we have a rather complex setup which is prohibitive to running a full working environment locally, so we have sandboxes on remote servers that run our development code. However, as much as I love vim, it can be challenging at times to do development on a remote server full-time.

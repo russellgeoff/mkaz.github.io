@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=497
 permalink: /2007/03/02/goodbye-xml-hello-json/
 categories:
-  - technology
+  - classics
 tags:
   - json
   - xml

@@ -5,17 +5,10 @@ author: Marcus Kazmierczak
 layout: post
 guid: http://ebeab.com/?p=880
 permalink: /2014/01/21/python-culture/
-publicize_google_plus_url:
-  - https://plus.google.com/115308324500133456489/posts/E9QK3Rpr3EX
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/6CQqsHAjiL
 categories:
-  - technology
+  - python
 tags:
   - culture
-  - python
 ---
 Looking at software projects, each has its own culture and style, a distinct approach to solving problems. One such style I've always been drawn to is Python and its almost zen like ways to keep it simple and friendly.
 
@@ -43,7 +36,7 @@ In June 1999, Tim Peters listed out nineteen guiding principles for Python poste
 > Although never is often better than \*right\* now.  
 > If the implementation is hard to explain, it's a bad idea.  
 > If the implementation is easy to explain, it may be a good idea.  
-> Namespaces are one honking great idea &#8212; let's do more of those! 
+> Namespaces are one honking great idea &#8212; let's do more of those!
 
 Again, these are just guiding principles and shouldn't be considered law, the **thou shalts** are reserved for [PEP-8][4]. These principles are useful to keep in mind when architecting your system, or if you start to get a little clever or tricky in your coding, oh yeh keep it simple and explicit.
 

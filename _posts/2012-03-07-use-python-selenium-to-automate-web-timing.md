@@ -6,9 +6,8 @@ layout: post
 guid: http://ebeab.com/?p=465
 permalink: /2012/03/07/use-python-selenium-to-automate-web-timing/
 categories:
-  - solutions log
-tags:
   - python
+tags:
   - selenium
 ---
 I've been hearing a lot recently about the Navigation Timing spec, which sets a multitude of timing events as javascript properties. There are numerous events in the flow, from the very first navigation event, which could be when the user clicks a search result in Google, to DNS timing to Dom parsing etc. [See the full Navigation Timing spec for details.][1]

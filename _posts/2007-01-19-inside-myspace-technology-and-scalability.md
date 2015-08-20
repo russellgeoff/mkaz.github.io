@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=494
 permalink: /2007/01/19/inside-myspace-technology-and-scalability/
 categories:
-  - technology
+  - classics
 ---
 Baseline magazine has [a good article on Inside MySpace][1]. The article discusses the technical issues MySpace has had to deal with growing to 140 million users. If you are interested in technology, scalability and large site architecture, definitely check it out.
 

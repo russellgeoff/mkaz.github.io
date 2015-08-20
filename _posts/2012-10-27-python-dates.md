@@ -6,10 +6,9 @@ layout: post
 guid: http://ebeab.com/?p=686
 permalink: /2012/10/27/python-dates/
 categories:
-  - solutions log
+  - python
 tags:
   - dates
-  - python
 ---
 Python Dates  
 10/27/2012 08:13:00PM
@@ -52,346 +51,346 @@ Printing dates in various formats is relatively straight forward, here's one exa
     <th>
       Symbol
     </th>
-    
+
     <th>
       Definition
     </th>
-    
+
     <th>
       Example
     </th>
   </tr>
-  
+
   <tr>
     <td>
       %a
     </td>
-    
+
     <td>
       Weekday name abbreviated
     </td>
-    
+
     <td>
       Sun, Mon, Tue, &#8230;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %A
     </td>
-    
+
     <td>
       Weekday name full
     </td>
-    
+
     <td>
       Sunday, Monday, Tuesday, &#8230;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %b
     </td>
-    
+
     <td>
       Month name abbreviated
     </td>
-    
+
     <td>
       Jan, Feb, Mar, &#8230;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %B
     </td>
-    
+
     <td>
       Month name full
     </td>
-    
+
     <td>
       January, February, &#8230;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %c
     </td>
-    
+
     <td>
       A &#8220;random&#8221; date and time representation.
     </td>
-    
+
     <td>
       Fri Jan 15 16:34:00 1999
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %d
     </td>
-    
+
     <td>
       Day of the month
     </td>
-    
+
     <td>
       [ 01, 31 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %f
     </td>
-    
+
     <td>
       Microsecond
     </td>
-    
+
     <td>
       [ 000000, 999999 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %H
     </td>
-    
+
     <td>
       Hour (24h)
     </td>
-    
+
     <td>
       [ 00, 23 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %I
     </td>
-    
+
     <td>
       Hour (12h)
     </td>
-    
+
     <td>
       [ 01, 12 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %j
     </td>
-    
+
     <td>
       Day of the year
     </td>
-    
+
     <td>
       [ 001, 366 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %m
     </td>
-    
+
     <td>
       Month
     </td>
-    
+
     <td>
       [ 01, 12 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %M
     </td>
-    
+
     <td>
       Minute
     </td>
-    
+
     <td>
       [ 00, 59 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %p
     </td>
-    
+
     <td>
       Locale's equivalent of either AM or PM.
     </td>
-    
+
     <td>
       [ AM, PM ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %S
     </td>
-    
+
     <td>
       Second
     </td>
-    
+
     <td>
       [ 00, 61 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %U
     </td>
-    
+
     <td>
       Week number of the year (Sunday first)
     </td>
-    
+
     <td>
       [ 00, 53 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %w
     </td>
-    
+
     <td>
       Weekday number (Sunday=0)
     </td>
-    
+
     <td>
       [ 0, 6 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %W
     </td>
-    
+
     <td>
       Week number of the year (Monday first)
     </td>
-    
+
     <td>
       [0, 53 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %x
     </td>
-    
+
     <td>
       Locale date
     </td>
-    
+
     <td>
       01/15/99
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %X
     </td>
-    
+
     <td>
       Locale time
     </td>
-    
+
     <td>
       16:34:00
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %y
     </td>
-    
+
     <td>
       Year without century
     </td>
-    
+
     <td>
       [ 00, 99 ]
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %Y
     </td>
-    
+
     <td>
       Year with century
     </td>
-    
+
     <td>
       1999
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %z
     </td>
-    
+
     <td>
       UTC offset in the form +HHMM or -HHMM or empty string
     </td>
-    
+
     <td>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %Z
     </td>
-    
+
     <td>
       Time zone name or empty string
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       %%
     </td>
-    
+
     <td>
       A literal &#8216;%' character.
     </td>
-    
+
     <td>
       &nbsp;
     </td>
@@ -431,7 +430,7 @@ td.days
 
 Here are a few date functions which are commonly needed, I made the examples a little more explicit so it is easier to follow the calculation, you may want to shorten up some when used.
 
-#### Last Day of the Month 
+#### Last Day of the Month
 
 Two solutions, first using datetime and going to the first day of next month and subtracting a day.
 
@@ -449,7 +448,7 @@ range = calendar.monthrange(now.year, now.month)
 last_day_month = now.replace(day=range[1])
 </code></pre>
 
-#### Next Thursday 
+#### Next Thursday
 
 <pre><code class="python">today = datetime.now()
 thursday_dow = 4
@@ -458,7 +457,7 @@ adjustment = ( 7 + thursday_dow - int(today_dow)) % 7
 next_thursday = today + timedelta(days=adjustment)
 </code></pre>
 
-#### First Monday of the Month 
+#### First Monday of the Month
 
 <pre><code class="python">today = datetime.now()
 first_day_of_month = today.replace(day=1)

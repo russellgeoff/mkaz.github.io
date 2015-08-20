@@ -240,7 +240,19 @@ nav {
 //
 // .main
 //
+ul.posts {
 
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+
+    li time {
+        color: #999;
+        font-family: "Droid Sans Mono", monospace;
+        font-size: 14px;
+        margin-right: 8px;
+    }
+}
 
 .post {
   blockquote {

@@ -6,7 +6,7 @@ layout: post
 guid: http://ebeab.com/?p=501
 permalink: /2007/01/16/computers-we-have-a-long-way-to-go/
 categories:
-  - technology
+  - classics
 ---
 After trying to remember the HTML character code for the fancy quote mark for the 1,00th time, I realized we have a long way to go with interactions with computers. I'm not talking just pretty GUI's and simple keyboard and mouse interfaces but the whole [HCI][1] gambit; computers are supposed to be smart and make things easier right?
 

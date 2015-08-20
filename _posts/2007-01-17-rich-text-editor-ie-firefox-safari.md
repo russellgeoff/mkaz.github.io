@@ -6,16 +6,16 @@ layout: post
 guid: http://ebeab.com/?p=471
 permalink: /2007/01/17/rich-text-editor-ie-firefox-safari/
 categories:
-  - technology
+  - classics
 ---
 **Things should be easier.**
 
 Why can't I do the following with HTML:
 
 ```
-    <textarea 
-        richtext="yes" 
-        buttons="bold,italic,copy,cut,paste,lists" 
+    <textarea
+        richtext="yes"
+        buttons="bold,italic,copy,cut,paste,lists"
         resizable="yes" ... >
     </textarea>
 ```

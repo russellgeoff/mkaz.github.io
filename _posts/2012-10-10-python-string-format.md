@@ -5,12 +5,9 @@ author: Marcus Kazmierczak
 layout: post
 guid: http://ebeab.com/?p=677
 permalink: /2012/10/10/python-string-format/
-geo_public:
-  - 0
 categories:
-  - solutions log
-tags:
   - python
+tags:
   - string format
 ---
 Every time I use Python's string formatter, version 2.7 and up, I get it wrong and for the life of me I can't figure out their documentation format. I got very used to the older % method. So I started to create my own string format cookbook. Let me know in the comments of any other good example to include.
@@ -124,7 +121,7 @@ print(email_f(email="bob@example.com"))
 
 Hat tip to [earthboundkids][2] who provided this on reddit.
 
-### Escaping Braces 
+### Escaping Braces
 
 If you need to use braces when using str.format(), just double up
 
@@ -132,10 +129,10 @@ If you need to use braces when using str.format(), just double up
 >&gt;&gt; The empty set is often represented as {0}
 </code></pre>
 
-### Reference 
+### Reference
 
-  * [Python String Library][3] &#8211; Standard Library Documentation 
-  * [Python Essential Reference][4] &#8211; book on Amazon 
+  * [Python String Library][3] &#8211; Standard Library Documentation
+  * [Python Essential Reference][4] &#8211; book on Amazon
   * My [Python Argparse Cookbook][5] &#8211; a similar cookbook for parsing command-line arguments
 
  [1]: http://www.python.org/dev/peps/pep-3101/
