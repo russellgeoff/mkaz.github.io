@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="575px" height="115px" class="scenario">
+	<rect x="8" y="25" width="80" height="50" fill="#CD7058"/>
+	<rect x="96" y="25" width="40" height="50" fill="#599AD3"/>
+	<rect x="142" y="25" width="20" height="50" fill="#CD7058"/>
+	<rect x="168" y="25" width="40" height="50" fill="#F9A65A"/>
+	<rect x="214" y="25" width="40" height="50" fill="#599AD3"/>
+	<rect x="260" y="25" width="40" height="50" fill="#F9A65A"/>
+	<rect x="306" y="25" width="15" height="50" fill="#CD7058"/>
+	<rect x="327" y="25" width="40" height="50" fill="#599AD3"/>
+	<rect x="371" y="25" width="40" height="50" fill="#F9A65A"/>
+
+	<rect x="417" y="25" width="20" height="50" fill="#CD7058"/>
+	<rect x="443" y="25" width="20" height="50" fill="#599AD3"/>
+	<rect x="475" y="25" width="20" height="50" fill="#F9A65A"/>
+	
+	<rect x="512" y="25" width="15" height="50" fill="#CD7058"/>
+	<rect x="533" y="25" width="15" height="50" fill="#599AD3"/>
+	<rect x="554" y="25" width="15" height="50" fill="#F9A65A"/>
+	
+	<rect x="8" y="85" width="570" height="4" fill="#999999"/>
+	<rect x="8" y="80" width="5" height="8" fill="#999999"/>
+	<rect x="199" y="80" width="5" height="8" fill="#999999"/>
+	<rect x="390" y="80" width="5" height="8" fill="#999999"/>
+	<rect x="570" y="80" width="5" height="8" fill="#999999"/>
+    <text x="80" y="101" font-family="Verdana" font-size="12"> Month 1 </text>
+    <text x="275" y="101" font-family="Verdana" font-size="12"> Month 2 </text>
+    <text x="465" y="101" font-family="Verdana" font-size="12"> Month 3 </text>	
+			
+</svg>
