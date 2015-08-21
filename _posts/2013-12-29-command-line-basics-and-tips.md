@@ -3,7 +3,6 @@ id: 800
 title: Command-line Basics and Tips
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=800
 permalink: /2013/12/29/command-line-basics-and-tips/
 publicize_twitter_user:
   - mkaz
@@ -21,7 +20,7 @@ A collection of tips to help you on the command-line using Linux, Mac OS X or ot
 
 ## Setup
 
-First up, **use source control** to help manage all of your configs so its easier to setup new systems and to track changes. I have a &#8220;dotfiles&#8221; repository where I keep my stuff. I then create symlinks from the repo to the proper spot, so the repo version is always current. A symlink example of my main profile:  
+First up, **use source control** to help manage all of your configs so its easier to setup new systems and to track changes. I have a &#8220;dotfiles" repository where I keep my stuff. I then create symlinks from the repo to the proper spot, so the repo version is always current. A symlink example of my main profile:  
 `ln -s ~/dotfiles/profile ~/.profile`
 
 With a repository, I can then check out my dotfiles to whatever new machine and have my setup all ready. Here is a two step setup of a remote subversion repository.  
@@ -120,7 +119,7 @@ The pipe operator, `|` takes output of one command and passes it as STDIN to the
 The `xargs` commands takes a piped in list and reverses it to be command line arguments to the next command  
 `ls -1 | xargs touch`
 
-Now you can start combining in various ways. For example, list all files installed, grab only the ones marked as &#8220;deinstall&#8221; and pass that list into aptitude to purge  
+Now you can start combining in various ways. For example, list all files installed, grab only the ones marked as &#8220;deinstall" and pass that list into aptitude to purge  
 `dpkg —get-selections | grep deinstall | xargs aptitude purge`
 
 This will delete all subversion files and directories, I never remember the syntax for the find command, so often pipe it into grep.  
@@ -154,7 +153,7 @@ Count words in a file:
 
 `grep` is one of my most used utilities, I use it often to filter on commands, as I've shown a few times above. The most common options I use are -i and -r for case-insensitive and recursive, but there are a few other nifty bits.
 
-Use `-v` to show those that do not contain &#8220;match&#8221;:  
+Use `-v` to show those that do not contain &#8220;match":  
 `grep -v match file.txt`
 
 Use `-c` to count how many matches:  

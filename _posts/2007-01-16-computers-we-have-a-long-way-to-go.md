@@ -3,7 +3,6 @@ id: 501
 title: Computers, we have a long way to go
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=501
 permalink: /2007/01/16/computers-we-have-a-long-way-to-go/
 categories:
   - classics
@@ -14,7 +13,7 @@ Programming today is still plain ridiculous, yeh it's a step up from doing assem
 
 I think the overall problem is things just aren't good enough to just do it. So there ends up being lots of extra checks, confirmations and annoyances. Libaries aren't abstracted enough, languages aren't at a high enough level, doing things that should be simple, aren't.
 
-An example, it is a pain to just parse user input, store it in a database and display back to the user. It sounds like a stupid easy problem, being done everywhere right. It isn't, ask a engineer to try this: parse a block of text for links, the text may or may not contain HTML code, the links may or may not start with &#8220;http://&#8221; or &#8220;www.&#8221; and create links for them, but don't mess up any of the HTML code which may have images, embeds or links themselves.
+An example, it is a pain to just parse user input, store it in a database and display back to the user. It sounds like a stupid easy problem, being done everywhere right. It isn't, ask a engineer to try this: parse a block of text for links, the text may or may not contain HTML code, the links may or may not start with &#8220;http://" or &#8220;www." and create links for them, but don't mess up any of the HTML code which may have images, embeds or links themselves.
 
 Don't forget to fix all special characters, encoding types plus any weird stuff Word throws in when people copy and paste from which ends up losing all of their formatting. Here's the WordPress code to [convert and format user input][2], how many different peple across all the sites have written this same type of shit. I know I have, a few times.
 

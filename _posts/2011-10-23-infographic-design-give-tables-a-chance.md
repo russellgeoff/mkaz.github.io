@@ -3,7 +3,6 @@ id: 3590
 title: Infographic design, give tables a chance
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3590
 permalink: /2011/10/23/infographic-design-give-tables-a-chance/
 categories:
   - dataviz

@@ -3,7 +3,6 @@ id: 726
 title: Run script at start on Debian
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=726
 permalink: /2013/07/03/run-script-at-start-on-debian/
 categories:
   - solutions log

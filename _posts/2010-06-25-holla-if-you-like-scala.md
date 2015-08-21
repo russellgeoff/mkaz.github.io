@@ -3,7 +3,6 @@ id: 462
 title: Holla if you like Scala
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=462
 permalink: /2010/06/25/holla-if-you-like-scala/
 categories:
   - scala

@@ -3,7 +3,6 @@ id: 762
 title: A Year Working Remotely
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=762
 permalink: /2013/11/18/a-year-working-remotely/
 publicize_twitter_url:
   - http://t.co/3TFxhusoYU
@@ -65,7 +64,7 @@ I won't go much into the obvious and much discussed wins of distributed workplac
 
 ![Lisbon][6]
 
-A big plus and minus, is our meetups. Around four times a year, we do an in-person team meetup, and since we are all over the world, the meetups can be all over the world. I've traveled to Lisbon, Portland and Austin and missed Denmark due to a conflict with my daughters baptism. This is the minus side, traveling around the world is great, but I have a family and young girls so its extra hard for me being away especially on my wife. We &#8220;joke&#8221; on my team that the true cost of the meetup is when we come back; costs include: new fridges, remodeled rooms, dog for the kids, etc..
+A big plus and minus, is our meetups. Around four times a year, we do an in-person team meetup, and since we are all over the world, the meetups can be all over the world. I've traveled to Lisbon, Portland and Austin and missed Denmark due to a conflict with my daughters baptism. This is the minus side, traveling around the world is great, but I have a family and young girls so its extra hard for me being away especially on my wife. We &#8220;joke" on my team that the true cost of the meetup is when we come back; costs include: new fridges, remodeled rooms, dog for the kids, etc..
 
 In summary, the year has been great, challenging in many aspects but to be expected with a new company, massive scale and a new distributed working style. It took some time to adjust but the positives by far outweigh the negatives, I enjoy the distributed aspects and working with some of the top technologist in the world.
 

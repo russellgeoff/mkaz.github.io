@@ -3,7 +3,6 @@ id: 718
 title: How to use Scala and Lucene to create a basic search application
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=718
 permalink: /2011/06/28/how-to-use-scala-and-lucene-to-create-a-basic-search-application/
 categories:
   - scala

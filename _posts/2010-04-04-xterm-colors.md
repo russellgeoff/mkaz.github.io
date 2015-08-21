@@ -3,7 +3,6 @@ id: 966
 title: Xterm Colors
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=966
 permalink: /2010/04/04/xterm-colors/
 categories:
   - solutions log

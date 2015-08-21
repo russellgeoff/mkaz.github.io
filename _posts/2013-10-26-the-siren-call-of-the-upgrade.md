@@ -3,7 +3,6 @@ id: 623
 title: The Siren Call of the Upgrade
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=623
 permalink: /2013/10/26/the-siren-call-of-the-upgrade/
 publicize_twitter_user:
   - mkaz

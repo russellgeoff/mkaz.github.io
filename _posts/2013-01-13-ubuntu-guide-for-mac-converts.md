@@ -3,7 +3,6 @@ id: 730
 title: Ubuntu Guide for Mac Converts
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=730
 permalink: /2013/01/13/ubuntu-guide-for-mac-converts/
 categories:
   - solutions log
@@ -29,7 +28,7 @@ The Mac command **open** will open a file using its default application, the lin
 
 ### Screen Capture
 
-There are numerous screen capture tools available on Ubuntu, it comes packages with **screenshot** which maps nicely to my &#8220;Print Screen&#8221; key on my keyboard. You can script screen capture by using ImageMagick's **import**. Calling import with a filename will be the equivalent of Mac's Command-Shift-4, which you can select the area you want to capture.
+There are numerous screen capture tools available on Ubuntu, it comes packages with **screenshot** which maps nicely to my &#8220;Print Screen" key on my keyboard. You can script screen capture by using ImageMagick's **import**. Calling import with a filename will be the equivalent of Mac's Command-Shift-4, which you can select the area you want to capture.
 
 `$ import my-screenshot.png`
 

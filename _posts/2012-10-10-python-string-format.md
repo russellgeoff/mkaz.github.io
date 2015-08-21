@@ -3,7 +3,6 @@ id: 677
 title: Python String Format Cookbook
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=677
 permalink: /2012/10/10/python-string-format/
 categories:
   - python
@@ -51,7 +50,7 @@ You can also use the numeric position of the variables and change them in the st
 s2 = " {1} is better than {0} ".format("emacs", "vim")
 </code></pre>
 
-## Older &#8220;%&#8221; string formatter
+## Older &#8220;%" string formatter
 
 Prior to python 2.6, the way to format strings tended to be a bit simpler, though limited with the number of arguments it can receive. These methods still work as of Python 3.3, but there are veiled threats of deprecating them completely though no time table. [[PEP-3101][1]]
 
@@ -70,7 +69,7 @@ s3 = " %s and %s living together" % (s1, s2)
 
 ### Not Enough Arguments
 
-Using the older format method, I would often get the error &#8220;TypeError: not enough arguments for format string&#8221; because I miscounted my substitution, do something like the following made it easy to miss a variable.
+Using the older format method, I would often get the error &#8220;TypeError: not enough arguments for format string" because I miscounted my substitution, do something like the following made it easy to miss a variable.
 
 <pre><code class="python">set = " (%s, %s, %s, %s, %s, %s, %s, %s) " % (a,b,c,d,e,f,g,h,i)
 </code></pre>

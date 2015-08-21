@@ -3,7 +3,6 @@ id: 465
 title: Use Python + Selenium to Automate Web Timing
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=465
 permalink: /2012/03/07/use-python-selenium-to-automate-web-timing/
 categories:
   - python

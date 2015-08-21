@@ -3,7 +3,6 @@ id: 710
 title: Using Scala with JDBC to connect to MySQL
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=710
 permalink: /2011/05/27/using-scala-with-jdbc-to-connect-to-mysql/
 categories:
   - scala

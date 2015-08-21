@@ -3,7 +3,6 @@ id: 481
 title: 'XML: Scalability Limitations'
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=481
 permalink: /2003/01/27/xml-scalability-limitations/
 categories:
   - classics

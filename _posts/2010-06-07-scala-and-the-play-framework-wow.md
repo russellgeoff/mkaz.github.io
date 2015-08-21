@@ -3,7 +3,6 @@ id: 479
 title: Scala and the Play Framework, Wow!
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=479
 permalink: /2010/06/07/scala-and-the-play-framework-wow/
 categories:
   - scala

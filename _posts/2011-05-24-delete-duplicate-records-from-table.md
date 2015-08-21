@@ -3,7 +3,6 @@ id: 658
 title: Delete Duplicate Records from Table
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=658
 permalink: /2011/05/24/delete-duplicate-records-from-table/
 categories:
   - solutions log

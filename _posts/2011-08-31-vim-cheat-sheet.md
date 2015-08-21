@@ -3,7 +3,6 @@ id: 735
 title: Vim Cheat Sheet
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=735
 permalink: /2011/08/31/vim-cheat-sheet/
 publicize_twitter_user:
   - mkaz

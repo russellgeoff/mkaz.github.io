@@ -3,7 +3,6 @@ id: 3468
 title: Google Billboard Problems
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3468
 permalink: /2004/07/29/google-billboard-problems/
 categories:
   - math

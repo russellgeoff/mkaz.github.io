@@ -3,14 +3,13 @@ id: 3614
 title: Strata Data Conference Recap
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3614
 permalink: /2011/02/06/strata-data-conference-recap/
 categories:
   - dataviz
 tags:
   - strata
 ---
-This last week I attended the inaugural Strata Conference, a conference titled &#8220;making data work&#8221;. It broke into a few different tracks, (1) **handling big data**, scaling infrastructure, for example hadoop and cassandra systems, (2) **data visualizations**, how to present data, graphics and tons of examples and (3) **data sets and cool shit you can do with data**. I focused most of my time around (2) and (3), I'm no longer geek enough to hang with the big data boys and girls, but I prefer the analyzing and doing something with the data more.
+This last week I attended the inaugural Strata Conference, a conference titled &#8220;making data work". It broke into a few different tracks, (1) **handling big data**, scaling infrastructure, for example hadoop and cassandra systems, (2) **data visualizations**, how to present data, graphics and tons of examples and (3) **data sets and cool shit you can do with data**. I focused most of my time around (2) and (3), I'm no longer geek enough to hang with the big data boys and girls, but I prefer the analyzing and doing something with the data more.
 
 Here's a brief recap of the conference from my view plus links to good information and further exploration. The next Strata conference is in New York in September and they already plan to bring it back to the Bay Area next year. [More info at O'Reilly][1]
 
@@ -18,7 +17,7 @@ Here's a brief recap of the conference from my view plus links to good informati
 
 I went to several talks on presenting data and visualizations, unfortunately most were around advice and theory and less specifics around the tools and how they do it. The talks were still really informative and inspiring to see so many of the great things being worked on and developed. The main advice was to **Have a Message**, the data itself is not the message, but can help reveal it. Don't focus so much on data, but on the story it tells or the action it motivates.
 
-> &#8220;data is a dish best served raw&#8221; 
+> &#8220;data is a dish best served raw" 
 
 A slightly contrarian view to having a message was to provide the user with the tools to explore the data. Allow the user to be able to create their own stories from the data. This all depends on the data set, do not expect users to derive the same message from the same data. Everyone brings different views and analytical abilities when looking at data and visualizations.
 
@@ -54,7 +53,7 @@ Clean data > More Data > Fancy Math &#8211; this is the order which makes data e
 
 There is a ton of data already existing in your organization, start collecting and categorizing it now. One way is to gather a data dictionary which could be as simple as just a list on the wiki of data information and links to their source.
 
-Standardize &#8211; &#8220;We threw out non-Hadoop code that was faster&#8221; at LinkedIn. The code might of been faster but standardization was more important when the teams were all using the same code; communication and sharing was easier and productivity improved.
+Standardize &#8211; &#8220;We threw out non-Hadoop code that was faster" at LinkedIn. The code might of been faster but standardization was more important when the teams were all using the same code; communication and sharing was easier and productivity improved.
 
 ### Examples 
 

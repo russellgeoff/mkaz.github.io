@@ -3,7 +3,6 @@ id: 728
 title: 'Tmux &#8211; Terminal Multiplexer'
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=728
 permalink: /2012/07/27/tmux-terminal-multiplexer/
 categories:
   - solutions log
@@ -12,7 +11,7 @@ tags:
   - screen
   - tmux
 ---
-**tmux** is a terminal multiplexer, or you can consider it a &#8220;window&#8221; or &#8220;tab&#8221; manager for the terminal. I've been a user of **screen** for a long time, but switched to tmux due to screen development being stale, it stayed stable but not as easy to use; leaving the door open for Tmux which is easier and more capable.
+**tmux** is a terminal multiplexer, or you can consider it a &#8220;window" or &#8220;tab" manager for the terminal. I've been a user of **screen** for a long time, but switched to tmux due to screen development being stale, it stayed stable but not as easy to use; leaving the door open for Tmux which is easier and more capable.
 
 ### Basics
 
@@ -20,7 +19,7 @@ Tmux is typically not installed by default, but is available in most package rep
 
 To start a session simply: `$ tmux`
 
-Once started, you issue commands using `ctrl-b` (default), this is called the &#8220;prefix&#8221;. You can also map another key, I'm used to using `ctrl-w` in screen, so I remap mine in tmux.
+Once started, you issue commands using `ctrl-b` (default), this is called the &#8220;prefix". You can also map another key, I'm used to using `ctrl-w` in screen, so I remap mine in tmux.
 
 To rebind keys: create `~/.tmux.conf`
 
@@ -113,7 +112,7 @@ The default split window commands are as follows:
 <table cellpadding="6" cellspacing="0" border="1">
   <tr>
     <td>
-      ctrl-w &#8221;
+      ctrl-w "
     </td>
     
     <td>

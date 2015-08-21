@@ -3,7 +3,6 @@ id: 3441
 title: Down the Rat Hole
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3441
 permalink: /2014/06/30/down-the-rat-hole/
 categories:
   - technology
@@ -13,7 +12,7 @@ tags:
 ---
 I wake up early each morning, to enjoy a cup of coffee and get a little work in maybe on a side project or learn something new a little me time before my girls get up. I'll first read Hacker News, Twitter or whatever to get focused and wake up before jumping into coding.
 
-Here's a typical scenario, &#8220;Hey checkout it out a guy built his own weather station at home. This looks pretty interesting. Oh look a few links on the equipment he is using.&#8221; Down the rat hole we go.
+Here's a typical scenario, &#8220;Hey checkout it out a guy built his own weather station at home. This looks pretty interesting. Oh look a few links on the equipment he is using." Down the rat hole we go.
 
 Wow, this looks pretty cool, a bit of a challenge but I can do this! Plus I have a Raspberry Pi laying around after reading that article about the guy who built that something or other. It is just waiting for a project to do and weather is cool, I like to know the temperature!
 

@@ -3,7 +3,6 @@ id: 720
 title: Using Regular Expressions in Scala
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=720
 permalink: /2011/05/24/using-regular-expressions-in-scala/
 categories:
   - scala

@@ -3,7 +3,6 @@ id: 732
 title: GNU Screen Utility
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=732
 permalink: /2008/05/01/gnu-screen-utility/
 categories:
   - solutions log

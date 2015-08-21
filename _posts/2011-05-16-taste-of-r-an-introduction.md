@@ -3,7 +3,6 @@ id: 3593
 title: 'Taste of R: An Introduction'
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3593
 permalink: /2011/05/16/taste-of-r-an-introduction/
 categories:
   - dataviz

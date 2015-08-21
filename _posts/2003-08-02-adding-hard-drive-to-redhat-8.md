@@ -3,7 +3,6 @@ id: 455
 title: Adding hard drive to RedHat 8
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=455
 permalink: /2003/08/02/adding-hard-drive-to-redhat-8/
 categories:
   - classics

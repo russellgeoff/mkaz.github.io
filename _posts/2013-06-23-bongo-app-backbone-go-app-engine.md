@@ -3,7 +3,6 @@ id: 480
 title: 'Bongo App: Backbone + Go + App Engine'
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=480
 permalink: /2013/06/23/bongo-app-backbone-go-app-engine/
 categories:
   - technology

@@ -3,7 +3,6 @@ id: 880
 title: Python Culture
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=880
 permalink: /2014/01/21/python-culture/
 categories:
   - python

@@ -3,7 +3,6 @@ id: 469
 title: How to speed up your website or blog
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=469
 permalink: /2011/10/17/how-to-speed-up-your-website-or-blog/
 categories:
   - technology
@@ -89,7 +88,7 @@ If you use JQuery, or other common libraries, load them from Google. The more pe
 
 * * *
 
-**A little overboard** &#8211; If you want to go crazy, reduce the name of directories, files, etc. For my assets, I simply use the directory letter &#8220;a&#8221; instead of the longer &#8220;images&#8221;. This saves 5-bytes in every load, not a huge difference but its simple enough to do, so why not.
+**A little overboard** &#8211; If you want to go crazy, reduce the name of directories, files, etc. For my assets, I simply use the directory letter &#8220;a" instead of the longer &#8220;images". This saves 5-bytes in every load, not a huge difference but its simple enough to do, so why not.
 
 * * *
 
@@ -149,7 +148,7 @@ The only items Page Speed dings me on now are ones Google itself controls, by us
 
 Here are the errors from Google's own files:
 
-The following publicly cacheable, compressible resources should have a &#8220;Vary: Accept-Encoding&#8221; header:  
+The following publicly cacheable, compressible resources should have a &#8220;Vary: Accept-Encoding" header:  
 http://pagead2.googlesyndication.com/&#8230;/expansion_embed.js  
 http://pagead2.googlesyndication.com/&#8230;/show\_ads\_impl.js  
 http://pagead2.googlesyndication.com/pagead/show_ads.js

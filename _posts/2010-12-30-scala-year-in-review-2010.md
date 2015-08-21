@@ -3,7 +3,6 @@ id: 483
 title: Scala Year in Review 2010
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=483
 permalink: /2010/12/30/scala-year-in-review-2010/
 categories:
   - scala
@@ -20,7 +19,7 @@ Also [Lift][8] released a major version 2.0. Founder David Pollak described Lift
 
 ### News and Events
 
-Martin Odersky started **ScalaSolutions** a company to provide support, consulting, training and enterprise tools around Scala. An important event because it clearly and tangibly demonstrates that Odersky does not view Scala as just an &#8220;academic&#8221; language, criticism it often receives. [Press Release Oct 4, 2010][9]
+Martin Odersky started **ScalaSolutions** a company to provide support, consulting, training and enterprise tools around Scala. An important event because it clearly and tangibly demonstrates that Odersky does not view Scala as just an &#8220;academic" language, criticism it often receives. [Press Release Oct 4, 2010][9]
 
 **Scala recognition continues to grow** &#8211; This survey on Java Net Blog shows that Scala is succeeding growing into a widely used mainstream language. [Survey Results][10]
 

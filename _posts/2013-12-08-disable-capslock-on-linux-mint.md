@@ -3,7 +3,6 @@ id: 791
 title: Disable CapsLock on Linux Mint
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=791
 permalink: /2013/12/08/disable-capslock-on-linux-mint/
 publicize_twitter_user:
   - mkaz

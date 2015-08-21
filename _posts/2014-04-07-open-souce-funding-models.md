@@ -3,7 +3,6 @@ id: 1070
 title: Open Souce Funding Models
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=1070
 permalink: /2014/04/07/open-souce-funding-models/
 geo_latitude:
   - 0.000000

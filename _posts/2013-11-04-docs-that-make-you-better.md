@@ -3,7 +3,6 @@ id: 656
 title: Docs that make you better
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=656
 permalink: /2013/11/04/docs-that-make-you-better/
 publicize_twitter_user:
   - mkaz

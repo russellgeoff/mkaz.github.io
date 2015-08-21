@@ -3,7 +3,6 @@ id: 3596
 title: xkcd graph style in d3
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3596
 permalink: /2012/10/01/xkcd-graph-style-in-d3/
 categories:
   - dataviz

@@ -19,7 +19,7 @@ The methodology is find something close to what you want to build; copy-and-past
 
 I ended up doing all sorts of tweaking of paddings, margins and widths and was really struggling getting what I wanted. After wasting too much time with that, I finally stopped asked myself *what am I trying to accomplish?*. After knowing this, I refreshed myself on how the css box model works and with that understanding, I then was quickly able to set it up exactly how I intended and it worked.
 
-Now many times a developer will get it &#8220;close enough&#8221; from tweaking and release it. Bugs will come in due to cross-browser issues, unintended input, etc. The developer goes back and tweaks for that case, and repeat. The end result is a whole lot of fragile code.
+Now many times a developer will get it &#8220;close enough" from tweaking and release it. Bugs will come in due to cross-browser issues, unintended input, etc. The developer goes back and tweaks for that case, and repeat. The end result is a whole lot of fragile code.
 
 Another example, I see this is in character encoding and special characters, which is rather complex. If you just tweak and handle edge cases, and not really setup and understand properly, then you'll continually be chasing your tail.
 

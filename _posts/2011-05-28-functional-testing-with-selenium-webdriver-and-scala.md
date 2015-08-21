@@ -3,7 +3,6 @@ id: 712
 title: Functional Testing with Selenium WebDriver and Scala
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=712
 permalink: /2011/05/28/functional-testing-with-selenium-webdriver-and-scala/
 categories:
   - scala

@@ -3,7 +3,6 @@ id: 4371
 title: Testing Clients to an HTTP API in Go
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=4371
 permalink: /2014/11/03/testing-clients-to-an-http-api-in-go/
 categories:
   - solutions log

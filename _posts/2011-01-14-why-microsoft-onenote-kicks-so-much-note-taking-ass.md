@@ -3,7 +3,6 @@ id: 3691
 title: Why Microsoft OneNote kicks so much note taking ass!
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/2011/01/14/why-microsoft-onenote-kicks-so-much-note-taking-ass/
 permalink: /2011/01/14/why-microsoft-onenote-kicks-so-much-note-taking-ass/
 categories:
   - misc

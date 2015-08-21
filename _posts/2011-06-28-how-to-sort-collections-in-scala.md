@@ -3,7 +3,6 @@ id: 716
 title: How to Sort Collections in Scala
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=716
 permalink: /2011/06/28/how-to-sort-collections-in-scala/
 categories:
   - scala

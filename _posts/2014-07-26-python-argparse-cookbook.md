@@ -3,7 +3,6 @@ id: 3730
 title: Python Argparse Cookbook
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3730
 permalink: /2014/07/26/python-argparse-cookbook/
 categories:
   - python

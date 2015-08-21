@@ -3,7 +3,6 @@ id: 3553
 title: Customer surveys, and the lies they tell
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3553
 permalink: /2014/07/09/customer-surveys-and-the-lies-they-tell/
 categories:
   - technology
@@ -15,9 +14,9 @@ In the past few years I've traded in and purchased two new cars, because kids. E
 
 It took shorter the second time because I asked them to start the appraisal process before I did any test drives or even started talking. It was in my opening hello.
 
-Them: &#8220;Hi, how can we help you today?&#8221;
+Them: &#8220;Hi, how can we help you today?"
 
-Me: &#8220;I want to buy a new car and trading in this car, let's start the appraisal process now.&#8221;
+Me: &#8220;I want to buy a new car and trading in this car, let's start the appraisal process now."
 
 However, each time, after negotiating and deciding on a final price for both trade-in and new car purchase it still took another 90 minutes to complete the transaction. This is the part that absolutely baffles me. There is nothing to do but draw up paperwork, sign and be done. Once I get into the finance guys office it is all done in 15 minutes. I have no idea what happens in the dead 75 minutes between.
 

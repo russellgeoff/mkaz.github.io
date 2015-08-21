@@ -3,7 +3,6 @@ id: 557
 title: How does Apple do it?
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=557
 permalink: /2011/01/28/how-does-apple-do-it/
 categories:
   - technology
@@ -13,7 +12,7 @@ tags:
 ---
 I often hear people ask, how does Apple do it? How are they able to release amazing products time and time again, products that redefine markets, products that are beautifully designed? The answer seems very clear to me, focus. Apple has a single minded focus and commitment to producing great products.
 
-This is not just a slogan or corporate vision, the Oakland Raiders have their &#8220;Commitment to Excellence&#8221; but when the rubber meets the road, does anyone see that commitment? While Apple does not even need to state a vision, it permeates and oozes out of every pore of the company. Every product they release, every store they open, all marketing and communications, everything is all very Apple.
+This is not just a slogan or corporate vision, the Oakland Raiders have their &#8220;Commitment to Excellence" but when the rubber meets the road, does anyone see that commitment? While Apple does not even need to state a vision, it permeates and oozes out of every pore of the company. Every product they release, every store they open, all marketing and communications, everything is all very Apple.
 
 Steve Jobs and Jonathan Ive have no magic potion, they are both obviously smart guys, but I hate to tell you the magic they have is not in the ability to imagine or design amazing products. You can check out an Apple forum nearing any launch and see amazing designs and ideas from hundreds of people. The design and ideas aren't amazing, it comes down to the execution; this is where Apple becomes brilliant.
 

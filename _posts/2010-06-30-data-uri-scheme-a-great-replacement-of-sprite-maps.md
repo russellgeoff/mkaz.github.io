@@ -3,7 +3,6 @@ id: 693
 title: Data URI Scheme, a great replacement of sprite maps
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=693
 permalink: /2010/06/30/data-uri-scheme-a-great-replacement-of-sprite-maps/
 categories:
   - solutions log

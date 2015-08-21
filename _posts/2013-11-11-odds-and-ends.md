@@ -3,7 +3,6 @@ id: 752
 title: Odds and Ends
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=752
 permalink: /2013/11/11/odds-and-ends/
 publicize_twitter_user:
   - mkaz

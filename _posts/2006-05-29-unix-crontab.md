@@ -3,7 +3,6 @@ id: 490
 title: Unix Crontab
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=490
 permalink: /2006/05/29/unix-crontab/
 categories:
   - solutions log

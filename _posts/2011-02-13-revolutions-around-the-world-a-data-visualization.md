@@ -3,7 +3,6 @@ id: 3609
 title: Revolutions around the World, a data visualization
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3609
 permalink: /2011/02/13/revolutions-around-the-world-a-data-visualization/
 categories:
   - dataviz

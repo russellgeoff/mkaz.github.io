@@ -3,7 +3,6 @@ id: 3827
 title: A Day in the Life
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3827
 permalink: /2014/10/06/a-day-in-the-life/
 categories:
   - technology

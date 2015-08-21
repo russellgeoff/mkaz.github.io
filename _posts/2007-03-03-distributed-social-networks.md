@@ -3,7 +3,6 @@ id: 492
 title: Distributed Social Networks
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=492
 permalink: /2007/03/03/distributed-social-networks/
 categories:
   - classics

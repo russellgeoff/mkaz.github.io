@@ -3,7 +3,6 @@ id: 482
 title: A strange red light from my MacBook Pro
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=482
 permalink: /2007/05/04/a-strange-red-light-from-my-macbook-pro/
 categories:
   - solutions log
@@ -42,7 +41,7 @@ After a little more searching, configuration changes and attempts to restore aud
   <br /> -From Max</p>
 
   <hr />
-  Wow&#8230;thanks for all the tips. I'm over in Germany and had this problem on my wife's MBP. I tried inserting, removing and wiggling the port with the headphone jack. It didn't work. I tried with a toothpick in several positions and finally just &#8220;flicked&#8221; it several times across the base of the port. It's back to normal. My guess is that there's some kind of sensor in the base of the port that get's stuck and needs to be reset. Whatever the case we're back to listening to Bob Marley.
+  Wow&#8230;thanks for all the tips. I'm over in Germany and had this problem on my wife's MBP. I tried inserting, removing and wiggling the port with the headphone jack. It didn't work. I tried with a toothpick in several positions and finally just &#8220;flicked" it several times across the base of the port. It's back to normal. My guess is that there's some kind of sensor in the base of the port that get's stuck and needs to be reset. Whatever the case we're back to listening to Bob Marley.
   <br /> -From RogerDodger</p>
 
   <hr />
@@ -72,6 +71,6 @@ After a little more searching, configuration changes and attempts to restore aud
   <br /> -From Melanie</p>
 
   <hr />
-  I had this same exact &#8220;Red Light&#8221; problem, I was without sound for three day!!!! I called the technical support number and even made an appointment with the Mac Store. I missed my appointment so I decided to take matters into my own hands and do a little searching for myself&#8230;. I didn't have a toothpick so i used a hairpin&#8230;..It definitely got the Job done!!!
+  I had this same exact &#8220;Red Light" problem, I was without sound for three day!!!! I called the technical support number and even made an appointment with the Mac Store. I missed my appointment so I decided to take matters into my own hands and do a little searching for myself&#8230;. I didn't have a toothpick so i used a hairpin&#8230;..It definitely got the Job done!!!
   <br /> -From Nisey
 </div>

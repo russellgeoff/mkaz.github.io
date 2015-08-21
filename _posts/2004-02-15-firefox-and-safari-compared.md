@@ -3,7 +3,6 @@ id: 458
 title: Firefox and Safari Compared
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=458
 permalink: /2004/02/15/firefox-and-safari-compared/
 categories:
   - classics

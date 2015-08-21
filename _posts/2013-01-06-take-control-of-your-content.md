@@ -3,7 +3,6 @@ id: 556
 title: Take Control of Your Content
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=556
 permalink: /2013/01/06/take-control-of-your-content/
 publicize_twitter_user:
   - mkaz

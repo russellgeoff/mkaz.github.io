@@ -3,7 +3,6 @@ id: 3612
 title: Needlebase and playing with movie data
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3612
 permalink: /2011/02/11/needlebase-and-playing-with-movie-data/
 categories:
   - dataviz

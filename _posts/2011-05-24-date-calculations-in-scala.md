@@ -3,7 +3,6 @@ id: 722
 title: Date Calculations in Scala
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=722
 permalink: /2011/05/24/date-calculations-in-scala/
 categories:
   - scala

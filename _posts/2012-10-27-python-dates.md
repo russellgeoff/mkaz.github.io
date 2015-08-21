@@ -3,7 +3,6 @@ id: 686
 title: Python Dates
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=686
 permalink: /2012/10/27/python-dates/
 categories:
   - python
@@ -123,7 +122,7 @@ Printing dates in various formats is relatively straight forward, here's one exa
     </td>
 
     <td>
-      A &#8220;random&#8221; date and time representation.
+      A &#8220;random" date and time representation.
     </td>
 
     <td>
@@ -409,7 +408,7 @@ in_five_minutes = dt + timedelta(minutes=5)
 Valid timedelta properties are:  
 ` weeks, days, hours, minutes, seconds, microseconds, milliseconds `
 
-You might notice that a &#8220;year&#8221; timedelta is absent, don't b tempted to do days=365, this would be off for leap-years. I would recommend something like the following:
+You might notice that a &#8220;year" timedelta is absent, don't b tempted to do days=365, this would be off for leap-years. I would recommend something like the following:
 
 <pre><code class="python">st = datetime(year=2011, month=3, day=17)
 next_year = datetime(year=st.year+1, month=st.month, day=st.day)

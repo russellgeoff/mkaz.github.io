@@ -3,7 +3,6 @@ id: 5884
 title: Setting the Featured Image in WordPress
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=5884
 permalink: /2015/01/13/setting-the-featured-image-in-wordpress/
 categories:
   - solutions log

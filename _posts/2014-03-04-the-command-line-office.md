@@ -3,7 +3,6 @@ id: 1031
 title: The Command-Line Office
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=1031
 permalink: /2014/03/04/the-command-line-office/
 publicize_google_plus_url:
   - https://plus.google.com/115308324500133456489/posts/bhhmeF78WhJ

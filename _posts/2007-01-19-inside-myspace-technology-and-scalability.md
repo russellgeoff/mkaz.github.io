@@ -3,7 +3,6 @@ id: 494
 title: 'Inside MySpace &#8211; technology and scalability'
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=494
 permalink: /2007/01/19/inside-myspace-technology-and-scalability/
 categories:
   - classics

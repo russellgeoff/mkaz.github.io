@@ -3,7 +3,6 @@ id: 3606
 title: Strata 2012 Attendee Analysis
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3606
 permalink: /2012/02/22/strata-2012-attendee-analysis/
 categories:
   - dataviz
@@ -29,7 +28,7 @@ A few scripts later and a bit of analysis I produced the following data, which p
   4. Founder (35) 
   5. Data Scientist (33) 
 
-<small>Note: Title data is very wonky due to no standards and multiple entries per line such as &#8220;Founder/CEO and Data Scientist&#8221; and people getting cute such as &#8220;CIO at Large&#8221; &#8211; I massaged a little, removing ranks (Senior, Sr., Principal, Lead) separating roles, etc&#8230; but gave up after awhile too chaotic.</small>
+<small>Note: Title data is very wonky due to no standards and multiple entries per line such as &#8220;Founder/CEO and Data Scientist" and people getting cute such as &#8220;CIO at Large" &#8211; I massaged a little, removing ranks (Senior, Sr., Principal, Lead) separating roles, etc&#8230; but gave up after awhile too chaotic.</small>
 
 * * *
 

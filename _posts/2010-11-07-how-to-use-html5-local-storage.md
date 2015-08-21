@@ -3,7 +3,6 @@ id: 702
 title: How to use HTML5 local storage
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=702
 permalink: /2010/11/07/how-to-use-html5-local-storage/
 categories:
   - solutions log

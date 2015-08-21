@@ -3,7 +3,6 @@ id: 3603
 title: Strata Data Conference Recap 2012
 author: Marcus Kazmierczak
 layout: post
-guid: https://mkaz.com/?p=3603
 permalink: /2012/03/05/strata-data-conference-recap-2012/
 categories:
   - dataviz

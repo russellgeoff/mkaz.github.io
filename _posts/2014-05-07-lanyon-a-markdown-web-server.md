@@ -3,7 +3,6 @@ id: 1105
 title: Lanyon, a markdown web server
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=1105
 permalink: /2014/05/07/lanyon-a-markdown-web-server/
 geo_public:
   - 0

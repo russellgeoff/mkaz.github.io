@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background: $white;
+    font: 16px/1.4 $helvetica;
+    color: $darkGray;
 }
 
 .container {
@@ -104,6 +104,11 @@ em, i {
 
 strong, b {
   font-weight: bold;
+}
+
+small {
+    font-size: 12px;
+    color: #999;
 }
 
 img {
@@ -251,6 +256,10 @@ ul.posts {
         font-family: "Droid Sans Mono", monospace;
         font-size: 14px;
         margin-right: 8px;
+    }
+
+    li {
+        margin-bottom: 6px;
     }
 }
 

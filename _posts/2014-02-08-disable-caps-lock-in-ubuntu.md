@@ -3,7 +3,6 @@ id: 985
 title: Disable Caps Lock in Ubuntu
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=985
 permalink: /2014/02/08/disable-caps-lock-in-ubuntu/
 publicize_google_plus_url:
   - https://plus.google.com/115308324500133456489/posts/AM4c2Ppkrra

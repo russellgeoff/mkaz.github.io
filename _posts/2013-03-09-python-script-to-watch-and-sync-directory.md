@@ -3,7 +3,6 @@ id: 683
 title: Python Script to Watch and Sync Directory
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=683
 permalink: /2013/03/09/python-script-to-watch-and-sync-directory/
 categories:
   - python

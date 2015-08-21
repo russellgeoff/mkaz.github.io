@@ -3,7 +3,6 @@ id: 670
 title: Python Data Science
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=670
 permalink: /2012/10/29/python-data-science/
 categories:
   - python

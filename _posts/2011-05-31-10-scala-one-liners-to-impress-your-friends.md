@@ -3,7 +3,6 @@ id: 708
 title: 10 Scala One Liners to Impress Your Friends
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=708
 permalink: /2011/05/31/10-scala-one-liners-to-impress-your-friends/
 categories:
   - scala

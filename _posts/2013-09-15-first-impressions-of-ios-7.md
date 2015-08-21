@@ -3,7 +3,6 @@ id: 608
 title: First impressions of iOS 7
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=608
 permalink: /2013/09/15/first-impressions-of-ios-7/
 categories:
   - classics
@@ -24,7 +23,7 @@ The overall OS feels good and usable, lots of small niceties added such as the h
 
 <a href="http://ebeab.com/2013/09/15/first-impressions-of-ios-7/photo/" rel="attachment wp-att-609"><img src="https://mkaz.com/wp-content/uploads/2013/09/photo.jpg?w=169" alt="controlpanel" width="169" height="300" class="alignright size-medium wp-image-609" /></a>
 
-Similarly, swiping down from the top gives a calendar and day view which reminds me a touch of Google Now, but not nearly as complete. If apps can start filling this in and making up for the lacking &#8220;cards&#8221; then it could be quite usable. Even as just quick access to calendar is nice.
+Similarly, swiping down from the top gives a calendar and day view which reminds me a touch of Google Now, but not nearly as complete. If apps can start filling this in and making up for the lacking &#8220;cards" then it could be quite usable. Even as just quick access to calendar is nice.
 
 The OS is a good improvement, but not perfect. My minor gripes are its a little too swoopy, lots of animation between screens and apps. It is only a few milliseconds but it does introduce a slight delay.
 

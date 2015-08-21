@@ -3,7 +3,6 @@ id: 471
 title: 'Rich Text Editor &#8211; IE, Firefox, Safari ?'
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=471
 permalink: /2007/01/17/rich-text-editor-ie-firefox-safari/
 categories:
   - classics

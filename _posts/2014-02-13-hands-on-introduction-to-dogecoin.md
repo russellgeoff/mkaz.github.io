@@ -3,7 +3,6 @@ id: 1007
 title: Hands on Introduction to Dogecoin
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=1007
 permalink: /2014/02/13/hands-on-introduction-to-dogecoin/
 publicize_google_plus_url:
   - https://plus.google.com/115308324500133456489/posts/66dWogRorYS
@@ -22,7 +21,7 @@ This week's newsletter I try to figure out what is going on in the world of cryp
 
 I have a degree in math and stats so crypto-currencies interested me from the math and technical side; but I didn't really see much practicality in them and a little too much anarchy.
 
-However, Dogecoin came along and dismissed the notions of being practical and trying to be a legitimate alternative-currency and was having fun with it. A lot less overthrow-the-governments and a lot more &#8220;to the moon&#8221; silliness. They made it approachable and set a fairly low bar so most people can participate.
+However, Dogecoin came along and dismissed the notions of being practical and trying to be a legitimate alternative-currency and was having fun with it. A lot less overthrow-the-governments and a lot more &#8220;to the moon" silliness. They made it approachable and set a fairly low bar so most people can participate.
 
 I started to read a bit more about Dogecoin and even made a sad first attempt to use it. I downloaded the wallet, scratched my head while it took hours to sync and then it didn't really do anything. It wasn't until last week my coworkers [@TooTallNate][1] and [@rauchg][2] were playing with it that I got anywhere. Nate gave me a couple of pointers and got me started.
 
@@ -79,9 +78,9 @@ During that time, I realized that pool didn't have much fire power and joined a 
 
 You can find a [large list of pools available here][8], and to join you can simply follow the registration instructions on the pool, some require email verification.
 
-Once you have joined a pool, you need to create some workers. Click the &#8220;My Workers&#8221; link and add a worker. Use a simple worker name and password, the worker is the info you feed the mining program to identify who should get credit for the mining being done.
+Once you have joined a pool, you need to create some workers. Click the &#8220;My Workers" link and add a worker. Use a simple worker name and password, the worker is the info you feed the mining program to identify who should get credit for the mining being done.
 
-The last bit of info you need is the URL for the mining, this is typically found under the &#8220;Getting Started&#8221; link on the mining pool. For my pool it looks like `stratum+tcp://stratum2.dogechain.info:3333`
+The last bit of info you need is the URL for the mining, this is typically found under the &#8220;Getting Started" link on the mining pool. For my pool it looks like `stratum+tcp://stratum2.dogechain.info:3333`
 
 ## Mining Locally
 
@@ -96,7 +95,7 @@ So download one of the miners above, and for the command-line miners you configu
 <pre class="brush: plain; title: ; notranslate" title="">./minerd -o stratum+tcp://stratum2.dogechain.info:3333 -u user.worker -p password
 </pre>
 
-**Note:** I initially confused the worker username, your user is prepended with a dot to the name you give. So if your username is &#8220;marcus&#8221; and your worker name &#8220;mac&#8221; &#8211; you would pass &#8220;marcus.mac&#8221;
+**Note:** I initially confused the worker username, your user is prepended with a dot to the name you give. So if your username is &#8220;marcus" and your worker name &#8220;mac" &#8211; you would pass &#8220;marcus.mac"
 
 Once configured or running, your miner will report how many hashes it is, you can confirm the pool is receiving it by going to the dashboard. You can see your hash rate there.
 

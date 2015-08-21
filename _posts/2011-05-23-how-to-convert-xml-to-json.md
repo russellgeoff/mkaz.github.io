@@ -3,7 +3,6 @@ id: 714
 title: How to Convert XML to JSON
 author: Marcus Kazmierczak
 layout: post
-guid: http://ebeab.com/?p=714
 permalink: /2011/05/23/how-to-convert-xml-to-json/
 categories:
   - scala
