@@ -4,12 +4,6 @@ title: Hands on Introduction to Dogecoin
 author: Marcus Kazmierczak
 layout: post
 permalink: /2014/02/13/hands-on-introduction-to-dogecoin/
-publicize_google_plus_url:
-  - https://plus.google.com/115308324500133456489/posts/66dWogRorYS
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/JbCtpoYGLs
 categories:
   - technology
 tags:
@@ -45,9 +39,10 @@ After the coins are mined, they are delivered to your Dogecoin address, and you 
 
 The first thing you need is to download a Dogecoin wallet, this will give you a Dogecoin address. You can download a wallet for most platforms at [Dogecoin.com][3], you can even get mobile or online wallets. Unfortunately they don't have a pre-built binary for Linux, here's [a guide on dogecoin and linux][4], the quick install
 
-<pre class="brush: plain; title: ; notranslate" title="">sudo add-apt-repository ppa:cwayne18/doge
+```
+sudo add-apt-repository ppa:cwayne18/doge
 sudo apt-get update &amp;&amp; sudo apt-get install dogecoin-qt
-</pre>
+```
 
 Once you have your wallet installed, run it and you were see something like this.
 
@@ -156,15 +151,15 @@ See further resources below to dive deeper into the world of Dogecoin and if you
  [2]: https://twitter.com/rauchg
  [3]: http://dogecoin.com/
  [4]: http://www.reddit.com/r/dogecoin/comments/1tvmnd/dogecoin_on_linux_the_complete_beginners_guide/
- [5]: http://ebeab.files.wordpress.com/2014/02/doge-wallet.png
+ [5]: /images/doge-wallet.png
  [6]: http://doge-pool.com/
  [7]: http://pool.dogechain.info
  [8]: http://www.doktorrf.com/dogecoin/pools.html
  [9]: https://github.com/ckolivas/cgminer
  [10]: http://sourceforge.net/projects/cpuminer/
  [11]: http://www.asteroidapp.com/
- [12]: http://ebeab.files.wordpress.com/2014/02/asteroid-miner.png
- [13]: http://ebeab.files.wordpress.com/2014/02/hashrate-graph.png
+ [12]: /images/asteroid-miner.png
+ [13]: /images/hashrate-graph.png
  [14]: http://bitcoinexaminer.org/20-insane-bitcoin-mining-rigs/
  [15]: http://aws.amazon.com/ec2/pricing/
  [16]: http://www.reddit.com/r/dogecoin/comments/1tvj41/free_release_cloud_computing_doges_an_open_ami/

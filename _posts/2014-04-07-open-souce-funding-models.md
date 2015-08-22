@@ -4,22 +4,6 @@ title: Open Souce Funding Models
 author: Marcus Kazmierczak
 layout: post
 permalink: /2014/04/07/open-souce-funding-models/
-geo_latitude:
-  - 0.000000
-geo_longitude:
-  - 0.000000
-geo_accuracy:
-  - 0
-geo_address:
-  - '       '
-geo_public:
-  - 0
-publicize_google_plus_url:
-  - https://plus.google.com/115308324500133456489/posts/bWRbrVYHSqc
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/4hKucCHcii
 categories:
   - technology
 tags:
@@ -111,195 +95,196 @@ Bounties are a new form of open source funding which has popped up recently. One
 It is interesting to look at the software foundation budgets, you can see that they are not employing vast amounts of developers and have minimal budgets. Here is the GNOME Foundation 2012 financial report which shows just $200k going to employees, which at today's rates would only be 1-2 full time engineers.
 
 <table width="100%">
-  <tr>
-    <th colspan="3">
-      GNOME Foundation 2012 Statement
-    </th>
-  </tr>
-  
-  <tr>
-    <td width="45%">
-      <table>
-        <tr class="odd">
-          <th align="left" colspan="2">
-            <strong>Income</strong></td> </tr> 
-            
-            <tr class="even">
-              <td align="left">
-                Advisory Board
-              </td>
-              
-              <td align="right">
-                $150,000
-              </td>
-            </tr>
-            
-            <tr class="odd">
-              <td align="left">
-                Sponsorship
-              </td>
-              
-              <td align="left">
-                $121,584
-              </td>
-            </tr>
-            
-            <tr class="even">
-              <td align="left">
-                Donations
-              </td>
-              
-              <td align="left">
-                $53,649
-              </td>
-            </tr>
-            
-            <tr class="odd">
-              <td align="left">
-                GUADEC
-              </td>
-              
-              <td align="left">
-                $84,269
-              </td>
-            </tr>
-            
-            <tr class="even">
-              <td align="left">
-                Royalties
-              </td>
-              
-              <td align="left">
-                $8,395
-              </td>
-            </tr>
-            
-            <tr class="odd">
-              <td align="left">
-                Training
-              </td>
-              
-              <td align="left">
-                $751
-              </td>
-            </tr>
-            
-            <tr class="even">
-              <td align="left">
-                TOTAL
-              </td>
-              
-              <td align="left">
-                $418,648
-              </td>
-            </tr></tbody> </table> </td> 
-            
-            <td width="10%">
-              &nbsp;
-            </td>
-            
-            <td width="45%">
-              <table>
-                <tr class="odd">
-                  <td align="left">
-                    <strong>Expenses</strong>
-                  </td>
-                  
-                  <td align="left">
-                  </td>
-                </tr>
-                
-                <tr class="even">
-                  <td align="left">
-                    Administration
-                  </td>
-                  
-                  <td align="left">
-                    $11,210
-                  </td>
-                </tr>
-                
-                <tr class="odd">
-                  <td align="left">
-                    Employees
-                  </td>
-                  
-                  <td align="left">
-                    $201,934
-                  </td>
-                </tr>
-                
-                <tr class="even">
-                  <td align="left">
-                    GUADEC
-                  </td>
-                  
-                  <td align="left">
-                    $29,953
-                  </td>
-                </tr>
-                
-                <tr class="odd">
-                  <td align="left">
-                    Hackfests
-                  </td>
-                  
-                  <td align="left">
-                    $21,932
-                  </td>
-                </tr>
-                
-                <tr class="even">
-                  <td align="left">
-                    Other Events
-                  </td>
-                  
-                  <td align="left">
-                    $34,587
-                  </td>
-                </tr>
-                
-                <tr class="odd">
-                  <td align="left">
-                    Marketing
-                  </td>
-                  
-                  <td align="left">
-                    $1,117
-                  </td>
-                </tr>
-                
-                <tr class="even">
-                  <td align="left">
-                    Contracts
-                  </td>
-                  
-                  <td align="left">
-                    $1,530
-                  </td>
-                </tr>
-                
-                <tr class="odd">
-                  <td align="left">
-                    Women's Outreach
-                  </td>
-                  
-                  <td align="left">
-                    $106,741
-                  </td>
-                </tr>
-                
-                <tr class="even">
-                  <td align="left">
-                    TOTAL
-                  </td>
-                  
-                  <td align="left">
-                    $409,004
-                  </td>
-                </tr>
-              </table>
-            </td></tr> </table>
+<tr>
+<th colspan="3" style="padding-bottom:16px">
+GNOME Foundation 2012 Statement
+</th>
+</tr>
+
+<tr>
+<td width="45%">
+<table>
+<tr class="odd">
+<th align="left" colspan="2">
+<strong>Income</strong></td> </tr>
+
+<tr class="even">
+<td align="left">
+Advisory Board
+</td>
+
+<td align="right">
+$150,000
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Sponsorship
+</td>
+
+<td align="left">
+$121,584
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+Donations
+</td>
+
+<td align="left">
+$53,649
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+GUADEC
+</td>
+
+<td align="left">
+$84,269
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+Royalties
+</td>
+
+<td align="left">
+$8,395
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Training
+</td>
+
+<td align="left">
+$751
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+TOTAL
+</td>
+
+<td align="left">
+$418,648
+</td>
+</tr></tbody> </table> </td>
+
+<td width="10%">
+&nbsp;
+</td>
+
+<td width="45%">
+<table>
+<tr class="odd">
+<td align="left">
+<strong>Expenses</strong>
+</td>
+
+<td align="left">
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+Administration
+</td>
+
+<td align="left">
+$11,210
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Employees
+</td>
+
+<td align="left">
+$201,934
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+GUADEC
+</td>
+
+<td align="left">
+$29,953
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Hackfests
+</td>
+
+<td align="left">
+$21,932
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+Other Events
+</td>
+
+<td align="left">
+$34,587
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Marketing
+</td>
+
+<td align="left">
+$1,117
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+Contracts
+</td>
+
+<td align="left">
+$1,530
+</td>
+</tr>
+
+<tr class="odd">
+<td align="left">
+Women's Outreach
+</td>
+
+<td align="left">
+$106,741
+</td>
+</tr>
+
+<tr class="even">
+<td align="left">
+TOTAL
+</td>
+
+<td align="left">
+$409,004
+</td>
+</tr>
+</table>
+</td></tr></table>
+
 
  [1]: https://bitcoinfoundation.org/support
  [2]: http://lwn.net/Articles/511260/

@@ -4,10 +4,6 @@ title: A Year Working Remotely
 author: Marcus Kazmierczak
 layout: post
 permalink: /2013/11/18/a-year-working-remotely/
-publicize_twitter_url:
-  - http://t.co/3TFxhusoYU
-publicize_twitter_user:
-  - mkaz
 categories:
   - technology
 tags:
@@ -22,7 +18,7 @@ We prefer to call it distributed working instead of the more common remote worki
 
 Remote working is receiving a lot of attention recently, for numerous reasons. The type of work many people are now doing is moving to all digital formats that only require a computer and a connection; employees tend to prefer the flexibility to work anywhere, and it can also be cheaper for the company.
 
-<img src="http://ebeab.files.wordpress.com/2013/11/ywp_book.png?w=100" alt="Year Without Pants" align="left" style="padding:8px 16px 8px 8px;" /> A book looking at Automattic's distributed work culture recently came out, the [Year without Pants][2] by Scott Berkun. Berkun worked at Automattic for two years to help create teams and embed himself within the company to experience the culture first hand. He left about six months before I started, so I never worked with him.
+<img src="/images/year-without-pants.png" alt="Year Without Pants" align="left" style="padding:8px 16px 8px 8px;" /> A book looking at Automattic's distributed work culture recently came out, the [Year without Pants][2] by Scott Berkun. Berkun worked at Automattic for two years to help create teams and embed himself within the company to experience the culture first hand. He left about six months before I started, so I never worked with him.
 
 If you want to dive really deep into the behind the scenes at Automattic, this is the book. The company has changed a bit since Berkun started, around 4x bigger, so doesn't feel the same to me; but the underpinnings are there.
 
@@ -45,7 +41,7 @@ Now you might be thinking, who cares about your family and situation, tell us mo
 I saw a recent slide about Github, which is also a distributed workplace that said "githubbers don't miss dance recitals" &#8211; just great! The company is thinking about what's real for their employees.[See Github principles slides][5]
 
 <div align="center">
-  <img src="http://ebeab.files.wordpress.com/2013/11/githubbers.jpg" alt="githubbers dont miss dance recitals" />
+  <img src="/images/githubbers.jpg" alt="githubbers dont miss dance recitals" />
 </div>
 
 
@@ -75,5 +71,5 @@ Hiring plug: if all this sounds interesting and you want to make the web a bette
  [3]: http://p2theme.com/
  [4]: http://unencumberedbyfacts.com/2013/11/08/remote-work-done-right/
  [5]: http://cdn.oreillystatic.com/en/assets/1/event/104/Leading%20from%20First%20Principles%20Presentation.pdf
- [6]: http://ebeab.files.wordpress.com/2013/11/mkz_4085.jpg
+ [6]: /images/lisbon-meetup.jpg
  [7]: http://automattic.com/work-with-us/

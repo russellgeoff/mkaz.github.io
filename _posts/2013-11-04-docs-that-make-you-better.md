@@ -4,12 +4,6 @@ title: Docs that make you better
 author: Marcus Kazmierczak
 layout: post
 permalink: /2013/11/04/docs-that-make-you-better/
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/MKDEMWheVV
-twitter_cards_summary_img_size:
-  - 'a:6:{i:0;i:456;i:1;i:270;i:2;i:3;i:3;s:24:"width="456" height="270"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}'
 categories:
   - technology
 tags:
@@ -25,7 +19,7 @@ Clearly not the most amazing advice, but it goes beyond simple usage and starts 
 Kodak is better at it, their manuals included a lot more detailed advice, for example from the [Kodak Brownie manual][1]
 
 <div align="center">
-  <img src="http://ebeab.files.wordpress.com/2013/11/kodak_brownie_excerpt.png" alt="To Make a Portrait" />
+<img src="/images/kodak_brownie_excerpt.png" alt="How to make a portrait"/>
 </div>
 
 I also remember being able to pick up pamphlets published by Kodak with their top photography tips. I couldn’t find an example of the old pamphlets but the tips are all online in [Kodak’s tip center][2]

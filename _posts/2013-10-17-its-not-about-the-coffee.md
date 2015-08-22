@@ -26,5 +26,5 @@ A question asked in the article, We used to go to banks, and now we get cash fro
 I might be wrong, but my bet here would be on the personal and social interactions of coffee shops beating out the robots.
 
  [1]: http://qz.com/134661/briggo-coffee-army-of-robot-baristas-could-mean-the-end-of-starbucks-as-we-know-it/
- [2]: http://qzprod.files.wordpress.com/2013/10/briggo_temple.jpg?w=1024&h=576
+ [2]: /images/briggo-coffee.jpg
  [3]: http://www.starbucks.com/about-us/company-information/mission-statement

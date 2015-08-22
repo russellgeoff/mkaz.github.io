@@ -4,14 +4,6 @@ title: The Command-Line Office
 author: Marcus Kazmierczak
 layout: post
 permalink: /2014/03/04/the-command-line-office/
-publicize_google_plus_url:
-  - https://plus.google.com/115308324500133456489/posts/bhhmeF78WhJ
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/shpSXLnmKm
-geo_public:
-  - 0
 categories:
   - technology
 tags:

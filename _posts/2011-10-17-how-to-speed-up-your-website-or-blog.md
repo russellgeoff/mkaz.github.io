@@ -24,7 +24,7 @@ All of the pages on my site are now static, there is practically no server-side,
 
 My Google PageSpeed score is now a **96** out of 100. Average page load is <400ms, less than half a second!
 
-I would not recommend running a Jekyll site for everyone, especially if you don't like the command-line and coding, WordPress is far simpler, but if you are interested, here's [how I converted my blog from WordPress to Jekyll][2].
+I would not recommend running a Jekyll site for everyone, especially if you don't like the command-line and coding, WordPress is far simpler, but if you are interested, here's a plugin to [convert WP to Jekyll][2].
 
 This post is about how to get the most out of your web site and make it as fast as possible.
 
@@ -169,14 +169,14 @@ http://fonts.googleapis.com/css?family=Kelly+Slab
   * [Website Optimization: Speed, Search Engine & Conversion Rates][27] &#8211; Book [Amazon]
   * [Even Faster Web Sites][28] &#8211; Book [Amazon]
 
- [1]: https://mkaz.com/2011/08/31/vim-cheat-sheet/
- [2]: https://mkaz.com/solog/system/convert-wordpress-data-to-jekyll.html
+ [1]: /2011/08/31/vim-cheat-sheet/
+ [2]: https://github.com/benbalter/wordpress-to-jekyll-exporter
  [3]: http://designerstoolbox.com/designresources/html/
  [4]: http://support.microsoft.com/kb/2121313
  [5]: http://iosfonts.com/
  [6]: http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html
  [7]: http://www.alistapart.com/articles/sprites
- [8]: https://mkaz.com/solog/webdev/data-uri-scheme-a-replacement-of-sprite-maps.html
+ [8]: /2010/06/30/data-uri-scheme-a-great-replacement-of-sprite-maps/
  [9]: http://designshack.net/articles/css/how-to-implement-some-slick-icons-using-a-font-and-css/
  [10]: https://developers.google.com/speed/libraries/devguide
  [11]: http://lucianmarin.com/peculiar/

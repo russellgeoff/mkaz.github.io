@@ -18,7 +18,7 @@ It is not quite full feature, but I'm actually using it as my todo list. I welco
 
 You can check out how I setup Backbone and Go. There were a few tricky bits with routing, setting up Backbone and Datstore Ids but all in all the two work really well together.
 
-Code and install instructions: http://github.com/mkaz/bongoapp
+Code and install instructions: [https://github.com/mkaz/bongoapp](https://github.com/mkaz/bongoapp)
 
 ### Screenshot
 
