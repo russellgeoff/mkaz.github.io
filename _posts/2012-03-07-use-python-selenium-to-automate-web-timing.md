@@ -17,7 +17,8 @@ I wanted a way to be able to automate the capturing of these timings, what bette
 
 Here's a basic script which will fetch the page and calculate two timings. The back-end performance which is from when the user starts the navigation to when the first response starts. The second timing, you could probably guess, is front-end performance, which is from when the user starts receiving the first response until the DOM is complete.
 
-<pre class="brush: python; title: ; notranslate" title="">"""
+```python
+"""
 Use Selenium to Measure Web Timing
 Performance Timing Events flow
 navigationStart -&gt; redirectStart -&gt; redirectEnd -&gt; fetchStart -&gt; domainLookupStart -&gt; domainLookupEnd
@@ -42,7 +43,7 @@ print "Back End: %s" % backendPerformance
 print "Front End: %s" % frontendPerformance
 
 driver.quit()
-</pre>
+```
 
 You will have to install the Selenium drivers, which if you use **pip** should be a straight-forward  
 `$ pip install selenium`

@@ -115,6 +115,24 @@ img {
   max-width: 100%;
 }
 
+table {
+    margin: 8px 0;
+    width: 100%;
+}
+
+table th {
+    font-weight: bold;
+    background-color: #F0F0F0;
+    border: 1px solid #FFFFFF;
+    padding: 4px;
+    font-size: 14px;
+}
+
+table td {
+    border: 1px solid #F0F0F0;
+    padding: 4px;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
