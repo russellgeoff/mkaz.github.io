@@ -17,7 +17,8 @@ Both are fine tools, but I want a way to use tool and automatically upload any c
 
 I discovered the FSEvents and [Python bindings][4] which is a Mac OS X system library that can monitor a directory for file change events. Here's a brief example of how to use.
 
-<pre><code class="python">from fsevents import Observer, Stream
+```
+from fsevents import Observer, Stream
 
 def event_callback(event):
     filename = event.name
@@ -36,7 +37,7 @@ observer.schedule(stream)
 # run until ctrl-c
 signal.signal(signal.SIGINT, clean_exit)
 signal.pause()
-</code></pre>
+```
 
 I created a full script that triggers an rsync command to copy my local file to the remote host on file change. This makes it a pretty nice way to use a file system event to trigger whatever you want.
 

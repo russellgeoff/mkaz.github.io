@@ -40,44 +40,50 @@ So to get the output of the first example, you would run: ` print("{:.2f}".forma
 
 Here are a couple of example of basic string substitution, the `{}` is the placeholder for the substituted variables. If no format is specified, it will insert and format as a string.
 
-<pre><code class="python">s1 = "so much depends upon {}".format("a red wheel barrow")
+```
+s1 = "so much depends upon {}".format("a red wheel barrow")
 s2 = "glazed with {} water beside the {} chickens".format("rain", "white")
-</code></pre>
+```
 
 You can also use the numeric position of the variables and change them in the strings, this gives some flexibility when doing the formatting, if you made a mistake in the order you can easily correct without shuffling all variables around.
 
-<pre><code class="python">s1 = " {0} is better than {1} ".format("emacs", "vim")
+```
+s1 = " {0} is better than {1} ".format("emacs", "vim")
 s2 = " {1} is better than {0} ".format("emacs", "vim")
-</code></pre>
+```
 
-## Older &#8220;%" string formatter
+## Older ""%" string formatter
 
 Prior to python 2.6, the way to format strings tended to be a bit simpler, though limited with the number of arguments it can receive. These methods still work as of Python 3.3, but there are veiled threats of deprecating them completely though no time table. [[PEP-3101][1]]
 
 ### Formating a floating point number:
 
-<pre><code class="python">pi = 3.14159
+```
+pi = 3.14159
 print(" pi = %1.2f " % pi)
-</code></pre>
+```
 
 ### Multiple Substitution Values
 
-<pre><code class="python">s1 = "cats"
+```
+s1 = "cats"
 s2 = "dogs"
 s3 = " %s and %s living together" % (s1, s2)
-</code></pre>
+```
 
 ### Not Enough Arguments
 
 Using the older format method, I would often get the error &#8220;TypeError: not enough arguments for format string" because I miscounted my substitution, do something like the following made it easy to miss a variable.
 
-<pre><code class="python">set = " (%s, %s, %s, %s, %s, %s, %s, %s) " % (a,b,c,d,e,f,g,h,i)
-</code></pre>
+```
+set = " (%s, %s, %s, %s, %s, %s, %s, %s) " % (a,b,c,d,e,f,g,h,i)
+```
 
 The new python string formatter you can use numbered parameters so you don't have to count how many you have, at least on half of it.
 
-<pre><code class="python">set = " ({0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}) ".format(a,b,c,d,e,f,g)
-</code></pre>
+```
+set = " ({0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}) ".format(a,b,c,d,e,f,g)
+```
 
 ## More String Formatting with .format()
 
@@ -87,36 +93,40 @@ The format() function offers a fair amount of additional features and capabiliti
 
 You can use the new string format as a templating engine and use named arguments, instead of requiring a strict order.
 
-<pre><code class="python">madlib = " I {verb} the {object} off the {place} ".format(verb="took", object="cheese", place="table")
->&gt;&gt; I took the cheese off the table
-</code></pre>
+```madlib = " I {verb} the {object} off the {place} ".format(verb="took", object="cheese", place="table")
+~~ I took the cheese off the table
+```
 
 ### Reuse Same Variable Multiple Times
 
 Using the % formatter, requires a strict ordering of variables, the .format() method allows you to put them in any order as we saw above in the basics, but also allows for reuse.
 
-<pre><code class="python">str = "Oh {0}, {0}! wherefore art thou {0}?".format("Romeo")
->&gt;&gt; Oh Romeo, Romeo! wherefore art thou Romeo?
-</code></pre>
+```
+str = "Oh {0}, {0}! wherefore art thou {0}?".format("Romeo")
+~~ Oh Romeo, Romeo! wherefore art thou Romeo?
+```
 
 ### Convert Values to different Bases
 
-You can use the following letters to convert a number to their bases, **d**ecimal, he**x**, **o**ctal, **b**inary
+You can use the following letters to convert a number to their bases, <b>d</b>ecimal, he<b>x</b>, <b>o</b>ctal, <b>b</b>inary
 
-<pre><code class="python">print("{0:d} - {0:x} - {0:o} - {0:b} ".format(21))
->&gt;&gt; 21 - 15 - 25 - 10101
-</code></pre>
+```
+print("{0:d} - {0:x} - {0:o} - {0:b} ".format(21))
+~~ 21 - 15 - 25 - 10101
+```
+
 
 ### Use Format as a Function
 
 You can use .format as a function which allows for some separation of text and formatting from code. For example at the beginning of your program you could include all your formats and then use later. This also could be a nice way to handle internationalization which not only requires different text but often requires different formats for numbers.
 
-<pre><code class="python">## defining formats
+```
+## defining formats
 email_f = "Your email address was {email}".format
 
 ## use elsewhere
 print(email_f(email="bob@example.com"))
-</code></pre>
+```
 
 Hat tip to [earthboundkids][2] who provided this on reddit.
 
@@ -124,9 +134,10 @@ Hat tip to [earthboundkids][2] who provided this on reddit.
 
 If you need to use braces when using str.format(), just double up
 
-<pre><code class="python">print(" The {} set is often represented as {{0}} ".format("empty"))
->&gt;&gt; The empty set is often represented as {0}
-</code></pre>
+```
+print(" The {} set is often represented as {{0}} ".format("empty"))
+~~ The empty set is often represented as {0}
+```
 
 ### Reference
 

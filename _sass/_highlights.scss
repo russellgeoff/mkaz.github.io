@@ -5,11 +5,16 @@
   border: 1px solid #ddd;
   margin: 20px 0 20px 0;
   overflow: auto;
+  line-height: 14px;
 }
 
+pre {
+    line-height: 14px;
+}
 code {
-    font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
+     font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
     font-size: 12px;
+    line-height: 14px !important;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
