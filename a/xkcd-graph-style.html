@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="author" name="Marcus Kazmierczak">
+  <meta content="site" name="http://mkaz.com">
+  <meta charset="utf-8">
+  <title> XKCD Graph Style in D3 - mkaz.com</title>
+
+<style>
+@font-face {
+  font-family: 'xkcd';
+  src: url('/a/Humor-Sans.ttf');
+}
+
+body {
+  font-size: 14px;
+  font-family: 'xkcd',sans-serif;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+</style>
+
+</head>
+<body>
+
+<script src="/a/d3.v2.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+// config start
+
+var xmin = -6;
+var xmax = 4;
+var ymin = 0;
+var ymax = 1100;
+var epsilon = 1.9;   // change for greater "hand-drawn" effect
+
+// your function to graph
+var equation = function(x) { return Math.pow(x-5, 2) * Math.pow(x+6, 2); }
+
+var step = 0.1; // probably not necessary to change but effects "hand-drawn"ness
+
+// config end
+
+var data = d3.range(xmin, xmax-1, 0.1).map(function(i) {
+  jitter = Math.random() * (2*epsilon) - epsilon; // add randomness
+  return {x: i, y: jitter + equation(i)};
+});
+
+var margin = {top: 10, right: 10, bottom: 20, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scale.linear()
+    .domain([xmin, xmax])
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .domain([ymin, ymax])
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+var line = d3.svg.line()
+    .x(function(d) { return x(d.x); })
+    .y(function(d) { return y(d.y); });
+
+var svg = d3.select("body").append("svg")
+    .datum(data)
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+svg.append("path")
+    .attr("class", "line")
+    .attr("d", line);
+
+svg.append("svg:text")
+  .attr("x", 125)
+  .attr("y", 150)
+  .attr("text-anchor", "right")
+  .text("something poignant");
+
+svg.append("line")
+  .attr("x1", 278)
+  .attr("x2", 340)
+  .attr("y1", 147)
+  .attr("y2", 147)
+  .style("stroke", "#000");
+
+svg.append("line")
+  .attr("x1", 345)
+  .attr("x2", 345)
+  .attr("y1", 153)
+  .attr("y2", 470)
+  .style("stroke", "#F00");
+
+svg.append("svg:text")
+  .attr("x", 350)
+  .attr("y", 400)
+  .style("color", "#F00")
+  .text("bacon line");
+
+</script>
+
+</body>
+</html>
+

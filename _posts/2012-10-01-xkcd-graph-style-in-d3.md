@@ -13,10 +13,9 @@ I saw an article on Hacker News about [duplicating the xkcd hand-drawn graph sty
 
 [View live example ][3]
 
-Here's the code, the key is adding a jitter to the equation to give the hand-drawn look.  
-I used a hand drawn font from [xkcdsucks forum][4]
+View source of the live example to see the code, the key is adding a jitter to the equation to give the hand-drawn look. I also used a hand drawn font I found at [xkcdsucks forum][4]
 
  [1]: https://news.ycombinator.com/item?id=4597977
- [2]: /img/xkcd-graph-example.png
- [3]: /a/xkcd_graph_style.html
+ [2]: /images/xkcd-graph-example.png
+ [3]: /a/xkcd-graph-style.html
  [4]: http://xkcdsucks.blogspot.com/2009/03/xkcdsucks-is-proud-to-present-humor.html
