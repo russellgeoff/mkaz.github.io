@@ -19,11 +19,12 @@ This article will go through examples on how you can use R to replace Excel. Thi
 
 ### Quick Examples
 
-<pre class="brush: plain; title: ; notranslate" title=""># variable assignment
-list &lt;- c(1,3,6)  
+```
+# variable assignment
+list <- c(1,3,6)  
 
 mean(list)
-[1] 3.33    - result 
+[1] 3.33    - result
 
 max(list)
 [1] 6       - result
@@ -32,14 +33,14 @@ sum(list)
 [1] 10      - result
 
 # add each element of the lists together
-list2 &lt;- c(2,4,8)
-list + list2 
+list2 <- c(2,4,8)
+list + list2
 [1]  3  7  14
 
 # create sequence
-s &lt;- seq(0,10, by=0.5)
+s <- seq(0,10, by=0.5)
 plot(s)
-</pre>
+```
 
 ### Reading Data
 
@@ -47,60 +48,63 @@ There are numerous ways to get data into R, from reading from text files, to dat
 
 ### Read from Text Files
 
-    # read in table, single column of data
-    data <- read.table("pageviews.data")
-    data[1:5,]    # verify
-    
-    # plot as timeseries
-    plot(ts(data))
-    
-    # read table, specify delimiter
-    weight <- read.table("weight.data", sep="|", header=TRUE)
-    plot(weight$Date, weight$Weight)
-    
-    # read in csv file
-    data <- read.csv(file="movies2010.csv")
-    library(ggplot2)
-    p <- ggplot(data, aes(Box.Office, Rating))
-    p + geom_point() + 
-        scale_x_continuous(
-          breaks=c(100000000,200000000,300000000,400000000), 
-          labels=c("100M", "200M", "300M","400M"))
-    
+```
+# read in table, single column of data
+data <- read.table("pageviews.data")
+data[1:5,]    # verify
+
+# plot as timeseries
+plot(ts(data))
+
+# read table, specify delimiter
+weight <- read.table("weight.data", sep="|", header=TRUE)
+plot(weight$Date, weight$Weight)
+
+# read in csv file
+data <- read.csv(file="movies2010.csv")
+library(ggplot2)
+p <- ggplot(data, aes(Box.Office, Rating))
+p + geom_point() +
+    scale_x_continuous(
+      breaks=c(100000000,200000000,300000000,400000000),
+      labels=c("100M", "200M", "300M","400M"))
+```
 
 ### Load from Database
 
-    library(RMySQL)
-    con <- dbConnect(dbDriver('MySQL'), 
-      user='demo', 
-      password = 'demo',
-      host = 'localhost',
-      dbname = 'baseball')
-    
-    resultSet <- dbSendQuery(con, 
-        "SELECT W,Attendance,yearID,name
-         FROM teams
-        WHERE (yearID between 1990 and 2010)
-          AND franchID = 'SFG' ")
-    
-    stats <- fetch(resultSet, n=-1)
-    
-    # plot Wins vs. Attendance
-    library(ggplot2)
-    p <- ggplot(stats, aes(x=W, y=Attendance, label=yearID))
-    p + geom_point() + geom_text(hjust=0.2, vjust=-0.5, size=2.6) 
-    
+```
+library(RMySQL)
+con <- dbConnect(dbDriver('MySQL'),
+  user='demo',
+  password = 'demo',
+  host = 'localhost',
+  dbname = 'baseball')
+
+resultSet <- dbSendQuery(con,
+    "SELECT W,Attendance,yearID,name
+     FROM teams
+    WHERE (yearID between 1990 and 2010)
+      AND franchID = 'SFG' ")
+
+stats <- fetch(resultSet, n=-1)
+
+# plot Wins vs. Attendance
+library(ggplot2)
+p <- ggplot(stats, aes(x=W, y=Attendance, label=yearID))
+p + geom_point() + geom_text(hjust=0.2, vjust=-0.5, size=2.6)
+```
 
 ### Read from Internet
 
-<pre class="brush: plain; title: ; notranslate" title=""># grab stock quote data from Yahoo
-etfc &lt;- read.csv(paste("http://ichart.finance.yahoo.com/table.csv?", "s=ETFC", "&g=m", sep=""))
+```
+# grab stock quote data from Yahoo
+etfc <- read.csv(paste("http://ichart.finance.yahoo.com/table.csv?", "s=ETFC", "&g=m", sep=""))
 
 # save to file (so dont need to fetch again)
 save(etfc, "etfc.RData")
 
 # read in from file
-etfc &lt;- load("etfc.RData")
+etfc <- load("etfc.RData")
 
 # verify, show first 5 rows
 etfc[1:5,]
@@ -111,11 +115,11 @@ plot(etfc$Date, etfc$Close)
 # better plotting
 library("ggplot2")
 
-qplot(as.Date(Date, "%Y-%m-%d"), Close, 
-  data=etfc, geom="line", 
-  xlab="", ylab="", 
+qplot(as.Date(Date, "%Y-%m-%d"), Close,
+  data=etfc, geom="line",
+  xlab="", ylab="",
   colour = I("steelblue4"),fill = I("steelblue4"))
-</pre>
+```
 
 <div align="center">
   <img src="/a/dataviz/taste-r/etfc.png" alt="chart of etrade stock" class="border" />
@@ -125,8 +129,9 @@ qplot(as.Date(Date, "%Y-%m-%d"), Close,
 
 **ggplot** is a powerful graphing library whose graphs are a bit better looking than R defaults. I tend to use ggplot whenever I can, but will show both methods for this tutorial. Additionally, ggplot has a powerful theme system you can use for consistent colors and styles.
 
-<pre class="brush: plain; title: ; notranslate" title="">x &lt;- seq(-3, 3, by=0.1)
-y &lt;- sin(x)
+```
+x <- seq(-3, 3, by=0.1)
+y <- sin(x)
 
 # normal plot
 plot(x,y)
@@ -142,13 +147,13 @@ qplot(x,y)
 qplot(x,y, geom="line", colour = I("steelblue4"))
 
 # maps
-try_require("maps") 
-states &lt;- data.frame(map("state", plot=FALSE)1) 
-(usamap &lt;- qplot(x, y, data=states, geom="path")) 
+try_require("maps")
+states <- data.frame(map("state", plot=FALSE)1)
+(usamap <- qplot(x, y, data=states, geom="path"))
 
 # save with ggplot
 ggsave(file="sin.png")
-</pre>
+```
 
 More [ggplot2 examples][5]
 
@@ -160,18 +165,20 @@ More [ggplot2 examples][5]
 
 A basic bar chart, the data shown is percentages of time spent per media type compared to advertising dollars spent.
 
-<pre class="brush: plain; title: ; notranslate" title="">m &lt;- matrix(c(8,27,16,11,43,43,25,19,8,0.5), nrow=2)
-colnames(m) &lt;- c("Print","Radio","TV","Internet","Mobile")
+```
+m <- matrix(c(8,27,16,11,43,43,25,19,8,0.5), nrow=2)
+colnames(m) <- c("Print","Radio","TV","Internet","Mobile")
 barplot(m, beside=T)
-</pre>
+```
 
 If you want two different charts next to each other
 
-<pre class="brush: plain; title: ; notranslate" title="">library(&#039;gridExtra&#039;)
-plot1 &lt;- ggplot(td, aes(Year, Tablets)) + geom_bar(stat="identity")
-plot2 &lt;- ggplot(td, aes(Year, PC)) + geom_bar(stat="identity")
+```
+library('gridExtra')
+plot1 <- ggplot(td, aes(Year, Tablets)) + geom_bar(stat="identity")
+plot2 <- ggplot(td, aes(Year, PC)) + geom_bar(stat="identity")
 grid.arrange(plot1, plot2, ncol=2)
-</pre>
+```
 
 ### Plotting Two Lines on Same Graph
 
@@ -181,40 +188,42 @@ grid.arrange(plot1, plot2, ncol=2)
 
 An example plotting two lines on to the same graph
 
-<pre class="brush: plain; title: ; notranslate" title=""># setup data
-x &lt;- seq(0, 50, 1)
-supply &lt;- x * -2 + 100
-demand &lt;- x * 2
-df &lt;- data.frame( x = x, supply=supply, demand=demand) 
+```
+# setup data
+x <- seq(0, 50, 1)
+supply <- x * -2 + 100
+demand <- x * 2
+df <- data.frame( x = x, supply=supply, demand=demand)
 
 library(ggplot2)
-ggplot(df, aes(x)) + 
-  geom_line(aes(y=supply, colour="supply")) + 
+ggplot(df, aes(x)) +
+  geom_line(aes(y=supply, colour="supply")) +
   geom_line(aes(y=demand, colour="demand")) +
-  opt(title=&#039;&#039;) + 
-</pre>
+  opt(title='') +
+```
 
 ### Cycle Graph
 
 A cycle graph is an interesting way to look at cyclic data such as weekly pageviews of a web site. Typically a web site traffic will see a large dip on weekends which can make it difficult to see what patterns might be occuring.
 
-Here's an example, the graph on the left is a standard linear graph, on the right is the same day plotted as a cycle graph, the cycle being days of the week. You immediately notice Wednesday dips while the rest are mostly up.<div align"center"> 
+Here's an example, the graph on the left is a standard linear graph, on the right is the same day plotted as a cycle graph, the cycle being days of the week. You immediately notice Wednesday dips while the rest are mostly up.<div align"center">
 
 ![][6]
 
-![][7]</div> 
+![][7]</div>
 
 Here's how the above graphs were created, using [pageviews.data][2]
 
-<pre class="brush: plain; title: ; notranslate" title=""># read in table
-data &lt;- read.table("pageviews.data")
+```
+# read in table
+data <- read.table("pageviews.data")
 
 # plot as normal timeseries, difficult to see
 plot(ts(data))
 
 # cycle plot
 monthplot(ts(data, start=1, frequency=7))
-</pre>
+```
 
 ### Graph: Axis, Labels and Legenes
 
@@ -224,25 +233,28 @@ monthplot(ts(data, start=1, frequency=7))
 
 To add axis labels to the chart, use **xlab** and **ylab**, using the stock quote example above with labels
 
-<pre class="brush: plain; title: ; notranslate" title="">qplot(as.Date(Date, "%Y-%m-%d"), Close, 
-    data=etfc, geom="line", 
-    xlab="Year", ylab="Stock Price", 
+```
+qplot(as.Date(Date, "%Y-%m-%d"), Close,
+    data=etfc, geom="line",
+    xlab="Year", ylab="Stock Price",
     colour = I("steelblue4"),fill = I("steelblue4"))
-</pre>
+```
 
 Using ggplot
 
-<pre class="brush: plain; title: ; notranslate" title="">ggplot(df, aes(x)) + 
-    geom_line(aes(y=supply, colour="supply"), size=2) + 
+```
+ggplot(df, aes(x)) +
+    geom_line(aes(y=supply, colour="supply"), size=2) +
     geom_line(aes(y=demand, colour="demand"), size=2) +
-    scale_x_continuous(&#039;&#039;) + 
-    scale_y_continuous(&#039;&#039;) 
-</pre>
+    scale_x_continuous('') +
+    scale_y_continuous('')
+```
 
 ### Manipulating Data
 
-<pre class="brush: plain; title: ; notranslate" title=""># data entry
-x &lt;- c(1,2,3)
+```
+# data entry
+x <- c(1,2,3)
 
 # more data entry, using stdin (keyboard)
 x = scan()  
@@ -252,18 +264,18 @@ sort(x)
 
 # diff command
 # accumlative total of mail sent
-mailings &lt;- c(12345, 23432, 36765, 49567, 60234)
+mailings <- c(12345, 23432, 36765, 49567, 60234)
 diff(mailings)
 
 # tabulate data
-survey &lt;- c("a", "b", "b", "b", "c", "a", "a", "c", "c", "b")
+survey <- c("a", "b", "b", "b", "c", "a", "a", "c", "c", "b")
 table(survey)
 
 # random numbers
 runif(5, 1,10, 5)         # pick 5 numbers between 1 - 10
 sample(1:10, 5, replace=F)
 sample(1:10, 5, replace=T)
-</pre>
+```
 
 ### Linear Regression
 
@@ -271,11 +283,12 @@ sample(1:10, 5, replace=T)
   <img src="/a/dataviz/taste-r/linear_regression.png" alt="bar chart" class="border" />
 </div>
 
-<pre class="brush: plain; title: ; notranslate" title=""># setup data
-x &lt;- seq(1, 10, by=0.5)
+```
+# setup data
+x <- seq(1, 10, by=0.5)
 
 # create random data for Y
-y &lt;- seq(10, 46, by=2) + runif(19, 1, 10) 
+y <- seq(10, 46, by=2) + runif(19, 1, 10)
 
 lm(y ~ x)            # linear model equation
 plot(x, y)           # plot data
@@ -283,124 +296,129 @@ abline(lm(y ~ x))    # add regression line to graph
 
 # using ggplot
 library(ggplot2)
-p &lt;- qplot(x, y)
+p <- qplot(x, y)
 p + stat_smooth(method="lm",size=1)
-</pre>
+```
 
 ### Programming
 
-<pre class="brush: plain; title: ; notranslate" title=""># packages (cran)
+```
+# packages (cran)
 install.packages("ggplot2")
 library("ggplot2")
 
 # conditionals
-c &lt;- 42
-x &lt;- if (c == 42) 3.14 else 2.71
+c <- 42
+x <- if (c == 42) 3.14 else 2.71
 
 # loops
 teams = c("BAL","BOS","CHW","CLE","DET")
 for (team in teams) {
   print(paste("Hello", team, sep=" "))  # string concat
 }
-</pre>
+```
 
 ### Function Example
 
-<pre class="brush: plain; title: ; notranslate" title="">oddcount &lt;- function(x) { 
-  c &lt;- 0 
+```
+oddcount <- function(x) {
+  c <- 0
   for(n in x) {
     if (n %% 2 == 1)
-      c &lt;- c + 1
+      c <- c + 1
   }
   return(c)
 }
 
-set &lt;- c(3,4,5,6,9)
+set <- c(3,4,5,6,9)
 oddcount(set)
 [1] 3
-</pre>
+```
 
 ### Baseball Example
 
 Batting Average Hack from Baseball Hacks by Jospeh Adler
 
-<pre class="brush: plain; title: ; notranslate" title="">oddcount &lt;- function(x) { 
+```
+oddcount <- function(x) {
 library(RMySQL)
 library(lattice)
 
-con &lt;- dbConnect(dbDriver(&#039;MySQL&#039;), 
-    user=&#039;demo&#039;, 
-    password = &#039;demo&#039;,
-    host = &#039;localhost&#039;,
-    dbname = &#039;baseball&#039;)
+con <- dbConnect(dbDriver('MySQL'),
+    user='demo',
+    password = 'demo',
+    host = 'localhost',
+    dbname = 'baseball')
 
-res &lt;- dbSendQuery(con,
-    "select * from batting where yearID=2010 and AB &gt; 250");
-batting &lt;- fetch(res, n=-1);
+res <- dbSendQuery(con,
+    "select * from batting where yearID=2010 and AB > 250");
+batting <- fetch(res, n=-1);
 attach(batting);
 
 #Compute batting averages
-AVG &lt;- H/AB;
+AVG <- H/AB;
 
 #Plot the charts
 histogram(~ AVG | teamID)
 
 densityplot(~ AVG | teamID)
-
-</pre>
+```
 
 ### Basketball Example
 
 NBA example, plotting field goal percent and rebounds verse wins.
 
-<pre class="brush: plain; title: ; notranslate" title=""># load data
-data &lt;- read.csv("nba.csv")
+```
+# load data
+data <- read.csv("nba.csv")
 
 # lets look at just 2009
-data2009 &lt;- subset(data, year == 2009)  # use conditional
+data2009 <- subset(data, year == 2009)  # use conditional
 
 library(ggplot2)
 
 # theory: field goal percent = wins ?
-p &lt;- ggplot(data2009, aes(x=o_fgm/o_fga, y=won, label=X.team))
+p <- ggplot(data2009, aes(x=o_fgm/o_fga, y=won, label=X.team))
 p + geom_point() + geom_text(hjust=0.2, vjust=-0.5, size=2.6)
 
 # theory: rebounds = wins ?
-p &lt;- ggplot(data2009, aes(x=o_reb, y=won, label=X.team))
+p <- ggplot(data2009, aes(x=o_reb, y=won, label=X.team))
 p + geom_point() + geom_text(hjust=0.2, vjust=-0.5, size=2.6)
-</pre>
+```
 
 ### New User Report Example
 
 Another web site example, graphing new users signing up over last 30 days.<br/>  
 You'll need your own data source
 
-<pre class="brush: plain; title: ; notranslate" title="">library(RMySQL)
+```
+library(RMySQL)
 library(ggplot2)
 
 source("~/.dbconns/prod_slave.R")
 
 # grab data
-res &lt;- dbSendQuery(con,
-  "SELECT 
-     DATE_FORMAT(dt_created, &#039;%m/%d/%Y&#039;) as dt, 
+res <- dbSendQuery(con,
+  "SELECT
+     DATE_FORMAT(dt_created, '%m/%d/%Y') as dt,
      count(*) as c
-  FROM users 
-  WHERE dt_created &gt; DATE_SUB(NOW(), INTERVAL 30 DAY) 
+  FROM users
+  WHERE dt_created &gt; DATE_SUB(NOW(), INTERVAL 30 DAY)
   GROUP BY dt
   ");
-results &lt;- fetch(res, n=-1);
+results <- fetch(res, n=-1);
 
-p &lt;- ggplot(results, aes(x=dt, y=c))
+p <- ggplot(results, aes(x=dt, y=c))
 p + geom_bar()
-</pre>
+```
 
 ### Example Examples
 
 Almost every package has built in examples which shows how to use.<br/>  
 Here are just a few, if you ever get stuck check out the examples:
 
-<pre class="brush: plain; title: ; notranslate" title="">example(plot)
+```
+example(plot)
 example(abline)
 example(pie)
 example(spline)
@@ -410,7 +428,7 @@ example(qplot)
 
 library(lattice)
 example(histogram)
-</pre>
+```
 
 ### Data Sources
 
@@ -421,7 +439,7 @@ example(histogram)
 
   * [Introduction to R][10]
   * [R Tutorial][11] by Clarkson University
-  * [R Fundamentals][12] by Thomas Lumley 
+  * [R Fundamentals][12] by Thomas Lumley
   * [R in a Nutshell][13] by Joseph Adler <small>[Book]</small>
   * [Baseball Hacks][14] by Joseph Adler <small>[Book]</small>
 
