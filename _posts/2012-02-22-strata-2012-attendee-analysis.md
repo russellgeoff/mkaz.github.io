@@ -10,7 +10,7 @@ tags:
   - data
   - strata
 ---
-[<img src="https://mkaz.com/img/strata2012_before_nolabels.png" title="Strata 2012  Graph" alt="Graph" style="width:100%" />][1]
+[<img src="/images/strata2012_before_nolabels.png" title="Strata 2012  Graph" alt="Graph" style="width:100%" />][1]
 
 The [Strata Conference][2] is next week, so I was browsing the attendee directory curious to see who I know is going or looking for interesting companies to meet with. This got me thinking about the overall connectedness of the attendee list. So&#8230;
 
@@ -22,11 +22,11 @@ A few scripts later and a bit of analysis I produced the following data, which p
 
 **Most Popular Titles**
 
-  1. CEO (61) 
-  2. Software Engineer (55) 
-  3. CTO (45) 
-  4. Founder (35) 
-  5. Data Scientist (33) 
+  1. CEO (61)
+  2. Software Engineer (55)
+  3. CTO (45)
+  4. Founder (35)
+  5. Data Scientist (33)
 
 <small>Note: Title data is very wonky due to no standards and multiple entries per line such as &#8220;Founder/CEO and Data Scientist" and people getting cute such as &#8220;CIO at Large" &#8211; I massaged a little, removing ranks (Senior, Sr., Principal, Lead) separating roles, etc&#8230; but gave up after awhile too chaotic.</small>
 
@@ -49,25 +49,25 @@ A few scripts later and a bit of analysis I produced the following data, which p
 
 The attendees also could include their twitter accounts, 454 of them did<sup>1</sup>. Analyzing the Twitter accounts of who follows who between attendees, gave me the above graph and some more interesting stats, such as the level of connectedness between conference attendees.
 
-    Average Degree: 9.615 
-    
+    Average Degree: 9.615
+
 
 The degree is the average number of connections per node, a node being a person in the graph. It will be interesting to see what the numbers look like after the conference to see to what level this connectedness changes.
 
-[<img src="https://mkaz.com/img/thms/strata2012_zoom_hmason_thm.png" title="Strata 2012 Zoom Graph" alt="Graph" width="500" height="365" style="float:right;border:1px solid #CCC;margin-top:10px" />][3]
+[<img src="/images/thms/strata2012_zoom_hmason_thm.png" title="Strata 2012 Zoom Graph" alt="Graph" width="500" height="365" style="float:right;border:1px solid #CCC;margin-top:10px" />][3]
 
 **Largest Twitter Hubs**
 
-  1. [hmason][4]
-  2. [google][5]
-  3. [edd][6]
-  4. [cloudera][7]
-  5. [acroll][8]
-  6. [peteskomoroch][9]
-  7. [dpatil][10]
-  8. [mrflip][11]
-  9. [tableau][12]
- 10. [digiphile][13]
+1. [hmason][4]
+2. [google][5]
+3. [edd][6]
+4. [cloudera][7]
+5. [acroll][8]
+6. [peteskomoroch][9]
+7. [dpatil][10]
+8. [mrflip][11]
+9. [tableau][12]
+10. [digiphile][13]
 
 <br clear="all" />
 
@@ -85,39 +85,39 @@ My typical process is to write everything to local data files, this allows for e
 
 For the twitter accounts, I created a file for each user and stored the IDs of who they followed. I could then run various scripts against that. A simple `wc -l` on the directory tells me who follows the most users.
 
-In files, I can also easily massage the data using many standard unix functions such as awk, cut and vim.  
-For example the initial listing I spit out into a pipe delimited format:
+In files, I can also easily massage the data using many standard unix functions such as awk, cut and vim. For example the initial listing I spit out into a pipe delimited format:
 
     Name | Position | Company | Twitter
-    
+
 
 I used `cut` to pull out twitter accounts and then `vim` to delete blank lines
 
-    cut -d'|' -f4 > twitter.txt 
+    cut -d'|' -f4 > twitter.txt
     vim twitter.txt
     :g/^\s*$/d
-    
+
 
 The GraphML format turned out to be one of the easiest parts, basically each person is a node and each connection another node. So putting it together was just outputting one XML file:
 
-<pre>&lt;graphml&gt;
-    &lt;graph&gt;
-        &lt;node id="mkaz"/&gt;
-        &lt;edge source="mkaz" target="edd"/&gt;
-        &lt;edge source="mkaz" target="cutting"/&gt;
+```
+<graphml>
+    <graph>
+        <node id="mkaz"/>
+        <edge source="mkaz" target="edd"/>
+        <edge source="mkaz" target="cutting"/>
         ...
-    &lt;/graph&gt;
-&lt;/graphml&gt;
-</pre>
+    </graph>
+</graphml>
+```
 
 * * *
 
 <a name="foot1"></a>  
 <sup>1</sup> All data gathered on Weds, Feb 22, 2012
 
- [1]: https://mkaz.com/img/strata2012_before_nolabels.png
+ [1]: /images/strata2012_before_nolabels.png
  [2]: http://strataconf.com/strata2012
- [3]: https://mkaz.com/img/strata2012_zoom_hmason.png
+ [3]: /images/strata2012_zoom_hmason.png
  [4]: https://twitter.com/hmason
  [5]: https://twitter.com/google
  [6]: https://twitter.com/edd

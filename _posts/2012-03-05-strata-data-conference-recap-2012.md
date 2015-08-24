@@ -18,9 +18,9 @@ From the list of twitter attendees generated before the conference, I measured t
 
     Average Degree before Conference: 9.615
     Average Degree after Conference: 11.606
-    
 
-Here are the data files, anyone can extend and do additional analysis, shoot me a link ([@mkaz][3]) if you do anything with it.   
+
+Here are the data files, anyone can extend and do additional analysis, shoot me a link ([@mkaz][3]) if you do anything with it.
 **Download**: [strata_before.graphml][4], [strata_after.graphml][5]
 
 ### Largest Twitter Hubs
@@ -32,17 +32,17 @@ The biggest change in the twitter hubs was a focus on people over corporations. 
     <h4>
       Before
     </h4>
-    
+
     <p>
       1. <a href="https://twitter.com/hmason">hmason</a><br /> 2. <a href="https://twitter.com/google">google</a><br /> 3. <a href="https://twitter.com/edd">edd</a><br /> 4. <a href="https://twitter.com/cloudera">cloudera</a><br /> 5. <a href="https://twitter.com/acroll">acroll</a><br /> 6. <a href="https://twitter.com/peteskomoroch">peteskomoroch</a><br /> 7. <a href="https://twitter.com/dpatil">dpatil</a><br /> 8. <a href="https://twitter.com/mrflip">mrflip</a><br /> 9. <a href="https://twitter.com/tableau">tableau</a><br /> 10. <a href="https://twitter.com/digiphile">digiphile</a>
     </p>
   </div>
-  
+
   <div style="width:49%;float:left">
     <h4>
       After
     </h4>
-    
+
     <p>
       1. <a href="https://twitter.com/hmason">hmason</a><br /> 2. <a href="https://twitter.com/peteskomoroch">peteskomoroch</a><br /> 3. <a href="https://twitter.com/dpatil">dpatil</a><br /> 4. <a href="https://twitter.com/edd">edd</a><br /> 5. <a href="https://twitter.com/acroll">acroll</a><br /> 6. <a href="https://twitter.com/cloudera">cloudera</a><br /> 7. <a href="https://twitter.com/mrflip">mrflip</a><br /> 8. <a href="https://twitter.com/petewarden">petewarden</a><br /> 9. <a href="https://twitter.com/mikeolson">mikeolson</a><br /> 10. <a href="https://twitter.com/cutting">cutting</a>
     </p>
@@ -64,7 +64,7 @@ I'm interested in what insights can be gleamed from data and the analysis and vi
 
 Someone quoted to me at the conference that Zynga creates and stores a Petabyte of data a day. Crazy!
 
-I went to last years Strata Conference and 2012 was definitely bigger and a lot more corporate sponsorship. Last years felt a bit smaller and more of a community of data hackers. This year felt more like a normal technology conference with big sponsors, not a bad thing just going mainstream.
+I went to last year's Strata Conference ([see 2011 recap][12]) and 2012 was definitely bigger and a lot more corporate sponsorship. Last years felt a bit smaller and more of a community of data hackers. This year felt more like a normal technology conference with big sponsors, not a bad thing just going mainstream.
 
 There were so many good talks, I wish I could've been in two places at once. Thankfully they post the video from each session, so I can catch up on any of the ones I missed.
 
@@ -75,7 +75,7 @@ Most of the slides are available online at: [Strata Conference Speaker Slides][7
 **[The Two Most Important Algorithms in Predictive Modeling Today][11]** &#8211; Jeremy Howard (Kaggle) and Mike Bowles presented about predictive modeling techniques and how to use them for predicting dependent variables. They were enthusiastic and good speakers, I wish they got more into the hands on and code side and was lighter on theory, but still enjoyable and enlightening.
 
  [1]: http://strataconf.com
- [2]: https://mkaz.com/dataviz/strata-attendee-analysis.html
+ [2]: /2012/02/22/strata-2012-attendee-analysis/
  [3]: https://twitter.com/mkaz
  [4]: /a/dataviz/strata_before.graphml
  [5]: /a/dataviz/strata_after.graphml
@@ -85,3 +85,4 @@ Most of the slides are available online at: [Strata Conference Speaker Slides][7
  [9]: https://data.sfgov.org/
  [10]: http://www.openstreetmap.org/
  [11]: http://strataconf.com/strata2012/public/schedule/detail/22658
+ [12]: /2011/02/06/strata-data-conference-recap/

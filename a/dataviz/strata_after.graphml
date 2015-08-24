@@ -1,0 +1,3788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="strata2012" edgedefault="undirected">
+<node id="dreasoning"/>
+<node id="mchmarny"/>
+<node id="hortonworks"/>
+<node id="bits_of_kris"/>
+<node id="MCanalytics"/>
+<node id="aggiedwc"/>
+<node id="daveangulo"/>
+<node id="gurdeepd"/>
+<node id="sjcarriere"/>
+<node id="jandersen"/>
+<node id="cloudera"/>
+<node id="ejbrennanjr"/>
+<node id="JonBruner"/>
+<node id="pauldix"/>
+<node id="MarkLogic"/>
+<node id="cisco"/>
+<node id="lcecere"/>
+<node id="aallan"/>
+<node id="BusyTati"/>
+<node id="dberkholz"/>
+<node id="bruntonspall"/>
+<node id="AvikonHadoop"/>
+<node id="rmcrawford"/>
+<node id="sarabchugh"/>
+<node id="gcarothers"/>
+<node id="VL_Carlson"/>
+<node id="broady"/>
+<node id="billcava"/>
+<node id="jaylaal"/>
+<node id="StatSheet"/>
+<node id="acroll"/>
+<node id="DataStax"/>
+<node id="ravred1"/>
+<node id="mattconway"/>
+<node id="alanchiu"/>
+<node id="xamat"/>
+<node id="lbastmaster"/>
+<node id="jacomocorbo"/>
+<node id="ronbodkin"/>
+<node id="kathrynb"/>
+<node id="juam"/>
+<node id="dchichkov"/>
+<node id="FrancescAlted"/>
+<node id="ericblue"/>
+<node id="DistributedData"/>
+<node id="Reportlinker"/>
+<node id="yottalytics"/>
+<node id="u_m"/>
+<node id="BJDennis"/>
+<node id="davidandrzej"/>
+<node id="HoosierZimBob"/>
+<node id="annadivoli"/>
+<node id="SuzAxtell"/>
+<node id="infosthetics"/>
+<node id="ginablaber"/>
+<node id="Robb_at_SAP"/>
+<node id="shoshe"/>
+<node id="pdirden"/>
+<node id="sirgalahad88"/>
+<node id="imrantech"/>
+<node id="shawnrdavis"/>
+<node id="mlcunharj"/>
+<node id="bitsybot"/>
+<node id="VijoyStanford"/>
+<node id="shree_dandekar"/>
+<node id="tdelet"/>
+<node id="spooksandgeeks"/>
+<node id="VenuAB"/>
+<node id="VanessaAlvarez1"/>
+<node id="dhanush_ram"/>
+<node id="geekaustinorg"/>
+<node id="eimarb"/>
+<node id="JohnDAmos"/>
+<node id="mattb"/>
+<node id="randomwalks"/>
+<node id="dajobe"/>
+<node id="erinbartolo"/>
+<node id="nickchoat"/>
+<node id="fbancilhon"/>
+<node id="cjpberry"/>
+<node id="pedrobizarro"/>
+<node id="jiboumans"/>
+<node id="salildave"/>
+<node id="cutting"/>
+<node id="pclark"/>
+<node id="bullock_j"/>
+<node id="KarinaBernier"/>
+<node id="C_Burrage"/>
+<node id="sergeyche"/>
+<node id="amrcn_werewolf"/>
+<node id="acts_as_geek"/>
+<node id="DreamHostSimon"/>
+<node id="ray_bradford"/>
+<node id="awadallah"/>
+<node id="jarib"/>
+<node id="carlosbossy"/>
+<node id="michaelbaum"/>
+<node id="bbokal"/>
+<node id="golike"/>
+<node id="gorelikalex"/>
+<node id="bengoldacre"/>
+<node id="shashashasha"/>
+<node id="gretchengiles"/>
+<node id="whern"/>
+<node id="NoiseDerived"/>
+<node id="maxgadney"/>
+<node id="mouss"/>
+<node id="jstok"/>
+<node id="figshare"/>
+<node id="SQLCindy"/>
+<node id="dandye"/>
+<node id="heyrich"/>
+<node id="ReneeEdel"/>
+<node id="edd"/>
+<node id="chunsaker"/>
+<node id="RyanHennig"/>
+<node id="Ali_Couchbase"/>
+<node id="arman123"/>
+<node id="mrgunn"/>
+<node id="boudicca"/>
+<node id="gfodor"/>
+<node id="antgoldbloom"/>
+<node id="MicFarris"/>
+<node id="jimfalgout"/>
+<node id="ds_henry"/>
+<node id="jakintheie"/>
+<node id="ValhallaVC"/>
+<node id="nancygrady"/>
+<node id="SkytreeHQ"/>
+<node id="digiphile"/>
+<node id="cfigallo"/>
+<node id="mjlevitt"/>
+<node id="dhyug"/>
+<node id="sandeep_giri"/>
+<node id="DrSkippy27"/>
+<node id="work_paul"/>
+<node id="jongos"/>
+<node id="FabricPaul"/>
+<node id="gridgain"/>
+<node id="deejmon"/>
+<node id="jegerter"/>
+<node id="emileifrem"/>
+<node id="noahi"/>
+<node id="Alassehz"/>
+<node id="JohnFritz"/>
+<node id="ekuex"/>
+<node id="jfaughnan"/>
+<node id="jganoff"/>
+<node id="jakajancar"/>
+<node id="ndunn2"/>
+<node id="missleigh"/>
+<node id="KevinFink"/>
+<node id="JohnM_Haddad"/>
+<node id="doryokujin"/>
+<node id="NA"/>
+<node id="rwjjr63"/>
+<node id="hungarianhc"/>
+<node id="bkgoodwin"/>
+<node id="frabcus"/>
+<node id="smhanov"/>
+<node id="diogoeag"/>
+<node id="spyced"/>
+<node id="dhohndel"/>
+<node id="datameer"/>
+<node id="ldodds"/>
+<node id="datatrenk"/>
+<node id="nik"/>
+<node id="alex_gurevich"/>
+<node id="Wojciech"/>
+<node id="jglesner"/>
+<node id="alephbass"/>
+<node id="liljango"/>
+<node id="metricmine"/>
+<node id="nodowning"/>
+<node id="JSIhealth"/>
+<node id="ghaff"/>
+<node id="weckerson"/>
+<node id="birengandhi"/>
+<node id="arunxjacob"/>
+<node id="davetown101"/>
+<node id="blueplastic"/>
+<node id="MichaelDHealy"/>
+<node id="ted_dunning"/>
+<node id="memsql"/>
+<node id="lionelgibbons"/>
+<node id="maureenjennings"/>
+<node id="fineberg"/>
+<node id="bradgillespie"/>
+<node id="cfusting"/>
+<node id="dwfranke"/>
+<node id="metaLayerHQ"/>
+<node id="laurifeldman"/>
+<node id="LaRueGz"/>
+<node id="markimbriaco"/>
+<node id="jeremyphoward"/>
+<node id="OSIsoftvCampus"/>
+<node id="chrismorf"/>
+<node id="aboynejames"/>
+<node id="jimkaskade"/>
+<node id="nmaillot"/>
+<node id="chryso"/>
+<node id="menadeau"/>
+<node id="mjillster"/>
+<node id="bosko"/>
+<node id="robmay"/>
+<node id="bibudh"/>
+<node id="HumphreyPL"/>
+<node id="KillianThinks"/>
+<node id="ssallys0130"/>
+<node id="PatrickMcFadin"/>
+<node id="kidokim509"/>
+<node id="jakeklamka"/>
+<node id="abmakulec"/>
+<node id="twleung"/>
+<node id="mrflip"/>
+<node id="rob1lancaster"/>
+<node id="akm"/>
+<node id="jukaykwek"/>
+<node id="bjepson"/>
+<node id="michaellasmanis"/>
+<node id="anitalillie"/>
+<node id="tongli123"/>
+<node id="suneelmarthi"/>
+<node id="costinl"/>
+<node id="zelandiya"/>
+<node id="rit"/>
+<node id="junar"/>
+<node id="RichardSJust"/>
+<node id="ekohlwey"/>
+<node id="MichaelCLeonard"/>
+<node id="aexia"/>
+<node id="romymisra"/>
+<node id="susielu_tweets"/>
+<node id="ivanku"/>
+<node id="niallohiggins"/>
+<node id="mardenneubert"/>
+<node id="kyungmink"/>
+<node id="imk5"/>
+<node id="markmadsen"/>
+<node id="polluxopera"/>
+<node id="DBMahon"/>
+<node id="ksunghyuk"/>
+<node id="samkeen"/>
+<node id="mikeolson"/>
+<node id="CataM"/>
+<node id="patmeenan"/>
+<node id="darkseed"/>
+<node id="jpmorgenthal"/>
+<node id="akihito"/>
+<node id="acmurthy"/>
+<node id="rokorokoroko"/>
+<node id="jdm_100"/>
+<node id="josephkelly"/>
+<node id="kkrugler"/>
+<node id="alison_kershaw"/>
+<node id="mkaz"/>
+<node id="misternaxal"/>
+<node id="rjmcdougall"/>
+<node id="rjurney"/>
+<node id="megamda"/>
+<node id="moscajuan"/>
+<node id="nathanmarz"/>
+<node id="fadimaamari"/>
+<node id="sarahnovotny"/>
+<node id="nick_montpetit"/>
+<node id="Paradosso"/>
+<node id="stochastician"/>
+<node id="manumarchal"/>
+<node id="blurdybop"/>
+<node id="GeoStatman"/>
+<node id="kimskuo"/>
+<node id="gnip"/>
+<node id="m3thdman"/>
+<node id="wesmckinn"/>
+<node id="kitaja"/>
+<node id="aaolia"/>
+<node id="LevonK"/>
+<node id="hornpolish"/>
+<node id="zznate"/>
+<node id="kovar56"/>
+<node id="steveos"/>
+<node id="amcclosky"/>
+<node id="hmason"/>
+<node id="GeorgeKowalski"/>
+<node id="ImAmyO"/>
+<node id="tmspecial"/>
+<node id="piyushlumba"/>
+<node id="chriskerns"/>
+<node id="maejohns"/>
+<node id="stevenn"/>
+<node id="aaronmasino"/>
+<node id="Calxeda"/>
+<node id="lornlab"/>
+<node id="rhm2k"/>
+<node id="lengningliu"/>
+<node id="postwait"/>
+<node id="dpatil"/>
+<node id="tovbinm"/>
+<node id="pendolare"/>
+<node id="SQLGal"/>
+<node id="bradoop"/>
+<node id="scottopia"/>
+<node id="QSims"/>
+<node id="alexsergeyev"/>
+<node id="webguppy"/>
+<node id="MarciaBTal"/>
+<node id="eriksowa"/>
+<node id="VerdeVenki"/>
+<node id="mjrusso"/>
+<node id="peteschlampp"/>
+<node id="romefort"/>
+<node id="sterlinm"/>
+<node id="impathic"/>
+<node id="NathanGSuh"/>
+<node id="DeanASauer"/>
+<node id="stojanovic"/>
+<node id="mrogati"/>
+<node id="crobelin"/>
+<node id="rrosen"/>
+<node id="SanjayPat"/>
+<node id="cp_jeanine"/>
+<node id="Karmasphere"/>
+<node id="wjsavage"/>
+<node id="blazeio"/>
+<node id="charlie_simpson"/>
+<node id="crcsmnky"/>
+<node id="nagakiran"/>
+<node id="m_rastan"/>
+<node id="cellbubbles"/>
+<node id="JohannaRehnvall"/>
+<node id="spectralogic"/>
+<node id="mansip84"/>
+<node id="ssgnr"/>
+<node id="OMGannaks"/>
+<node id="vipulsharma"/>
+<node id="brnstz"/>
+<node id="HenryR"/>
+<node id="jeroentjepkema"/>
+<node id="datadeluge"/>
+<node id="japerk"/>
+<node id="chadricheson"/>
+<node id="jonNetApp"/>
+<node id="jsundram"/>
+<node id="joshdsullivan"/>
+<node id="rroumeliotis"/>
+<node id="jesusrenero"/>
+<node id="spara"/>
+<node id="salathegroup"/>
+<node id="asjs"/>
+<node id="jasprice"/>
+<node id="asaracho"/>
+<node id="tomassoderstrom"/>
+<node id="marc_smith"/>
+<node id="sadatshami"/>
+<node id="urgetopunt"/>
+<node id="tableau"/>
+<node id="jseidman"/>
+<node id="peterseibel"/>
+<node id="jpoetker"/>
+<node id="petricek"/>
+<node id="rqtaylor"/>
+<node id="dantagg"/>
+<node id="cshanklin"/>
+<node id="sajanparihar"/>
+<node id="jakeporway"/>
+<node id="peerside"/>
+<node id="twj2bagel"/>
+<node id="abetaha"/>
+<node id="jimprosser"/>
+<node id="NicoThieb"/>
+<node id="jasonjs"/>
+<node id="kurtosis0"/>
+<node id="shantiS"/>
+<node id="craigles75"/>
+<node id="JasonRutherglen"/>
+<node id="sseagraves"/>
+<node id="minrk"/>
+<node id="cp707"/>
+<node id="LusciousPear"/>
+<node id="nsebastiao"/>
+<node id="jesserobbins"/>
+<node id="Calpont"/>
+<node id="bennytheshap"/>
+<node id="luisdans"/>
+<node id="scyphers"/>
+<node id="bendystraw"/>
+<node id="kaythaney"/>
+<node id="peteskomoroch"/>
+<node id="rafaelspereira"/>
+<node id="truaxis"/>
+<node id="amisaify"/>
+<node id="doug_r"/>
+<node id="heswaff"/>
+<node id="kiwitobes"/>
+<node id="stevetl2"/>
+<node id="pwang"/>
+<node id="bwerther"/>
+<node id="dtunkelang"/>
+<node id="idiganalytics"/>
+<node id="pinotrogu"/>
+<node id="martinzych"/>
+<node id="zhangmimi"/>
+<node id="junya100"/>
+<node id="jpmwilliamson"/>
+<node id="tricaud"/>
+<node id="dirkvandenpoel"/>
+<node id="lisaczhang"/>
+<node id="David_R8"/>
+<node id="fzunino"/>
+<node id="myid"/>
+<node id="eventbrite"/>
+<node id="stefanvdwalt"/>
+<node id="wenmingye"/>
+<node id="dougwillobee"/>
+<node id="cwensel"/>
+<node id="davevr"/>
+<node id="mattturck"/>
+<node id="Liewegas"/>
+<node id="avillamil7"/>
+<node id="josh_wills"/>
+<node id="kochit"/>
+<node id="vtuulos"/>
+<node id="latentview"/>
+<node id="Walintschek"/>
+<node id="GrameenFdn"/>
+<node id="truve"/>
+<node id="robtreat2"/>
+<node id="HemantWarudkar"/>
+<node id="tylerziemann"/>
+<node id="jtuulos"/>
+<node id="sundanceca"/>
+<node id="sg_williams"/>
+<node id="mtrumpbour"/>
+<node id="tedwong"/>
+<node id="petewarden"/>
+<node id="wahalulu"/>
+<node id="eduardovilar"/>
+<node id="taoawu"/>
+<node id="nwenzel"/>
+<node id="gvaswani"/>
+<node id="deanwampler"/>
+<node id="jnova1974"/>
+<node id="ContinuumIO"/>
+<node id="google"/>
+<node id="CrowdControl1"/>
+<node id="LincVerlander"/>
+<node id="platform_hiperf"/>
+<edge source="aallan" target="maureenjennings"/>
+<edge source="aallan" target="noahi"/>
+<edge source="aallan" target="mrflip"/>
+<edge source="aallan" target="acroll"/>
+<edge source="aallan" target="petewarden"/>
+<edge source="aallan" target="ginablaber"/>
+<edge source="aallan" target="sarahnovotny"/>
+<edge source="aallan" target="kathrynb"/>
+<edge source="aallan" target="hmason"/>
+<edge source="aallan" target="kaythaney"/>
+<edge source="aallan" target="edd"/>
+<edge source="aallan" target="bjepson"/>
+<edge source="aaolia" target="markmadsen"/>
+<edge source="aaolia" target="JonBruner"/>
+<edge source="abetaha" target="dberkholz"/>
+<edge source="abetaha" target="wesmckinn"/>
+<edge source="abetaha" target="HenryR"/>
+<edge source="abetaha" target="jesserobbins"/>
+<edge source="abetaha" target="markmadsen"/>
+<edge source="abetaha" target="dpatil"/>
+<edge source="abetaha" target="peteskomoroch"/>
+<edge source="abetaha" target="hmason"/>
+<edge source="abetaha" target="cutting"/>
+<edge source="abetaha" target="jseidman"/>
+<edge source="abetaha" target="nik"/>
+<edge source="abetaha" target="mrogati"/>
+<edge source="abetaha" target="stojanovic"/>
+<edge source="abetaha" target="hortonworks"/>
+<edge source="abetaha" target="kathrynb"/>
+<edge source="abetaha" target="VanessaAlvarez1"/>
+<edge source="abetaha" target="acmurthy"/>
+<edge source="abetaha" target="ted_dunning"/>
+<edge source="abetaha" target="nathanmarz"/>
+<edge source="abetaha" target="kkrugler"/>
+<edge source="abetaha" target="bwerther"/>
+<edge source="abetaha" target="petewarden"/>
+<edge source="abetaha" target="postwait"/>
+<edge source="abetaha" target="mikeolson"/>
+<edge source="abetaha" target="peterseibel"/>
+<edge source="abetaha" target="mrflip"/>
+<edge source="abetaha" target="awadallah"/>
+<edge source="abetaha" target="rjurney"/>
+<edge source="abetaha" target="cwensel"/>
+<edge source="abetaha" target="google"/>
+<edge source="abmakulec" target="bitsybot"/>
+<edge source="abmakulec" target="SuzAxtell"/>
+<edge source="abmakulec" target="JSIhealth"/>
+<edge source="abmakulec" target="MichaelDHealy"/>
+<edge source="abmakulec" target="noahi"/>
+<edge source="abmakulec" target="ginablaber"/>
+<edge source="abmakulec" target="alex_gurevich"/>
+<edge source="abmakulec" target="jandersen"/>
+<edge source="abmakulec" target="tableau"/>
+<edge source="abmakulec" target="mrflip"/>
+<edge source="abmakulec" target="bengoldacre"/>
+<edge source="aboynejames" target="boudicca"/>
+<edge source="aboynejames" target="deejmon"/>
+<edge source="aboynejames" target="mrgunn"/>
+<edge source="aboynejames" target="HenryR"/>
+<edge source="aboynejames" target="petewarden"/>
+<edge source="aboynejames" target="antgoldbloom"/>
+<edge source="aboynejames" target="dtunkelang"/>
+<edge source="aboynejames" target="acroll"/>
+<edge source="aboynejames" target="kaythaney"/>
+<edge source="aboynejames" target="zelandiya"/>
+<edge source="aboynejames" target="shoshe"/>
+<edge source="aboynejames" target="cwensel"/>
+<edge source="aboynejames" target="sarahnovotny"/>
+<edge source="aboynejames" target="edd"/>
+<edge source="aboynejames" target="hmason"/>
+<edge source="aboynejames" target="peteskomoroch"/>
+<edge source="acmurthy" target="bradoop"/>
+<edge source="acmurthy" target="hmason"/>
+<edge source="acmurthy" target="nik"/>
+<edge source="acmurthy" target="edd"/>
+<edge source="acmurthy" target="VanessaAlvarez1"/>
+<edge source="acmurthy" target="jimkaskade"/>
+<edge source="acmurthy" target="emileifrem"/>
+<edge source="acmurthy" target="mrflip"/>
+<edge source="acmurthy" target="mrogati"/>
+<edge source="acmurthy" target="spyced"/>
+<edge source="acmurthy" target="datameer"/>
+<edge source="acmurthy" target="HenryR"/>
+<edge source="acmurthy" target="stojanovic"/>
+<edge source="acmurthy" target="hortonworks"/>
+<edge source="acmurthy" target="megamda"/>
+<edge source="acmurthy" target="abetaha"/>
+<edge source="acmurthy" target="ronbodkin"/>
+<edge source="acmurthy" target="peteskomoroch"/>
+<edge source="acmurthy" target="AvikonHadoop"/>
+<edge source="acmurthy" target="kkrugler"/>
+<edge source="acmurthy" target="cwensel"/>
+<edge source="acmurthy" target="mikeolson"/>
+<edge source="acmurthy" target="cloudera"/>
+<edge source="acmurthy" target="cutting"/>
+<edge source="acmurthy" target="awadallah"/>
+<edge source="acroll" target="dberkholz"/>
+<edge source="acroll" target="charlie_simpson"/>
+<edge source="acroll" target="mattturck"/>
+<edge source="acroll" target="bosko"/>
+<edge source="acroll" target="JonBruner"/>
+<edge source="acroll" target="dreasoning"/>
+<edge source="acroll" target="pclark"/>
+<edge source="acroll" target="cjpberry"/>
+<edge source="acroll" target="bengoldacre"/>
+<edge source="acroll" target="jdm_100"/>
+<edge source="acroll" target="mattb"/>
+<edge source="acroll" target="jeremyphoward"/>
+<edge source="acroll" target="deejmon"/>
+<edge source="acroll" target="mrogati"/>
+<edge source="acroll" target="infosthetics"/>
+<edge source="acroll" target="mrgunn"/>
+<edge source="acroll" target="dpatil"/>
+<edge source="acroll" target="zelandiya"/>
+<edge source="acroll" target="mrflip"/>
+<edge source="acroll" target="peteskomoroch"/>
+<edge source="acroll" target="jpmorgenthal"/>
+<edge source="acroll" target="mkaz"/>
+<edge source="acroll" target="kaythaney"/>
+<edge source="acroll" target="josh_wills"/>
+<edge source="acroll" target="kiwitobes"/>
+<edge source="acroll" target="noahi"/>
+<edge source="acroll" target="digiphile"/>
+<edge source="acroll" target="sarahnovotny"/>
+<edge source="acroll" target="aallan"/>
+<edge source="acroll" target="SuzAxtell"/>
+<edge source="acroll" target="ldodds"/>
+<edge source="acroll" target="LusciousPear"/>
+<edge source="acroll" target="VanessaAlvarez1"/>
+<edge source="acroll" target="jeroentjepkema"/>
+<edge source="acroll" target="u_m"/>
+<edge source="acroll" target="ginablaber"/>
+<edge source="acroll" target="chunsaker"/>
+<edge source="acroll" target="rhm2k"/>
+<edge source="acroll" target="edd"/>
+<edge source="acroll" target="jesserobbins"/>
+<edge source="acroll" target="lionelgibbons"/>
+<edge source="acts_as_geek" target="hmason"/>
+<edge source="akihito" target="jakeporway"/>
+<edge source="akm" target="edd"/>
+<edge source="akm" target="mrogati"/>
+<edge source="akm" target="mikeolson"/>
+<edge source="akm" target="missleigh"/>
+<edge source="akm" target="google"/>
+<edge source="alanchiu" target="jakeporway"/>
+<edge source="alanchiu" target="acroll"/>
+<edge source="alanchiu" target="memsql"/>
+<edge source="alanchiu" target="petewarden"/>
+<edge source="alanchiu" target="mattb"/>
+<edge source="alanchiu" target="peteskomoroch"/>
+<edge source="alanchiu" target="mrogati"/>
+<edge source="alanchiu" target="alex_gurevich"/>
+<edge source="alanchiu" target="hortonworks"/>
+<edge source="alanchiu" target="VanessaAlvarez1"/>
+<edge source="alanchiu" target="rhm2k"/>
+<edge source="alanchiu" target="dpatil"/>
+<edge source="alanchiu" target="jesserobbins"/>
+<edge source="alanchiu" target="michaelbaum"/>
+<edge source="alanchiu" target="mikeolson"/>
+<edge source="alanchiu" target="awadallah"/>
+<edge source="alanchiu" target="cloudera"/>
+<edge source="alanchiu" target="ray_bradford"/>
+<edge source="alanchiu" target="google"/>
+<edge source="alassehz" target="hmason"/>
+<edge source="alassehz" target="mrogati"/>
+<edge source="alassehz" target="acroll"/>
+<edge source="alassehz" target="dtunkelang"/>
+<edge source="alassehz" target="petricek"/>
+<edge source="alassehz" target="dpatil"/>
+<edge source="alassehz" target="peteskomoroch"/>
+<edge source="alassehz" target="xamat"/>
+<edge source="alephbass" target="jeremyphoward"/>
+<edge source="alephbass" target="noahi"/>
+<edge source="alephbass" target="jakeporway"/>
+<edge source="alephbass" target="digiphile"/>
+<edge source="alephbass" target="rjurney"/>
+<edge source="alex_gurevich" target="SkytreeHQ"/>
+<edge source="alex_gurevich" target="mikeolson"/>
+<edge source="alex_gurevich" target="awadallah"/>
+<edge source="alex_gurevich" target="google"/>
+<edge source="alexsergeyev" target="metaLayerHQ"/>
+<edge source="alexsergeyev" target="tovbinm"/>
+<edge source="alexsergeyev" target="acroll"/>
+<edge source="alexsergeyev" target="OMGannaks"/>
+<edge source="alexsergeyev" target="spyced"/>
+<edge source="alexsergeyev" target="DataStax"/>
+<edge source="alexsergeyev" target="markimbriaco"/>
+<edge source="alexsergeyev" target="postwait"/>
+<edge source="alexsergeyev" target="zznate"/>
+<edge source="alexsergeyev" target="patmeenan"/>
+<edge source="alison_kershaw" target="ldodds"/>
+<edge source="amcclosky" target="ekohlwey"/>
+<edge source="amcclosky" target="missleigh"/>
+<edge source="amcclosky" target="dpatil"/>
+<edge source="amcclosky" target="bits_of_kris"/>
+<edge source="amcclosky" target="jeremyphoward"/>
+<edge source="amcclosky" target="postwait"/>
+<edge source="amcclosky" target="petewarden"/>
+<edge source="amcclosky" target="sseagraves"/>
+<edge source="amcclosky" target="xamat"/>
+<edge source="amcclosky" target="RichardSJust"/>
+<edge source="amcclosky" target="acroll"/>
+<edge source="amcclosky" target="stochastician"/>
+<edge source="amcclosky" target="aallan"/>
+<edge source="amcclosky" target="OMGannaks"/>
+<edge source="amcclosky" target="shashashasha"/>
+<edge source="amcclosky" target="jandersen"/>
+<edge source="amcclosky" target="SQLGal"/>
+<edge source="amcclosky" target="wesmckinn"/>
+<edge source="amcclosky" target="bengoldacre"/>
+<edge source="amcclosky" target="jakeporway"/>
+<edge source="amcclosky" target="cutting"/>
+<edge source="amcclosky" target="David_R8"/>
+<edge source="amcclosky" target="zelandiya"/>
+<edge source="amcclosky" target="charlie_simpson"/>
+<edge source="amcclosky" target="markmadsen"/>
+<edge source="amcclosky" target="japerk"/>
+<edge source="amcclosky" target="annadivoli"/>
+<edge source="amcclosky" target="mrogati"/>
+<edge source="amcclosky" target="chunsaker"/>
+<edge source="amcclosky" target="kaythaney"/>
+<edge source="amcclosky" target="nathanmarz"/>
+<edge source="amcclosky" target="edd"/>
+<edge source="amcclosky" target="peteskomoroch"/>
+<edge source="amcclosky" target="LusciousPear"/>
+<edge source="amcclosky" target="rjurney"/>
+<edge source="amcclosky" target="mrflip"/>
+<edge source="amcclosky" target="DataStax"/>
+<edge source="amcclosky" target="spyced"/>
+<edge source="amcclosky" target="hmason"/>
+<edge source="anitalillie" target="romymisra"/>
+<edge source="anitalillie" target="jakeklamka"/>
+<edge source="anitalillie" target="dtunkelang"/>
+<edge source="anitalillie" target="bits_of_kris"/>
+<edge source="anitalillie" target="jsundram"/>
+<edge source="anitalillie" target="jtuulos"/>
+<edge source="anitalillie" target="shashashasha"/>
+<edge source="anitalillie" target="infosthetics"/>
+<edge source="anitalillie" target="peteskomoroch"/>
+<edge source="anitalillie" target="dpatil"/>
+<edge source="annadivoli" target="SuzAxtell"/>
+<edge source="annadivoli" target="mrogati"/>
+<edge source="annadivoli" target="mattb"/>
+<edge source="annadivoli" target="dtunkelang"/>
+<edge source="annadivoli" target="zelandiya"/>
+<edge source="annadivoli" target="google"/>
+<edge source="antgoldbloom" target="xamat"/>
+<edge source="antgoldbloom" target="ginablaber"/>
+<edge source="antgoldbloom" target="kaythaney"/>
+<edge source="antgoldbloom" target="jandersen"/>
+<edge source="antgoldbloom" target="digiphile"/>
+<edge source="antgoldbloom" target="mrogati"/>
+<edge source="antgoldbloom" target="jakeporway"/>
+<edge source="antgoldbloom" target="jeremyphoward"/>
+<edge source="antgoldbloom" target="acroll"/>
+<edge source="antgoldbloom" target="dtunkelang"/>
+<edge source="antgoldbloom" target="mrflip"/>
+<edge source="antgoldbloom" target="dpatil"/>
+<edge source="antgoldbloom" target="edd"/>
+<edge source="antgoldbloom" target="cwensel"/>
+<edge source="antgoldbloom" target="hmason"/>
+<edge source="antgoldbloom" target="petewarden"/>
+<edge source="antgoldbloom" target="peteskomoroch"/>
+<edge source="arman123" target="markmadsen"/>
+<edge source="arman123" target="weckerson"/>
+<edge source="arunxjacob" target="postwait"/>
+<edge source="arunxjacob" target="mikeolson"/>
+<edge source="arunxjacob" target="twleung"/>
+<edge source="arunxjacob" target="jakeporway"/>
+<edge source="arunxjacob" target="petewarden"/>
+<edge source="arunxjacob" target="cutting"/>
+<edge source="arunxjacob" target="rjurney"/>
+<edge source="arunxjacob" target="ted_dunning"/>
+<edge source="arunxjacob" target="acmurthy"/>
+<edge source="arunxjacob" target="kkrugler"/>
+<edge source="arunxjacob" target="cloudera"/>
+<edge source="arunxjacob" target="peteskomoroch"/>
+<edge source="asjs" target="acroll"/>
+<edge source="asjs" target="DrSkippy27"/>
+<edge source="asjs" target="noahi"/>
+<edge source="asjs" target="aallan"/>
+<edge source="asjs" target="mrflip"/>
+<edge source="asjs" target="jakeporway"/>
+<edge source="asjs" target="kaythaney"/>
+<edge source="asjs" target="hmason"/>
+<edge source="asjs" target="infosthetics"/>
+<edge source="asjs" target="tableau"/>
+<edge source="asjs" target="mtrumpbour"/>
+<edge source="AvikonHadoop" target="cutting"/>
+<edge source="AvikonHadoop" target="datameer"/>
+<edge source="AvikonHadoop" target="hortonworks"/>
+<edge source="AvikonHadoop" target="awadallah"/>
+<edge source="AvikonHadoop" target="mikeolson"/>
+<edge source="AvikonHadoop" target="acmurthy"/>
+<edge source="avillamil7" target="jpmorgenthal"/>
+<edge source="avillamil7" target="markmadsen"/>
+<edge source="avillamil7" target="rqtaylor"/>
+<edge source="avillamil7" target="acmurthy"/>
+<edge source="avillamil7" target="cutting"/>
+<edge source="avillamil7" target="mrflip"/>
+<edge source="avillamil7" target="infosthetics"/>
+<edge source="avillamil7" target="ted_dunning"/>
+<edge source="avillamil7" target="cloudera"/>
+<edge source="avillamil7" target="hortonworks"/>
+<edge source="avillamil7" target="datameer"/>
+<edge source="awadallah" target="rob1lancaster"/>
+<edge source="awadallah" target="KarinaBernier"/>
+<edge source="awadallah" target="josh_wills"/>
+<edge source="awadallah" target="hortonworks"/>
+<edge source="awadallah" target="AvikonHadoop"/>
+<edge source="awadallah" target="edd"/>
+<edge source="awadallah" target="jseidman"/>
+<edge source="awadallah" target="VanessaAlvarez1"/>
+<edge source="awadallah" target="JohnFritz"/>
+<edge source="awadallah" target="ronbodkin"/>
+<edge source="awadallah" target="DataStax"/>
+<edge source="awadallah" target="LusciousPear"/>
+<edge source="awadallah" target="abetaha"/>
+<edge source="awadallah" target="kkrugler"/>
+<edge source="awadallah" target="Karmasphere"/>
+<edge source="awadallah" target="datameer"/>
+<edge source="awadallah" target="ted_dunning"/>
+<edge source="awadallah" target="markmadsen"/>
+<edge source="awadallah" target="maejohns"/>
+<edge source="awadallah" target="cwensel"/>
+<edge source="awadallah" target="dpatil"/>
+<edge source="awadallah" target="weckerson"/>
+<edge source="awadallah" target="rjurney"/>
+<edge source="awadallah" target="jesserobbins"/>
+<edge source="awadallah" target="acmurthy"/>
+<edge source="awadallah" target="hmason"/>
+<edge source="awadallah" target="google"/>
+<edge source="awadallah" target="bwerther"/>
+<edge source="awadallah" target="HenryR"/>
+<edge source="awadallah" target="sarahnovotny"/>
+<edge source="awadallah" target="tableau"/>
+<edge source="awadallah" target="peteskomoroch"/>
+<edge source="awadallah" target="joshdsullivan"/>
+<edge source="awadallah" target="mrflip"/>
+<edge source="awadallah" target="cutting"/>
+<edge source="awadallah" target="mikeolson"/>
+<edge source="awadallah" target="cloudera"/>
+<edge source="bbokal" target="DrSkippy27"/>
+<edge source="bbokal" target="gnip"/>
+<edge source="bendystraw" target="VL_Carlson"/>
+<edge source="bendystraw" target="SuzAxtell"/>
+<edge source="bendystraw" target="digiphile"/>
+<edge source="bengoldacre" target="digiphile"/>
+<edge source="bengoldacre" target="tableau"/>
+<edge source="bengoldacre" target="acroll"/>
+<edge source="bengoldacre" target="figshare"/>
+<edge source="bengoldacre" target="edd"/>
+<edge source="bengoldacre" target="kaythaney"/>
+<edge source="bengoldacre" target="hmason"/>
+<edge source="bengoldacre" target="infosthetics"/>
+<edge source="bengoldacre" target="frabcus"/>
+<edge source="bibudh" target="postwait"/>
+<edge source="bibudh" target="nathanmarz"/>
+<edge source="bibudh" target="xamat"/>
+<edge source="bibudh" target="mrogati"/>
+<edge source="bibudh" target="mattb"/>
+<edge source="bibudh" target="cutting"/>
+<edge source="bibudh" target="hmason"/>
+<edge source="billcava" target="cutting"/>
+<edge source="billcava" target="SQLCindy"/>
+<edge source="billcava" target="digiphile"/>
+<edge source="birengandhi" target="cisco"/>
+<edge source="birengandhi" target="digiphile"/>
+<edge source="bits_of_kris" target="dpatil"/>
+<edge source="bits_of_kris" target="jakeporway"/>
+<edge source="bits_of_kris" target="anitalillie"/>
+<edge source="bitsybot" target="VL_Carlson"/>
+<edge source="bitsybot" target="JonBruner"/>
+<edge source="bitsybot" target="hmason"/>
+<edge source="bitsybot" target="infosthetics"/>
+<edge source="bitsybot" target="noahi"/>
+<edge source="bitsybot" target="jakeporway"/>
+<edge source="bitsybot" target="kaythaney"/>
+<edge source="bitsybot" target="shashashasha"/>
+<edge source="bitsybot" target="mrflip"/>
+<edge source="bjepson" target="rroumeliotis"/>
+<edge source="bjepson" target="dpatil"/>
+<edge source="bjepson" target="acroll"/>
+<edge source="bjepson" target="mrflip"/>
+<edge source="bjepson" target="petewarden"/>
+<edge source="bjepson" target="sarahnovotny"/>
+<edge source="bjepson" target="gretchengiles"/>
+<edge source="bjepson" target="kathrynb"/>
+<edge source="bjepson" target="pauldix"/>
+<edge source="bjepson" target="digiphile"/>
+<edge source="bjepson" target="gcarothers"/>
+<edge source="bjepson" target="mattb"/>
+<edge source="bjepson" target="kiwitobes"/>
+<edge source="bjepson" target="ReneeEdel"/>
+<edge source="bjepson" target="jesserobbins"/>
+<edge source="bjepson" target="maureenjennings"/>
+<edge source="bjepson" target="aallan"/>
+<edge source="bjepson" target="google"/>
+<edge source="bjepson" target="pdirden"/>
+<edge source="bjepson" target="ginablaber"/>
+<edge source="bjepson" target="SuzAxtell"/>
+<edge source="bjepson" target="mjlevitt"/>
+<edge source="bjepson" target="hmason"/>
+<edge source="bjepson" target="edd"/>
+<edge source="Bkgoodwin" target="edd"/>
+<edge source="blazeio" target="jeroentjepkema"/>
+<edge source="blazeio" target="twleung"/>
+<edge source="blazeio" target="postwait"/>
+<edge source="blazeio" target="aallan"/>
+<edge source="blazeio" target="jesserobbins"/>
+<edge source="blazeio" target="markimbriaco"/>
+<edge source="blazeio" target="rhm2k"/>
+<edge source="blazeio" target="sergeyche"/>
+<edge source="blazeio" target="patmeenan"/>
+<edge source="blueplastic" target="hortonworks"/>
+<edge source="blueplastic" target="cutting"/>
+<edge source="blueplastic" target="hmason"/>
+<edge source="blueplastic" target="spyced"/>
+<edge source="blueplastic" target="DataStax"/>
+<edge source="bosko" target="acroll"/>
+<edge source="boudicca" target="VL_Carlson"/>
+<edge source="boudicca" target="jeremyphoward"/>
+<edge source="boudicca" target="aboynejames"/>
+<edge source="boudicca" target="jongos"/>
+<edge source="boudicca" target="figshare"/>
+<edge source="boudicca" target="dtunkelang"/>
+<edge source="boudicca" target="eriksowa"/>
+<edge source="boudicca" target="mikeolson"/>
+<edge source="boudicca" target="ginablaber"/>
+<edge source="boudicca" target="petewarden"/>
+<edge source="boudicca" target="hmason"/>
+<edge source="boudicca" target="peteskomoroch"/>
+<edge source="boudicca" target="dpatil"/>
+<edge source="boudicca" target="mrgunn"/>
+<edge source="boudicca" target="u_m"/>
+<edge source="bradgillespie" target="mrflip"/>
+<edge source="bradgillespie" target="peteskomoroch"/>
+<edge source="bradgillespie" target="LusciousPear"/>
+<edge source="bradgillespie" target="hmason"/>
+<edge source="bradoop" target="megamda"/>
+<edge source="bradoop" target="jseidman"/>
+<edge source="bradoop" target="datameer"/>
+<edge source="bradoop" target="peteskomoroch"/>
+<edge source="bradoop" target="awadallah"/>
+<edge source="bradoop" target="lengningliu"/>
+<edge source="bradoop" target="SQLGal"/>
+<edge source="bradoop" target="edd"/>
+<edge source="bradoop" target="cloudera"/>
+<edge source="bradoop" target="hortonworks"/>
+<edge source="bradoop" target="cutting"/>
+<edge source="bradoop" target="davevr"/>
+<edge source="bradoop" target="acmurthy"/>
+<edge source="bradoop" target="stojanovic"/>
+<edge source="broady" target="spara"/>
+<edge source="bruntonspall" target="jesserobbins"/>
+<edge source="bruntonspall" target="jiboumans"/>
+<edge source="bruntonspall" target="postwait"/>
+<edge source="bruntonspall" target="kaythaney"/>
+<edge source="bruntonspall" target="mattb"/>
+<edge source="bruntonspall" target="nik"/>
+<edge source="bruntonspall" target="bengoldacre"/>
+<edge source="bruntonspall" target="google"/>
+<edge source="busytati" target="LusciousPear"/>
+<edge source="busytati" target="markmadsen"/>
+<edge source="busytati" target="mattb"/>
+<edge source="busytati" target="mikeolson"/>
+<edge source="busytati" target="VL_Carlson"/>
+<edge source="busytati" target="kiwitobes"/>
+<edge source="busytati" target="postwait"/>
+<edge source="busytati" target="rob1lancaster"/>
+<edge source="busytati" target="mrflip"/>
+<edge source="busytati" target="pclark"/>
+<edge source="busytati" target="peteskomoroch"/>
+<edge source="busytati" target="petewarden"/>
+<edge source="busytati" target="hmason"/>
+<edge source="busytati" target="cutting"/>
+<edge source="busytati" target="cwensel"/>
+<edge source="busytati" target="bwerther"/>
+<edge source="busytati" target="antgoldbloom"/>
+<edge source="busytati" target="acroll"/>
+<edge source="busytati" target="digiphile"/>
+<edge source="busytati" target="aallan"/>
+<edge source="busytati" target="abetaha"/>
+<edge source="bwerther" target="dpatil"/>
+<edge source="bwerther" target="noahi"/>
+<edge source="bwerther" target="abetaha"/>
+<edge source="bwerther" target="spyced"/>
+<edge source="bwerther" target="DataStax"/>
+<edge source="bwerther" target="cloudera"/>
+<edge source="bwerther" target="markmadsen"/>
+<edge source="bwerther" target="awadallah"/>
+<edge source="c_burrage" target="jsundram"/>
+<edge source="c_burrage" target="jongos"/>
+<edge source="c_burrage" target="metaLayerHQ"/>
+<edge source="calxeda" target="VanessaAlvarez1"/>
+<edge source="calxeda" target="ghaff"/>
+<edge source="calxeda" target="acroll"/>
+<edge source="calxeda" target="mchmarny"/>
+<edge source="calxeda" target="awadallah"/>
+<edge source="calxeda" target="jesserobbins"/>
+<edge source="calxeda" target="DataStax"/>
+<edge source="calxeda" target="datameer"/>
+<edge source="calxeda" target="cloudera"/>
+<edge source="calxeda" target="google"/>
+<edge source="carlosbossy" target="tmspecial"/>
+<edge source="carlosbossy" target="gnip"/>
+<edge source="carlosbossy" target="SuzAxtell"/>
+<edge source="carlosbossy" target="SQLCindy"/>
+<edge source="carlosbossy" target="SQLGal"/>
+<edge source="catam" target="memsql"/>
+<edge source="catam" target="noahi"/>
+<edge source="catam" target="mikeolson"/>
+<edge source="charlie_simpson" target="markmadsen"/>
+<edge source="charlie_simpson" target="acroll"/>
+<edge source="charlie_simpson" target="jakeporway"/>
+<edge source="chryso" target="google"/>
+<edge source="chunsaker" target="dtunkelang"/>
+<edge source="chunsaker" target="dpatil"/>
+<edge source="chunsaker" target="edd"/>
+<edge source="chunsaker" target="noahi"/>
+<edge source="chunsaker" target="peteskomoroch"/>
+<edge source="chunsaker" target="mrogati"/>
+<edge source="chunsaker" target="acroll"/>
+<edge source="chunsaker" target="ray_bradford"/>
+<edge source="cisco" target="hmason"/>
+<edge source="cjpberry" target="mrflip"/>
+<edge source="cjpberry" target="kaythaney"/>
+<edge source="cjpberry" target="bengoldacre"/>
+<edge source="cjpberry" target="figshare"/>
+<edge source="cjpberry" target="japerk"/>
+<edge source="cjpberry" target="mtrumpbour"/>
+<edge source="cjpberry" target="xamat"/>
+<edge source="cjpberry" target="fbancilhon"/>
+<edge source="cjpberry" target="nathanmarz"/>
+<edge source="cjpberry" target="digiphile"/>
+<edge source="cjpberry" target="dpatil"/>
+<edge source="cjpberry" target="MichaelDHealy"/>
+<edge source="cjpberry" target="acroll"/>
+<edge source="cloudera" target="VanessaAlvarez1"/>
+<edge source="cloudera" target="ted_dunning"/>
+<edge source="cloudera" target="dpatil"/>
+<edge source="cloudera" target="acmurthy"/>
+<edge source="cloudera" target="weckerson"/>
+<edge source="cloudera" target="joshdsullivan"/>
+<edge source="cloudera" target="HenryR"/>
+<edge source="cloudera" target="tableau"/>
+<edge source="cloudera" target="markmadsen"/>
+<edge source="cloudera" target="cwensel"/>
+<edge source="cloudera" target="mrflip"/>
+<edge source="cloudera" target="peteskomoroch"/>
+<edge source="cloudera" target="mikeolson"/>
+<edge source="cloudera" target="awadallah"/>
+<edge source="cloudera" target="rjurney"/>
+<edge source="cloudera" target="cutting"/>
+<edge source="ContinuumIO" target="stefanvdwalt"/>
+<edge source="ContinuumIO" target="mrflip"/>
+<edge source="ContinuumIO" target="hmason"/>
+<edge source="ContinuumIO" target="kaythaney"/>
+<edge source="ContinuumIO" target="minrk"/>
+<edge source="ContinuumIO" target="wesmckinn"/>
+<edge source="ContinuumIO" target="pwang"/>
+<edge source="costinl" target="cwensel"/>
+<edge source="costinl" target="DataStax"/>
+<edge source="cp707" target="mjlevitt"/>
+<edge source="crcsmnky" target="stochastician"/>
+<edge source="crcsmnky" target="mrflip"/>
+<edge source="crobelin" target="nmaillot"/>
+<edge source="crowdcontrol1" target="mattturck"/>
+<edge source="crowdcontrol1" target="deejmon"/>
+<edge source="cshanklin" target="acmurthy"/>
+<edge source="cshanklin" target="VanessaAlvarez1"/>
+<edge source="cshanklin" target="costinl"/>
+<edge source="cshanklin" target="rhm2k"/>
+<edge source="cutting" target="HenryR"/>
+<edge source="cutting" target="spooksandgeeks"/>
+<edge source="cutting" target="stojanovic"/>
+<edge source="cutting" target="stevenn"/>
+<edge source="cutting" target="mrflip"/>
+<edge source="cutting" target="awadallah"/>
+<edge source="cutting" target="mikeolson"/>
+<edge source="cutting" target="cloudera"/>
+<edge source="cutting" target="ted_dunning"/>
+<edge source="cwensel" target="hmason"/>
+<edge source="cwensel" target="hortonworks"/>
+<edge source="cwensel" target="ted_dunning"/>
+<edge source="cwensel" target="dajobe"/>
+<edge source="cwensel" target="Karmasphere"/>
+<edge source="cwensel" target="acmurthy"/>
+<edge source="cwensel" target="nathanmarz"/>
+<edge source="cwensel" target="kkrugler"/>
+<edge source="cwensel" target="LusciousPear"/>
+<edge source="cwensel" target="peteskomoroch"/>
+<edge source="dajobe" target="sarahnovotny"/>
+<edge source="dajobe" target="petewarden"/>
+<edge source="dajobe" target="cwensel"/>
+<edge source="dajobe" target="mjrusso"/>
+<edge source="dajobe" target="ldodds"/>
+<edge source="dajobe" target="mattb"/>
+<edge source="dajobe" target="edd"/>
+<edge source="dandye" target="pwang"/>
+<edge source="dandye" target="wesmckinn"/>
+<edge source="dandye" target="bruntonspall"/>
+<edge source="dandye" target="spara"/>
+<edge source="dandye" target="peteskomoroch"/>
+<edge source="dantagg" target="mrogati"/>
+<edge source="dantagg" target="mrflip"/>
+<edge source="dantagg" target="bengoldacre"/>
+<edge source="darkseed" target="LaRueGz"/>
+<edge source="darkseed" target="kkrugler"/>
+<edge source="darkseed" target="acroll"/>
+<edge source="darkseed" target="jeroentjepkema"/>
+<edge source="darkseed" target="postwait"/>
+<edge source="darkseed" target="jesserobbins"/>
+<edge source="darkseed" target="mrogati"/>
+<edge source="darkseed" target="hmason"/>
+<edge source="darkseed" target="patmeenan"/>
+<edge source="darkseed" target="mikeolson"/>
+<edge source="darkseed" target="google"/>
+<edge source="datadeluge" target="Karmasphere"/>
+<edge source="datadeluge" target="hortonworks"/>
+<edge source="datadeluge" target="cloudera"/>
+<edge source="datameer" target="rqtaylor"/>
+<edge source="datameer" target="tableau"/>
+<edge source="datameer" target="dpatil"/>
+<edge source="datameer" target="avillamil7"/>
+<edge source="datameer" target="cloudera"/>
+<edge source="datameer" target="hortonworks"/>
+<edge source="datameer" target="DataStax"/>
+<edge source="datameer" target="awadallah"/>
+<edge source="datameer" target="mrflip"/>
+<edge source="datameer" target="ted_dunning"/>
+<edge source="datameer" target="mikeolson"/>
+<edge source="datameer" target="nathanmarz"/>
+<edge source="datameer" target="cutting"/>
+<edge source="datameer" target="kkrugler"/>
+<edge source="datameer" target="cwensel"/>
+<edge source="DataStax" target="mrflip"/>
+<edge source="DataStax" target="Karmasphere"/>
+<edge source="DataStax" target="datameer"/>
+<edge source="DataStax" target="bwerther"/>
+<edge source="DataStax" target="geekaustinorg"/>
+<edge source="DataStax" target="cloudera"/>
+<edge source="DataStax" target="vipulsharma"/>
+<edge source="DataStax" target="mattconway"/>
+<edge source="DataStax" target="dreasoning"/>
+<edge source="DataStax" target="zznate"/>
+<edge source="DataStax" target="spooksandgeeks"/>
+<edge source="DataStax" target="spyced"/>
+<edge source="datatrenk" target="mrogati"/>
+<edge source="datatrenk" target="DataStax"/>
+<edge source="datatrenk" target="jeremyphoward"/>
+<edge source="datatrenk" target="antgoldbloom"/>
+<edge source="datatrenk" target="jsundram"/>
+<edge source="datatrenk" target="ted_dunning"/>
+<edge source="daveangulo" target="heyrich"/>
+<edge source="davetown101" target="mrogati"/>
+<edge source="davetown101" target="josh_wills"/>
+<edge source="davetown101" target="dpatil"/>
+<edge source="davetown101" target="dtunkelang"/>
+<edge source="davetown101" target="hmason"/>
+<edge source="davetown101" target="google"/>
+<edge source="davetown101" target="sadatshami"/>
+<edge source="davetown101" target="marc_smith"/>
+<edge source="davevr" target="bradoop"/>
+<edge source="davevr" target="SQLGal"/>
+<edge source="davevr" target="mikeolson"/>
+<edge source="davevr" target="stojanovic"/>
+<edge source="david_r8" target="kaythaney"/>
+<edge source="david_r8" target="zelandiya"/>
+<edge source="david_r8" target="jsundram"/>
+<edge source="david_r8" target="bruntonspall"/>
+<edge source="david_r8" target="google"/>
+<edge source="david_r8" target="digiphile"/>
+<edge source="davidandrzej" target="mrogati"/>
+<edge source="davidandrzej" target="dpatil"/>
+<edge source="davidandrzej" target="wesmckinn"/>
+<edge source="davidandrzej" target="cloudera"/>
+<edge source="davidandrzej" target="xamat"/>
+<edge source="davidandrzej" target="nathanmarz"/>
+<edge source="davidandrzej" target="peteskomoroch"/>
+<edge source="dberkholz" target="antgoldbloom"/>
+<edge source="dberkholz" target="bitsybot"/>
+<edge source="dberkholz" target="OMGannaks"/>
+<edge source="dberkholz" target="SQLCindy"/>
+<edge source="dberkholz" target="SQLGal"/>
+<edge source="dberkholz" target="kiwitobes"/>
+<edge source="dberkholz" target="dtunkelang"/>
+<edge source="dberkholz" target="annadivoli"/>
+<edge source="dberkholz" target="michaelbaum"/>
+<edge source="dberkholz" target="zelandiya"/>
+<edge source="dberkholz" target="mrogati"/>
+<edge source="dberkholz" target="robmay"/>
+<edge source="dberkholz" target="twleung"/>
+<edge source="dberkholz" target="dpatil"/>
+<edge source="dberkholz" target="edd"/>
+<edge source="dberkholz" target="jeremyphoward"/>
+<edge source="dberkholz" target="kaythaney"/>
+<edge source="dberkholz" target="petewarden"/>
+<edge source="dberkholz" target="mrflip"/>
+<edge source="dberkholz" target="LusciousPear"/>
+<edge source="dberkholz" target="mattb"/>
+<edge source="dberkholz" target="acroll"/>
+<edge source="dberkholz" target="acmurthy"/>
+<edge source="dberkholz" target="pclark"/>
+<edge source="dberkholz" target="MichaelCLeonard"/>
+<edge source="dberkholz" target="hmason"/>
+<edge source="dberkholz" target="mikeolson"/>
+<edge source="dberkholz" target="ghaff"/>
+<edge source="dberkholz" target="jesserobbins"/>
+<edge source="dberkholz" target="peteskomoroch"/>
+<edge source="DeanASauer" target="google"/>
+<edge source="deanwampler" target="ted_dunning"/>
+<edge source="deanwampler" target="JasonRutherglen"/>
+<edge source="deanwampler" target="rob1lancaster"/>
+<edge source="deanwampler" target="jsundram"/>
+<edge source="deanwampler" target="jseidman"/>
+<edge source="deanwampler" target="hmason"/>
+<edge source="deanwampler" target="rit"/>
+<edge source="deanwampler" target="edd"/>
+<edge source="deanwampler" target="zelandiya"/>
+<edge source="deanwampler" target="nathanmarz"/>
+<edge source="deanwampler" target="spyced"/>
+<edge source="deanwampler" target="peteskomoroch"/>
+<edge source="deanwampler" target="ronbodkin"/>
+<edge source="deejmon" target="mrogati"/>
+<edge source="deejmon" target="jakeporway"/>
+<edge source="deejmon" target="mrgunn"/>
+<edge source="deejmon" target="SuzAxtell"/>
+<edge source="deejmon" target="imrantech"/>
+<edge source="deejmon" target="CrowdControl1"/>
+<edge source="deejmon" target="mattturck"/>
+<edge source="deejmon" target="zelandiya"/>
+<edge source="deejmon" target="RichardSJust"/>
+<edge source="deejmon" target="aboynejames"/>
+<edge source="deejmon" target="PatrickMcFadin"/>
+<edge source="deejmon" target="bitsybot"/>
+<edge source="deejmon" target="mikeolson"/>
+<edge source="deejmon" target="cutting"/>
+<edge source="deejmon" target="cloudera"/>
+<edge source="deejmon" target="kaythaney"/>
+<edge source="deejmon" target="noahi"/>
+<edge source="deejmon" target="petewarden"/>
+<edge source="deejmon" target="acroll"/>
+<edge source="deejmon" target="peteskomoroch"/>
+<edge source="deejmon" target="google"/>
+<edge source="deejmon" target="dtunkelang"/>
+<edge source="deejmon" target="hmason"/>
+<edge source="deejmon" target="jeremyphoward"/>
+<edge source="deejmon" target="gnip"/>
+<edge source="deejmon" target="antgoldbloom"/>
+<edge source="deejmon" target="xamat"/>
+<edge source="dhanush_ram" target="hortonworks"/>
+<edge source="dhanush_ram" target="mikeolson"/>
+<edge source="dhanush_ram" target="cloudera"/>
+<edge source="dhohndel" target="ginablaber"/>
+<edge source="dhyug" target="nik"/>
+<edge source="digiphile" target="JonBruner"/>
+<edge source="digiphile" target="bengoldacre"/>
+<edge source="digiphile" target="hmason"/>
+<edge source="digiphile" target="acroll"/>
+<edge source="digiphile" target="edd"/>
+<edge source="digiphile" target="petewarden"/>
+<edge source="digiphile" target="VanessaAlvarez1"/>
+<edge source="digiphile" target="bjepson"/>
+<edge source="digiphile" target="google"/>
+<edge source="digiphile" target="billcava"/>
+<edge source="digiphile" target="ginablaber"/>
+<edge source="digiphile" target="jesserobbins"/>
+<edge source="diogoeag" target="nsebastiao"/>
+<edge source="diogoeag" target="pedrobizarro"/>
+<edge source="dirkvandenpoel" target="cutting"/>
+<edge source="dirkvandenpoel" target="edd"/>
+<edge source="dirkvandenpoel" target="noahi"/>
+<edge source="dirkvandenpoel" target="mikeolson"/>
+<edge source="dirkvandenpoel" target="jeremyphoward"/>
+<edge source="dirkvandenpoel" target="MarkLogic"/>
+<edge source="dirkvandenpoel" target="chriskerns"/>
+<edge source="dirkvandenpoel" target="dpatil"/>
+<edge source="dirkvandenpoel" target="datameer"/>
+<edge source="dirkvandenpoel" target="stevenn"/>
+<edge source="dirkvandenpoel" target="JonBruner"/>
+<edge source="dirkvandenpoel" target="antgoldbloom"/>
+<edge source="dirkvandenpoel" target="google"/>
+<edge source="dirkvandenpoel" target="hornpolish"/>
+<edge source="dirkvandenpoel" target="hmason"/>
+<edge source="dirkvandenpoel" target="peteskomoroch"/>
+<edge source="doryokujin" target="junya100"/>
+<edge source="doryokujin" target="lisaczhang"/>
+<edge source="doryokujin" target="jtuulos"/>
+<edge source="doryokujin" target="SkytreeHQ"/>
+<edge source="doryokujin" target="edd"/>
+<edge source="doryokujin" target="emileifrem"/>
+<edge source="doryokujin" target="luisdans"/>
+<edge source="doryokujin" target="DataStax"/>
+<edge source="doryokujin" target="AvikonHadoop"/>
+<edge source="doryokujin" target="dpatil"/>
+<edge source="doryokujin" target="spyced"/>
+<edge source="doryokujin" target="markmadsen"/>
+<edge source="doryokujin" target="hmason"/>
+<edge source="doryokujin" target="datameer"/>
+<edge source="doryokujin" target="Karmasphere"/>
+<edge source="doryokujin" target="ted_dunning"/>
+<edge source="doryokujin" target="HenryR"/>
+<edge source="doryokujin" target="acmurthy"/>
+<edge source="doryokujin" target="mikeolson"/>
+<edge source="doryokujin" target="hortonworks"/>
+<edge source="doryokujin" target="rjurney"/>
+<edge source="doryokujin" target="nathanmarz"/>
+<edge source="doryokujin" target="rit"/>
+<edge source="doryokujin" target="cloudera"/>
+<edge source="dpatil" target="kaythaney"/>
+<edge source="dpatil" target="kiwitobes"/>
+<edge source="dpatil" target="noahi"/>
+<edge source="dpatil" target="cwensel"/>
+<edge source="dpatil" target="bits_of_kris"/>
+<edge source="dpatil" target="cutting"/>
+<edge source="dpatil" target="JonBruner"/>
+<edge source="dpatil" target="jeremyphoward"/>
+<edge source="dpatil" target="nathanmarz"/>
+<edge source="dpatil" target="jakeporway"/>
+<edge source="dpatil" target="mrflip"/>
+<edge source="dpatil" target="ginablaber"/>
+<edge source="dpatil" target="wahalulu"/>
+<edge source="dpatil" target="antgoldbloom"/>
+<edge source="dpatil" target="dtunkelang"/>
+<edge source="dpatil" target="anitalillie"/>
+<edge source="dpatil" target="edd"/>
+<edge source="dpatil" target="mikeolson"/>
+<edge source="dpatil" target="hmason"/>
+<edge source="dpatil" target="marc_smith"/>
+<edge source="dpatil" target="petewarden"/>
+<edge source="dpatil" target="cloudera"/>
+<edge source="dpatil" target="awadallah"/>
+<edge source="dpatil" target="peteskomoroch"/>
+<edge source="dpatil" target="boudicca"/>
+<edge source="dpatil" target="mrogati"/>
+<edge source="dreasoning" target="daveangulo"/>
+<edge source="dreasoning" target="bengoldacre"/>
+<edge source="dreasoning" target="ted_dunning"/>
+<edge source="dreasoning" target="spyced"/>
+<edge source="dreasoning" target="dtunkelang"/>
+<edge source="dreasoning" target="acroll"/>
+<edge source="dreasoning" target="mikeolson"/>
+<edge source="dreasoning" target="cutting"/>
+<edge source="dreasoning" target="ronbodkin"/>
+<edge source="dreasoning" target="Karmasphere"/>
+<edge source="dreasoning" target="datameer"/>
+<edge source="dreasoning" target="tableau"/>
+<edge source="dreasoning" target="cloudera"/>
+<edge source="dreasoning" target="DataStax"/>
+<edge source="dreasoning" target="markmadsen"/>
+<edge source="dreasoning" target="spooksandgeeks"/>
+<edge source="DrSkippy27" target="peteskomoroch"/>
+<edge source="DrSkippy27" target="kurtosis0"/>
+<edge source="DrSkippy27" target="misternaxal"/>
+<edge source="DrSkippy27" target="petewarden"/>
+<edge source="DrSkippy27" target="gnip"/>
+<edge source="DrSkippy27" target="bbokal"/>
+<edge source="dtunkelang" target="markmadsen"/>
+<edge source="dtunkelang" target="mrogati"/>
+<edge source="dtunkelang" target="dpatil"/>
+<edge source="dtunkelang" target="peteskomoroch"/>
+<edge source="dtunkelang" target="zelandiya"/>
+<edge source="dtunkelang" target="hmason"/>
+<edge source="dtunkelang" target="xamat"/>
+<edge source="edd" target="michaelbaum"/>
+<edge source="edd" target="rhm2k"/>
+<edge source="edd" target="acmurthy"/>
+<edge source="edd" target="stojanovic"/>
+<edge source="edd" target="mikeolson"/>
+<edge source="edd" target="bwerther"/>
+<edge source="edd" target="wesmckinn"/>
+<edge source="edd" target="bengoldacre"/>
+<edge source="edd" target="noahi"/>
+<edge source="edd" target="emileifrem"/>
+<edge source="edd" target="antgoldbloom"/>
+<edge source="edd" target="jandersen"/>
+<edge source="edd" target="mrogati"/>
+<edge source="edd" target="hortonworks"/>
+<edge source="edd" target="dtunkelang"/>
+<edge source="edd" target="ReneeEdel"/>
+<edge source="edd" target="awadallah"/>
+<edge source="edd" target="aallan"/>
+<edge source="edd" target="petewarden"/>
+<edge source="edd" target="jakeporway"/>
+<edge source="edd" target="kaythaney"/>
+<edge source="edd" target="gcarothers"/>
+<edge source="edd" target="JohnFritz"/>
+<edge source="edd" target="digiphile"/>
+<edge source="edd" target="postwait"/>
+<edge source="edd" target="kathrynb"/>
+<edge source="edd" target="gretchengiles"/>
+<edge source="edd" target="Karmasphere"/>
+<edge source="edd" target="kiwitobes"/>
+<edge source="edd" target="sarahnovotny"/>
+<edge source="edd" target="markmadsen"/>
+<edge source="edd" target="dpatil"/>
+<edge source="edd" target="jesserobbins"/>
+<edge source="edd" target="LusciousPear"/>
+<edge source="edd" target="ronbodkin"/>
+<edge source="edd" target="peteskomoroch"/>
+<edge source="edd" target="nathanmarz"/>
+<edge source="edd" target="acroll"/>
+<edge source="edd" target="google"/>
+<edge source="edd" target="cwensel"/>
+<edge source="edd" target="pdirden"/>
+<edge source="edd" target="ginablaber"/>
+<edge source="edd" target="hmason"/>
+<edge source="edd" target="SuzAxtell"/>
+<edge source="edd" target="mjlevitt"/>
+<edge source="edd" target="bjepson"/>
+<edge source="edd" target="ldodds"/>
+<edge source="edd" target="dajobe"/>
+<edge source="edd" target="mattb"/>
+<edge source="eduardovilar" target="dpatil"/>
+<edge source="eduardovilar" target="cloudera"/>
+<edge source="eduardovilar" target="petewarden"/>
+<edge source="ekohlwey" target="joshdsullivan"/>
+<edge source="ekuex" target="imrantech"/>
+<edge source="emileifrem" target="dpatil"/>
+<edge source="emileifrem" target="dberkholz"/>
+<edge source="emileifrem" target="hortonworks"/>
+<edge source="emileifrem" target="rhm2k"/>
+<edge source="emileifrem" target="cshanklin"/>
+<edge source="emileifrem" target="costinl"/>
+<edge source="emileifrem" target="deanwampler"/>
+<edge source="emileifrem" target="DataStax"/>
+<edge source="emileifrem" target="mattb"/>
+<edge source="emileifrem" target="cloudera"/>
+<edge source="emileifrem" target="LusciousPear"/>
+<edge source="emileifrem" target="kiwitobes"/>
+<edge source="emileifrem" target="spyced"/>
+<edge source="emileifrem" target="mikeolson"/>
+<edge source="emileifrem" target="edd"/>
+<edge source="ericblue" target="jsundram"/>
+<edge source="ericblue" target="cutting"/>
+<edge source="ericblue" target="mkaz"/>
+<edge source="ericblue" target="dpatil"/>
+<edge source="ericblue" target="petewarden"/>
+<edge source="ericblue" target="infosthetics"/>
+<edge source="ericblue" target="edd"/>
+<edge source="eriksowa" target="ronbodkin"/>
+<edge source="eriksowa" target="petewarden"/>
+<edge source="eriksowa" target="cloudera"/>
+<edge source="eriksowa" target="hmason"/>
+<edge source="eriksowa" target="emileifrem"/>
+<edge source="eventbrite" target="LusciousPear"/>
+<edge source="eventbrite" target="vipulsharma"/>
+<edge source="eventbrite" target="xamat"/>
+<edge source="eventbrite" target="acroll"/>
+<edge source="eventbrite" target="hmason"/>
+<edge source="FabricPaul" target="markmadsen"/>
+<edge source="FabricPaul" target="mattturck"/>
+<edge source="FabricPaul" target="jesserobbins"/>
+<edge source="FabricPaul" target="acroll"/>
+<edge source="fadimaamari" target="dpatil"/>
+<edge source="fadimaamari" target="bengoldacre"/>
+<edge source="fadimaamari" target="acroll"/>
+<edge source="fbancilhon" target="boudicca"/>
+<edge source="fbancilhon" target="NicoThieb"/>
+<edge source="fbancilhon" target="shoshe"/>
+<edge source="fbancilhon" target="nmaillot"/>
+<edge source="figshare" target="OMGannaks"/>
+<edge source="figshare" target="David_R8"/>
+<edge source="figshare" target="jeremyphoward"/>
+<edge source="figshare" target="jongos"/>
+<edge source="figshare" target="bitsybot"/>
+<edge source="figshare" target="noahi"/>
+<edge source="figshare" target="mrflip"/>
+<edge source="figshare" target="bengoldacre"/>
+<edge source="figshare" target="digiphile"/>
+<edge source="figshare" target="edd"/>
+<edge source="figshare" target="acroll"/>
+<edge source="figshare" target="aallan"/>
+<edge source="figshare" target="hmason"/>
+<edge source="figshare" target="frabcus"/>
+<edge source="figshare" target="boudicca"/>
+<edge source="figshare" target="mrgunn"/>
+<edge source="figshare" target="kaythaney"/>
+<edge source="frabcus" target="jeremyphoward"/>
+<edge source="frabcus" target="mansip84"/>
+<edge source="frabcus" target="jakeporway"/>
+<edge source="frabcus" target="digiphile"/>
+<edge source="frabcus" target="mrflip"/>
+<edge source="frabcus" target="mattb"/>
+<edge source="FrancescAlted" target="ContinuumIO"/>
+<edge source="fzunino" target="dtunkelang"/>
+<edge source="fzunino" target="mrogati"/>
+<edge source="fzunino" target="mikeolson"/>
+<edge source="fzunino" target="acroll"/>
+<edge source="fzunino" target="dpatil"/>
+<edge source="fzunino" target="google"/>
+<edge source="fzunino" target="gnip"/>
+<edge source="fzunino" target="juam"/>
+<edge source="gcarothers" target="acroll"/>
+<edge source="gcarothers" target="dajobe"/>
+<edge source="gcarothers" target="edd"/>
+<edge source="gcarothers" target="bjepson"/>
+<edge source="gcarothers" target="ldodds"/>
+<edge source="georgekowalski" target="noahi"/>
+<edge source="geostatman" target="google"/>
+<edge source="gfodor" target="josh_wills"/>
+<edge source="gfodor" target="cutting"/>
+<edge source="gfodor" target="cwensel"/>
+<edge source="gfodor" target="nathanmarz"/>
+<edge source="ghaff" target="jsundram"/>
+<edge source="ghaff" target="mchmarny"/>
+<edge source="ghaff" target="Calxeda"/>
+<edge source="ghaff" target="dberkholz"/>
+<edge source="ghaff" target="jimkaskade"/>
+<edge source="ghaff" target="ImAmyO"/>
+<edge source="ginablaber" target="antgoldbloom"/>
+<edge source="ginablaber" target="dpatil"/>
+<edge source="ginablaber" target="hmason"/>
+<edge source="ginablaber" target="sarahnovotny"/>
+<edge source="ginablaber" target="jandersen"/>
+<edge source="ginablaber" target="dhohndel"/>
+<edge source="ginablaber" target="acroll"/>
+<edge source="ginablaber" target="kiwitobes"/>
+<edge source="ginablaber" target="edd"/>
+<edge source="ginablaber" target="jesserobbins"/>
+<edge source="ginablaber" target="bjepson"/>
+<edge source="ginablaber" target="mjlevitt"/>
+<edge source="ginablaber" target="SuzAxtell"/>
+<edge source="gnip" target="DrSkippy27"/>
+<edge source="gnip" target="bbokal"/>
+<edge source="gnip" target="petewarden"/>
+<edge source="golike" target="noahi"/>
+<edge source="golike" target="shashashasha"/>
+<edge source="Google" target="digiphile"/>
+<edge source="Google" target="jimprosser"/>
+<edge source="gorelikalex" target="dpatil"/>
+<edge source="gorelikalex" target="weckerson"/>
+<edge source="gorelikalex" target="hortonworks"/>
+<edge source="gorelikalex" target="cloudera"/>
+<edge source="gorelikalex" target="mikeolson"/>
+<edge source="gorelikalex" target="acmurthy"/>
+<edge source="gretchengiles" target="bitsybot"/>
+<edge source="gretchengiles" target="pauldix"/>
+<edge source="gretchengiles" target="sergeyche"/>
+<edge source="gretchengiles" target="patmeenan"/>
+<edge source="gretchengiles" target="postwait"/>
+<edge source="gretchengiles" target="jeroentjepkema"/>
+<edge source="gretchengiles" target="jesserobbins"/>
+<edge source="gretchengiles" target="acroll"/>
+<edge source="gretchengiles" target="cutting"/>
+<edge source="gretchengiles" target="bengoldacre"/>
+<edge source="gretchengiles" target="mjlevitt"/>
+<edge source="gretchengiles" target="aallan"/>
+<edge source="gretchengiles" target="digiphile"/>
+<edge source="gretchengiles" target="hmason"/>
+<edge source="gretchengiles" target="SuzAxtell"/>
+<edge source="gretchengiles" target="edd"/>
+<edge source="gretchengiles" target="ginablaber"/>
+<edge source="gretchengiles" target="bjepson"/>
+<edge source="gretchengiles" target="kathrynb"/>
+<edge source="gridgain" target="rit"/>
+<edge source="gridgain" target="mkaz"/>
+<edge source="gridgain" target="deanwampler"/>
+<edge source="gurdeepd" target="cloudera"/>
+<edge source="gurdeepd" target="markmadsen"/>
+<edge source="gvaswani" target="jakeporway"/>
+<edge source="HenryR" target="KarinaBernier"/>
+<edge source="HenryR" target="jseidman"/>
+<edge source="HenryR" target="dpatil"/>
+<edge source="HenryR" target="rokorokoroko"/>
+<edge source="HenryR" target="josh_wills"/>
+<edge source="HenryR" target="hmason"/>
+<edge source="HenryR" target="cutting"/>
+<edge source="HenryR" target="ted_dunning"/>
+<edge source="HenryR" target="cwensel"/>
+<edge source="HenryR" target="google"/>
+<edge source="HenryR" target="peteskomoroch"/>
+<edge source="HenryR" target="mikeolson"/>
+<edge source="HenryR" target="awadallah"/>
+<edge source="HenryR" target="mrflip"/>
+<edge source="HenryR" target="cloudera"/>
+<edge source="heyrich" target="gnip"/>
+<edge source="heyrich" target="edd"/>
+<edge source="heyrich" target="acroll"/>
+<edge source="heyrich" target="dpatil"/>
+<edge source="heyrich" target="jongos"/>
+<edge source="heyrich" target="nik"/>
+<edge source="heyrich" target="bradgillespie"/>
+<edge source="heyrich" target="google"/>
+<edge source="heyrich" target="petewarden"/>
+<edge source="heyrich" target="daveangulo"/>
+<edge source="hmason" target="mattturck"/>
+<edge source="hmason" target="OMGannaks"/>
+<edge source="hmason" target="markmadsen"/>
+<edge source="hmason" target="acroll"/>
+<edge source="hmason" target="noahi"/>
+<edge source="hmason" target="wesmckinn"/>
+<edge source="hmason" target="kurtosis0"/>
+<edge source="hmason" target="jsundram"/>
+<edge source="hmason" target="kaythaney"/>
+<edge source="hmason" target="antgoldbloom"/>
+<edge source="hmason" target="mrogati"/>
+<edge source="hmason" target="jakeporway"/>
+<edge source="hmason" target="digiphile"/>
+<edge source="hmason" target="aallan"/>
+<edge source="hmason" target="sarahnovotny"/>
+<edge source="hmason" target="LusciousPear"/>
+<edge source="hmason" target="davetown101"/>
+<edge source="hmason" target="petewarden"/>
+<edge source="hmason" target="kiwitobes"/>
+<edge source="hmason" target="mattb"/>
+<edge source="hmason" target="mikeolson"/>
+<edge source="hmason" target="dpatil"/>
+<edge source="hmason" target="maejohns"/>
+<edge source="hmason" target="bradgillespie"/>
+<edge source="hmason" target="dtunkelang"/>
+<edge source="hmason" target="zelandiya"/>
+<edge source="hmason" target="xamat"/>
+<edge source="hmason" target="mrflip"/>
+<edge source="hmason" target="awadallah"/>
+<edge source="hmason" target="peteskomoroch"/>
+<edge source="hmason" target="pauldix"/>
+<edge source="hmason" target="edd"/>
+<edge source="hmason" target="bjepson"/>
+<edge source="hoosierzimbob" target="tableau"/>
+<edge source="hornpolish" target="memsql"/>
+<edge source="hornpolish" target="MichaelDHealy"/>
+<edge source="hornpolish" target="ronbodkin"/>
+<edge source="hornpolish" target="josh_wills"/>
+<edge source="hornpolish" target="jakeporway"/>
+<edge source="hornpolish" target="stevenn"/>
+<edge source="hornpolish" target="datameer"/>
+<edge source="hornpolish" target="noahi"/>
+<edge source="hornpolish" target="hmason"/>
+<edge source="hornpolish" target="acroll"/>
+<edge source="hornpolish" target="HenryR"/>
+<edge source="hornpolish" target="dtunkelang"/>
+<edge source="hornpolish" target="spyced"/>
+<edge source="hornpolish" target="ted_dunning"/>
+<edge source="hornpolish" target="jseidman"/>
+<edge source="hornpolish" target="petewarden"/>
+<edge source="hornpolish" target="aallan"/>
+<edge source="hornpolish" target="cutting"/>
+<edge source="hornpolish" target="mrflip"/>
+<edge source="hornpolish" target="AvikonHadoop"/>
+<edge source="hornpolish" target="hortonworks"/>
+<edge source="hornpolish" target="mrogati"/>
+<edge source="hornpolish" target="acmurthy"/>
+<edge source="hornpolish" target="LusciousPear"/>
+<edge source="hornpolish" target="Karmasphere"/>
+<edge source="hornpolish" target="jandersen"/>
+<edge source="hornpolish" target="nwenzel"/>
+<edge source="hornpolish" target="joshdsullivan"/>
+<edge source="hornpolish" target="edd"/>
+<edge source="hornpolish" target="antgoldbloom"/>
+<edge source="hornpolish" target="dirkvandenpoel"/>
+<edge source="hornpolish" target="peteskomoroch"/>
+<edge source="hornpolish" target="google"/>
+<edge source="hornpolish" target="rjurney"/>
+<edge source="hornpolish" target="spooksandgeeks"/>
+<edge source="hornpolish" target="infosthetics"/>
+<edge source="hornpolish" target="lcecere"/>
+<edge source="hornpolish" target="awadallah"/>
+<edge source="hornpolish" target="markmadsen"/>
+<edge source="hornpolish" target="cloudera"/>
+<edge source="hornpolish" target="tableau"/>
+<edge source="hornpolish" target="mikeolson"/>
+<edge source="hornpolish" target="weckerson"/>
+<edge source="hortonworks" target="davevr"/>
+<edge source="hortonworks" target="VanessaAlvarez1"/>
+<edge source="hortonworks" target="Karmasphere"/>
+<edge source="hortonworks" target="datameer"/>
+<edge source="hortonworks" target="AvikonHadoop"/>
+<edge source="hortonworks" target="ronbodkin"/>
+<edge source="hortonworks" target="cwensel"/>
+<edge source="hortonworks" target="cutting"/>
+<edge source="hortonworks" target="edd"/>
+<edge source="hortonworks" target="weckerson"/>
+<edge source="hortonworks" target="acmurthy"/>
+<edge source="humphreypl" target="petewarden"/>
+<edge source="humphreypl" target="dpatil"/>
+<edge source="humphreypl" target="antgoldbloom"/>
+<edge source="humphreypl" target="eventbrite"/>
+<edge source="humphreypl" target="jeremyphoward"/>
+<edge source="humphreypl" target="google"/>
+<edge source="idiganalytics" target="edd"/>
+<edge source="imamyo" target="taoawu"/>
+<edge source="imamyo" target="awadallah"/>
+<edge source="imamyo" target="mikeolson"/>
+<edge source="imamyo" target="VanessaAlvarez1"/>
+<edge source="imamyo" target="hmason"/>
+<edge source="imamyo" target="cloudera"/>
+<edge source="imamyo" target="ghaff"/>
+<edge source="imrantech" target="markmadsen"/>
+<edge source="imrantech" target="digiphile"/>
+<edge source="imrantech" target="aallan"/>
+<edge source="imrantech" target="bitsybot"/>
+<edge source="imrantech" target="dirkvandenpoel"/>
+<edge source="imrantech" target="pclark"/>
+<edge source="imrantech" target="bengoldacre"/>
+<edge source="imrantech" target="mattturck"/>
+<edge source="imrantech" target="ginablaber"/>
+<edge source="imrantech" target="RichardSJust"/>
+<edge source="imrantech" target="zelandiya"/>
+<edge source="imrantech" target="jongos"/>
+<edge source="imrantech" target="manumarchal"/>
+<edge source="imrantech" target="deejmon"/>
+<edge source="imrantech" target="dtunkelang"/>
+<edge source="imrantech" target="Paradosso"/>
+<edge source="imrantech" target="abmakulec"/>
+<edge source="imrantech" target="peteskomoroch"/>
+<edge source="imrantech" target="jseidman"/>
+<edge source="imrantech" target="hmason"/>
+<edge source="imrantech" target="cloudera"/>
+<edge source="imrantech" target="mikeolson"/>
+<edge source="imrantech" target="dpatil"/>
+<edge source="imrantech" target="mrogati"/>
+<edge source="imrantech" target="awadallah"/>
+<edge source="imrantech" target="spyced"/>
+<edge source="imrantech" target="DataStax"/>
+<edge source="Infosthetics" target="tableau"/>
+<edge source="Infosthetics" target="noahi"/>
+<edge source="ivanku" target="aallan"/>
+<edge source="ivanku" target="postwait"/>
+<edge source="ivanku" target="mattb"/>
+<edge source="ivanku" target="kaythaney"/>
+<edge source="ivanku" target="dtunkelang"/>
+<edge source="ivanku" target="xamat"/>
+<edge source="ivanku" target="acroll"/>
+<edge source="ivanku" target="wahalulu"/>
+<edge source="ivanku" target="dpatil"/>
+<edge source="ivanku" target="peteskomoroch"/>
+<edge source="ivanku" target="jeremyphoward"/>
+<edge source="jacomocorbo" target="sg_williams"/>
+<edge source="jakeklamka" target="jakeporway"/>
+<edge source="jakeklamka" target="antgoldbloom"/>
+<edge source="jakeklamka" target="nathanmarz"/>
+<edge source="jakeklamka" target="anitalillie"/>
+<edge source="jakeklamka" target="kiwitobes"/>
+<edge source="jakeklamka" target="cloudera"/>
+<edge source="jakeklamka" target="cutting"/>
+<edge source="jakeklamka" target="hmason"/>
+<edge source="jakeklamka" target="peteskomoroch"/>
+<edge source="jakeklamka" target="dpatil"/>
+<edge source="jakeporway" target="jakeklamka"/>
+<edge source="jakeporway" target="VL_Carlson"/>
+<edge source="jakeporway" target="dpatil"/>
+<edge source="jakeporway" target="edd"/>
+<edge source="jakeporway" target="mkaz"/>
+<edge source="jakeporway" target="JonBruner"/>
+<edge source="jakeporway" target="mrflip"/>
+<edge source="jakeporway" target="hmason"/>
+<edge source="jakintheie" target="dpatil"/>
+<edge source="jakintheie" target="acroll"/>
+<edge source="jandersen" target="dpatil"/>
+<edge source="jandersen" target="edd"/>
+<edge source="jandersen" target="infosthetics"/>
+<edge source="jandersen" target="antgoldbloom"/>
+<edge source="jandersen" target="mattb"/>
+<edge source="jandersen" target="jseidman"/>
+<edge source="jandersen" target="shashashasha"/>
+<edge source="jandersen" target="rroumeliotis"/>
+<edge source="jandersen" target="hmason"/>
+<edge source="jandersen" target="ginablaber"/>
+<edge source="jandersen" target="peteskomoroch"/>
+<edge source="jandersen" target="mrflip"/>
+<edge source="jandersen" target="kiwitobes"/>
+<edge source="japerk" target="xamat"/>
+<edge source="japerk" target="jandersen"/>
+<edge source="japerk" target="mrogati"/>
+<edge source="japerk" target="nathanmarz"/>
+<edge source="japerk" target="peerside"/>
+<edge source="japerk" target="kkrugler"/>
+<edge source="japerk" target="hmason"/>
+<edge source="japerk" target="zelandiya"/>
+<edge source="japerk" target="MichaelDHealy"/>
+<edge source="japerk" target="peteskomoroch"/>
+<edge source="jarib" target="jakeporway"/>
+<edge source="jarib" target="xamat"/>
+<edge source="jarib" target="peteskomoroch"/>
+<edge source="jarib" target="bengoldacre"/>
+<edge source="jarib" target="aallan"/>
+<edge source="jarib" target="hmason"/>
+<edge source="jarib" target="google"/>
+<edge source="JasonRutherglen" target="ronbodkin"/>
+<edge source="jasprice" target="wahalulu"/>
+<edge source="jasprice" target="noahi"/>
+<edge source="jasprice" target="antgoldbloom"/>
+<edge source="jasprice" target="acroll"/>
+<edge source="jasprice" target="tableau"/>
+<edge source="jasprice" target="hmason"/>
+<edge source="jasprice" target="weckerson"/>
+<edge source="jasprice" target="markmadsen"/>
+<edge source="jaylaal" target="jakeporway"/>
+<edge source="jaylaal" target="cloudera"/>
+<edge source="jdm_100" target="dpatil"/>
+<edge source="jdm_100" target="mikeolson"/>
+<edge source="jdm_100" target="acroll"/>
+<edge source="jdm_100" target="jimkaskade"/>
+<edge source="jeremyphoward" target="markmadsen"/>
+<edge source="jeremyphoward" target="jakeporway"/>
+<edge source="jeremyphoward" target="noahi"/>
+<edge source="jeremyphoward" target="mrogati"/>
+<edge source="jeremyphoward" target="dpatil"/>
+<edge source="jeremyphoward" target="wesmckinn"/>
+<edge source="jeremyphoward" target="aallan"/>
+<edge source="jeremyphoward" target="frabcus"/>
+<edge source="jeremyphoward" target="mrgunn"/>
+<edge source="jeremyphoward" target="petewarden"/>
+<edge source="jeremyphoward" target="hmason"/>
+<edge source="jeremyphoward" target="infosthetics"/>
+<edge source="jeremyphoward" target="peteskomoroch"/>
+<edge source="jeremyphoward" target="bengoldacre"/>
+<edge source="jeremyphoward" target="antgoldbloom"/>
+<edge source="jeroentjepkema" target="gretchengiles"/>
+<edge source="jeroentjepkema" target="postwait"/>
+<edge source="jeroentjepkema" target="maureenjennings"/>
+<edge source="jeroentjepkema" target="darkseed"/>
+<edge source="jeroentjepkema" target="noahi"/>
+<edge source="jeroentjepkema" target="aallan"/>
+<edge source="jeroentjepkema" target="dpatil"/>
+<edge source="jeroentjepkema" target="ginablaber"/>
+<edge source="jeroentjepkema" target="blazeio"/>
+<edge source="jeroentjepkema" target="edd"/>
+<edge source="jeroentjepkema" target="patmeenan"/>
+<edge source="jeroentjepkema" target="sergeyche"/>
+<edge source="jeroentjepkema" target="dougwillobee"/>
+<edge source="jeroentjepkema" target="jesserobbins"/>
+<edge source="jeroentjepkema" target="acroll"/>
+<edge source="jesserobbins" target="LusciousPear"/>
+<edge source="jesserobbins" target="VanessaAlvarez1"/>
+<edge source="jesserobbins" target="awadallah"/>
+<edge source="jesserobbins" target="markimbriaco"/>
+<edge source="jesserobbins" target="postwait"/>
+<edge source="jesserobbins" target="maureenjennings"/>
+<edge source="jesserobbins" target="edd"/>
+<edge source="jesserobbins" target="sarahnovotny"/>
+<edge source="jesserobbins" target="ginablaber"/>
+<edge source="jesserobbins" target="noahi"/>
+<edge source="jesserobbins" target="acroll"/>
+<edge source="jesserobbins" target="SuzAxtell"/>
+<edge source="jganoff" target="cwensel"/>
+<edge source="jganoff" target="mikeolson"/>
+<edge source="jganoff" target="cutting"/>
+<edge source="jganoff" target="ds_henry"/>
+<edge source="jganoff" target="joshdsullivan"/>
+<edge source="jganoff" target="mrflip"/>
+<edge source="jganoff" target="google"/>
+<edge source="jglesner" target="awadallah"/>
+<edge source="jglesner" target="cloudera"/>
+<edge source="jiboumans" target="bruntonspall"/>
+<edge source="jiboumans" target="xamat"/>
+<edge source="jiboumans" target="hmason"/>
+<edge source="jiboumans" target="mattb"/>
+<edge source="jiboumans" target="postwait"/>
+<edge source="jiboumans" target="jesserobbins"/>
+<edge source="jimfalgout" target="eventbrite"/>
+<edge source="jimfalgout" target="peteskomoroch"/>
+<edge source="jimfalgout" target="mrogati"/>
+<edge source="jimfalgout" target="dpatil"/>
+<edge source="jimfalgout" target="hortonworks"/>
+<edge source="jimfalgout" target="jseidman"/>
+<edge source="jimfalgout" target="acmurthy"/>
+<edge source="jimfalgout" target="markmadsen"/>
+<edge source="jimkaskade" target="lionelgibbons"/>
+<edge source="jimkaskade" target="rhm2k"/>
+<edge source="jimkaskade" target="jdm_100"/>
+<edge source="jimkaskade" target="ghaff"/>
+<edge source="jimkaskade" target="mchmarny"/>
+<edge source="jimkaskade" target="VanessaAlvarez1"/>
+<edge source="jimkaskade" target="zelandiya"/>
+<edge source="jimkaskade" target="nmaillot"/>
+<edge source="jimkaskade" target="hmason"/>
+<edge source="jimkaskade" target="cutting"/>
+<edge source="jimkaskade" target="weckerson"/>
+<edge source="jimkaskade" target="markmadsen"/>
+<edge source="jimkaskade" target="peteskomoroch"/>
+<edge source="jimkaskade" target="JohnM_Haddad"/>
+<edge source="jimkaskade" target="scyphers"/>
+<edge source="jimkaskade" target="twleung"/>
+<edge source="jimkaskade" target="AvikonHadoop"/>
+<edge source="jimkaskade" target="acmurthy"/>
+<edge source="jimkaskade" target="hortonworks"/>
+<edge source="jimkaskade" target="awadallah"/>
+<edge source="jimkaskade" target="ronbodkin"/>
+<edge source="jimkaskade" target="acroll"/>
+<edge source="jimkaskade" target="dpatil"/>
+<edge source="jimkaskade" target="cloudera"/>
+<edge source="jimkaskade" target="mikeolson"/>
+<edge source="jimkaskade" target="LusciousPear"/>
+<edge source="jimprosser" target="kaythaney"/>
+<edge source="jimprosser" target="google"/>
+<edge source="jnova1974" target="work_paul"/>
+<edge source="johannarehnvall" target="tableau"/>
+<edge source="johannarehnvall" target="noahi"/>
+<edge source="johnfritz" target="nathanmarz"/>
+<edge source="johnfritz" target="acmurthy"/>
+<edge source="johnfritz" target="jakeporway"/>
+<edge source="johnfritz" target="ldodds"/>
+<edge source="johnfritz" target="wahalulu"/>
+<edge source="johnfritz" target="shoshe"/>
+<edge source="johnfritz" target="jsundram"/>
+<edge source="johnfritz" target="edd"/>
+<edge source="johnfritz" target="cutting"/>
+<edge source="johnfritz" target="dpatil"/>
+<edge source="johnfritz" target="awadallah"/>
+<edge source="johnfritz" target="hmason"/>
+<edge source="johnfritz" target="cloudera"/>
+<edge source="johnfritz" target="cwensel"/>
+<edge source="johnfritz" target="mikeolson"/>
+<edge source="johnfritz" target="DataStax"/>
+<edge source="JohnM_Haddad" target="Karmasphere"/>
+<edge source="JohnM_Haddad" target="weckerson"/>
+<edge source="JohnM_Haddad" target="markmadsen"/>
+<edge source="jonbruner" target="mrgunn"/>
+<edge source="jonbruner" target="robmay"/>
+<edge source="jonbruner" target="MarciaBTal"/>
+<edge source="jonbruner" target="markmadsen"/>
+<edge source="jonbruner" target="lcecere"/>
+<edge source="jonbruner" target="kaythaney"/>
+<edge source="jonbruner" target="alex_gurevich"/>
+<edge source="jonbruner" target="bitsybot"/>
+<edge source="jonbruner" target="hmason"/>
+<edge source="jonbruner" target="acroll"/>
+<edge source="jonbruner" target="peteskomoroch"/>
+<edge source="jonbruner" target="dpatil"/>
+<edge source="jonbruner" target="edd"/>
+<edge source="jonbruner" target="maureenjennings"/>
+<edge source="jonbruner" target="noahi"/>
+<edge source="jonbruner" target="mrogati"/>
+<edge source="jonbruner" target="wesmckinn"/>
+<edge source="jonbruner" target="digiphile"/>
+<edge source="jonbruner" target="jakeporway"/>
+<edge source="jonbruner" target="google"/>
+<edge source="jongos" target="bengoldacre"/>
+<edge source="jongos" target="C_Burrage"/>
+<edge source="jongos" target="infosthetics"/>
+<edge source="jongos" target="edd"/>
+<edge source="jongos" target="metaLayerHQ"/>
+<edge source="jongos" target="hmason"/>
+<edge source="jongos" target="google"/>
+<edge source="jongos" target="digiphile"/>
+<edge source="jongos" target="cfigallo"/>
+<edge source="josephkelly" target="cloudera"/>
+<edge source="josephkelly" target="mikeolson"/>
+<edge source="josephkelly" target="petewarden"/>
+<edge source="josephkelly" target="mrflip"/>
+<edge source="josh_wills" target="mrflip"/>
+<edge source="josh_wills" target="gfodor"/>
+<edge source="josh_wills" target="michaellasmanis"/>
+<edge source="josh_wills" target="RichardSJust"/>
+<edge source="josh_wills" target="rjurney"/>
+<edge source="josh_wills" target="sundanceca"/>
+<edge source="josh_wills" target="joshdsullivan"/>
+<edge source="josh_wills" target="jakeporway"/>
+<edge source="josh_wills" target="jseidman"/>
+<edge source="josh_wills" target="KarinaBernier"/>
+<edge source="josh_wills" target="hornpolish"/>
+<edge source="josh_wills" target="petricek"/>
+<edge source="josh_wills" target="wesmckinn"/>
+<edge source="josh_wills" target="deanwampler"/>
+<edge source="josh_wills" target="dpatil"/>
+<edge source="josh_wills" target="datameer"/>
+<edge source="josh_wills" target="nathanmarz"/>
+<edge source="josh_wills" target="rokorokoroko"/>
+<edge source="josh_wills" target="mikeolson"/>
+<edge source="josh_wills" target="hortonworks"/>
+<edge source="josh_wills" target="hmason"/>
+<edge source="josh_wills" target="awadallah"/>
+<edge source="josh_wills" target="HenryR"/>
+<edge source="josh_wills" target="acmurthy"/>
+<edge source="josh_wills" target="peteskomoroch"/>
+<edge source="josh_wills" target="acroll"/>
+<edge source="josh_wills" target="davetown101"/>
+<edge source="josh_wills" target="cutting"/>
+<edge source="josh_wills" target="cloudera"/>
+<edge source="josh_wills" target="dtunkelang"/>
+<edge source="josh_wills" target="google"/>
+<edge source="joshdsullivan" target="jganoff"/>
+<edge source="joshdsullivan" target="josh_wills"/>
+<edge source="joshdsullivan" target="hmason"/>
+<edge source="joshdsullivan" target="spyced"/>
+<edge source="joshdsullivan" target="dreasoning"/>
+<edge source="joshdsullivan" target="markmadsen"/>
+<edge source="joshdsullivan" target="dpatil"/>
+<edge source="joshdsullivan" target="ekohlwey"/>
+<edge source="joshdsullivan" target="mikeolson"/>
+<edge source="joshdsullivan" target="peteskomoroch"/>
+<edge source="joshdsullivan" target="awadallah"/>
+<edge source="joshdsullivan" target="cloudera"/>
+<edge source="joshdsullivan" target="mrflip"/>
+<edge source="jpmorgenthal" target="mchmarny"/>
+<edge source="jpmorgenthal" target="awadallah"/>
+<edge source="jpmorgenthal" target="hmason"/>
+<edge source="jpmorgenthal" target="acroll"/>
+<edge source="jpmorgenthal" target="VanessaAlvarez1"/>
+<edge source="jpoetker" target="google"/>
+<edge source="jseidman" target="bradoop"/>
+<edge source="jseidman" target="AvikonHadoop"/>
+<edge source="jseidman" target="HenryR"/>
+<edge source="jseidman" target="bwerther"/>
+<edge source="jseidman" target="josh_wills"/>
+<edge source="jseidman" target="kkrugler"/>
+<edge source="jseidman" target="datameer"/>
+<edge source="jseidman" target="abetaha"/>
+<edge source="jseidman" target="hornpolish"/>
+<edge source="jseidman" target="jimfalgout"/>
+<edge source="jseidman" target="hortonworks"/>
+<edge source="jseidman" target="VanessaAlvarez1"/>
+<edge source="jseidman" target="petewarden"/>
+<edge source="jseidman" target="awadallah"/>
+<edge source="jseidman" target="cwensel"/>
+<edge source="jseidman" target="ted_dunning"/>
+<edge source="jseidman" target="sarahnovotny"/>
+<edge source="jseidman" target="aallan"/>
+<edge source="jseidman" target="hmason"/>
+<edge source="jseidman" target="ronbodkin"/>
+<edge source="jseidman" target="acmurthy"/>
+<edge source="jseidman" target="acroll"/>
+<edge source="jseidman" target="edd"/>
+<edge source="jseidman" target="mikeolson"/>
+<edge source="jseidman" target="deanwampler"/>
+<edge source="jseidman" target="Karmasphere"/>
+<edge source="jseidman" target="jandersen"/>
+<edge source="jseidman" target="cutting"/>
+<edge source="jseidman" target="rob1lancaster"/>
+<edge source="jseidman" target="cloudera"/>
+<edge source="JSIhealth" target="abmakulec"/>
+<edge source="JSIhealth" target="GrameenFdn"/>
+<edge source="jsundram" target="mkaz"/>
+<edge source="jsundram" target="jeremyphoward"/>
+<edge source="jsundram" target="petewarden"/>
+<edge source="jsundram" target="edd"/>
+<edge source="jsundram" target="spyced"/>
+<edge source="jsundram" target="markmadsen"/>
+<edge source="jsundram" target="noahi"/>
+<edge source="jsundram" target="pwang"/>
+<edge source="jsundram" target="wesmckinn"/>
+<edge source="jsundram" target="anitalillie"/>
+<edge source="jsundram" target="jakeporway"/>
+<edge source="jsundram" target="mrogati"/>
+<edge source="jsundram" target="tableau"/>
+<edge source="jsundram" target="peteskomoroch"/>
+<edge source="jsundram" target="JohnFritz"/>
+<edge source="jsundram" target="hmason"/>
+<edge source="jsundram" target="infosthetics"/>
+<edge source="jtuulos" target="jakeporway"/>
+<edge source="jtuulos" target="metaLayerHQ"/>
+<edge source="jtuulos" target="datameer"/>
+<edge source="jtuulos" target="dpatil"/>
+<edge source="jtuulos" target="lisaczhang"/>
+<edge source="jtuulos" target="nathanmarz"/>
+<edge source="jtuulos" target="tableau"/>
+<edge source="jtuulos" target="romymisra"/>
+<edge source="jtuulos" target="mrogati"/>
+<edge source="jtuulos" target="edd"/>
+<edge source="jtuulos" target="bits_of_kris"/>
+<edge source="jtuulos" target="vtuulos"/>
+<edge source="jtuulos" target="petewarden"/>
+<edge source="jtuulos" target="hmason"/>
+<edge source="jtuulos" target="ivanku"/>
+<edge source="jtuulos" target="noahi"/>
+<edge source="jtuulos" target="peteskomoroch"/>
+<edge source="jtuulos" target="anitalillie"/>
+<edge source="jtuulos" target="infosthetics"/>
+<edge source="jtuulos" target="google"/>
+<edge source="juam" target="junar"/>
+<edge source="juam" target="fzunino"/>
+<edge source="jukaykwek" target="google"/>
+<edge source="junar" target="DataStax"/>
+<edge source="junar" target="dpatil"/>
+<edge source="junar" target="edd"/>
+<edge source="junar" target="frabcus"/>
+<edge source="junar" target="digiphile"/>
+<edge source="junar" target="maureenjennings"/>
+<edge source="junar" target="petewarden"/>
+<edge source="junar" target="nik"/>
+<edge source="junar" target="xamat"/>
+<edge source="junya100" target="doryokujin"/>
+<edge source="junya100" target="cloudera"/>
+<edge source="karinabernier" target="cutting"/>
+<edge source="karinabernier" target="awadallah"/>
+<edge source="karinabernier" target="edd"/>
+<edge source="karinabernier" target="cloudera"/>
+<edge source="karinabernier" target="mikeolson"/>
+<edge source="karinabernier" target="weckerson"/>
+<edge source="karmasphere" target="digiphile"/>
+<edge source="karmasphere" target="edd"/>
+<edge source="karmasphere" target="DataStax"/>
+<edge source="karmasphere" target="acroll"/>
+<edge source="karmasphere" target="abetaha"/>
+<edge source="karmasphere" target="jseidman"/>
+<edge source="karmasphere" target="hmason"/>
+<edge source="karmasphere" target="HenryR"/>
+<edge source="karmasphere" target="spyced"/>
+<edge source="karmasphere" target="rjurney"/>
+<edge source="karmasphere" target="awadallah"/>
+<edge source="karmasphere" target="ted_dunning"/>
+<edge source="karmasphere" target="acmurthy"/>
+<edge source="karmasphere" target="DrSkippy27"/>
+<edge source="karmasphere" target="cutting"/>
+<edge source="karmasphere" target="mikeolson"/>
+<edge source="karmasphere" target="petewarden"/>
+<edge source="karmasphere" target="peteskomoroch"/>
+<edge source="karmasphere" target="nathanmarz"/>
+<edge source="karmasphere" target="cwensel"/>
+<edge source="karmasphere" target="LusciousPear"/>
+<edge source="karmasphere" target="cloudera"/>
+<edge source="kathrynb" target="rroumeliotis"/>
+<edge source="kathrynb" target="maureenjennings"/>
+<edge source="kathrynb" target="SuzAxtell"/>
+<edge source="kaythaney" target="jeremyphoward"/>
+<edge source="kaythaney" target="JonBruner"/>
+<edge source="kaythaney" target="bruntonspall"/>
+<edge source="kaythaney" target="ginablaber"/>
+<edge source="kaythaney" target="peteskomoroch"/>
+<edge source="kaythaney" target="mrogati"/>
+<edge source="kaythaney" target="mattb"/>
+<edge source="kaythaney" target="digiphile"/>
+<edge source="kaythaney" target="stefanvdwalt"/>
+<edge source="kaythaney" target="acroll"/>
+<edge source="kaythaney" target="antgoldbloom"/>
+<edge source="kaythaney" target="hmason"/>
+<edge source="kaythaney" target="bengoldacre"/>
+<edge source="kaythaney" target="sarahnovotny"/>
+<edge source="kaythaney" target="noahi"/>
+<edge source="kaythaney" target="pwang"/>
+<edge source="kaythaney" target="bitsybot"/>
+<edge source="kaythaney" target="jakeporway"/>
+<edge source="kaythaney" target="dpatil"/>
+<edge source="kaythaney" target="petewarden"/>
+<edge source="kaythaney" target="edd"/>
+<edge source="kaythaney" target="figshare"/>
+<edge source="kaythaney" target="mrflip"/>
+<edge source="kaythaney" target="kiwitobes"/>
+<edge source="kaythaney" target="aallan"/>
+<edge source="kaythaney" target="ldodds"/>
+<edge source="kaythaney" target="mrgunn"/>
+<edge source="Killianthinks" target="peteskomoroch"/>
+<edge source="Killianthinks" target="dreasoning"/>
+<edge source="Killianthinks" target="japerk"/>
+<edge source="Killianthinks" target="zelandiya"/>
+<edge source="Killianthinks" target="robmay"/>
+<edge source="Killianthinks" target="acroll"/>
+<edge source="Killianthinks" target="mrogati"/>
+<edge source="Killianthinks" target="edd"/>
+<edge source="Killianthinks" target="tdelet"/>
+<edge source="Killianthinks" target="PatrickMcFadin"/>
+<edge source="Killianthinks" target="davetown101"/>
+<edge source="kiwitobes" target="LusciousPear"/>
+<edge source="kiwitobes" target="hmason"/>
+<edge source="kiwitobes" target="ginablaber"/>
+<edge source="kiwitobes" target="jandersen"/>
+<edge source="kkrugler" target="dtunkelang"/>
+<edge source="kkrugler" target="petewarden"/>
+<edge source="kkrugler" target="datameer"/>
+<edge source="kkrugler" target="cwensel"/>
+<edge source="kkrugler" target="nathanmarz"/>
+<edge source="kkrugler" target="peteskomoroch"/>
+<edge source="kochit" target="google"/>
+<edge source="kovar56" target="shoshe"/>
+<edge source="kovar56" target="google"/>
+<edge source="kurtosis0" target="jeremyphoward"/>
+<edge source="kurtosis0" target="petricek"/>
+<edge source="kurtosis0" target="gnip"/>
+<edge source="kurtosis0" target="dtunkelang"/>
+<edge source="kurtosis0" target="DrSkippy27"/>
+<edge source="kurtosis0" target="stochastician"/>
+<edge source="kurtosis0" target="digiphile"/>
+<edge source="kurtosis0" target="davetown101"/>
+<edge source="kurtosis0" target="dpatil"/>
+<edge source="kurtosis0" target="bengoldacre"/>
+<edge source="kurtosis0" target="mrogati"/>
+<edge source="kurtosis0" target="peteskomoroch"/>
+<edge source="kurtosis0" target="cloudera"/>
+<edge source="kurtosis0" target="hmason"/>
+<edge source="kurtosis0" target="google"/>
+<edge source="kyungmink" target="hmason"/>
+<edge source="kyungmink" target="google"/>
+<edge source="kyungmink" target="mkaz"/>
+<edge source="kyungmink" target="acroll"/>
+<edge source="kyungmink" target="markmadsen"/>
+<edge source="LaRueGz" target="mjrusso"/>
+<edge source="LaRueGz" target="SkytreeHQ"/>
+<edge source="LaRueGz" target="bwerther"/>
+<edge source="LaRueGz" target="darkseed"/>
+<edge source="LaRueGz" target="dpatil"/>
+<edge source="LaRueGz" target="sadatshami"/>
+<edge source="LaRueGz" target="jeremyphoward"/>
+<edge source="LaRueGz" target="kkrugler"/>
+<edge source="LaRueGz" target="cutting"/>
+<edge source="LaRueGz" target="stojanovic"/>
+<edge source="LaRueGz" target="MarkLogic"/>
+<edge source="LaRueGz" target="acroll"/>
+<edge source="LaRueGz" target="nathanmarz"/>
+<edge source="LaRueGz" target="Karmasphere"/>
+<edge source="LaRueGz" target="hmason"/>
+<edge source="LaRueGz" target="peteskomoroch"/>
+<edge source="LaRueGz" target="wesmckinn"/>
+<edge source="LaRueGz" target="nik"/>
+<edge source="LaRueGz" target="mrflip"/>
+<edge source="LaRueGz" target="hortonworks"/>
+<edge source="LaRueGz" target="DataStax"/>
+<edge source="LaRueGz" target="datameer"/>
+<edge source="LaRueGz" target="cloudera"/>
+<edge source="LaRueGz" target="infosthetics"/>
+<edge source="LaRueGz" target="acmurthy"/>
+<edge source="LaRueGz" target="Calpont"/>
+<edge source="LaRueGz" target="antgoldbloom"/>
+<edge source="LaRueGz" target="tableau"/>
+<edge source="latentview" target="bitsybot"/>
+<edge source="latentview" target="stefanvdwalt"/>
+<edge source="latentview" target="dberkholz"/>
+<edge source="latentview" target="dtunkelang"/>
+<edge source="latentview" target="mkaz"/>
+<edge source="latentview" target="ronbodkin"/>
+<edge source="latentview" target="megamda"/>
+<edge source="latentview" target="kkrugler"/>
+<edge source="latentview" target="bruntonspall"/>
+<edge source="latentview" target="vipulsharma"/>
+<edge source="latentview" target="xamat"/>
+<edge source="latentview" target="daveangulo"/>
+<edge source="latentview" target="digiphile"/>
+<edge source="latentview" target="kaythaney"/>
+<edge source="latentview" target="gnip"/>
+<edge source="latentview" target="cwensel"/>
+<edge source="latentview" target="imrantech"/>
+<edge source="latentview" target="ssgnr"/>
+<edge source="latentview" target="Robb_at_SAP"/>
+<edge source="latentview" target="mattb"/>
+<edge source="latentview" target="petewarden"/>
+<edge source="latentview" target="lcecere"/>
+<edge source="latentview" target="weckerson"/>
+<edge source="latentview" target="cjpberry"/>
+<edge source="latentview" target="jseidman"/>
+<edge source="latentview" target="VanessaAlvarez1"/>
+<edge source="latentview" target="Karmasphere"/>
+<edge source="latentview" target="kiwitobes"/>
+<edge source="latentview" target="joshdsullivan"/>
+<edge source="latentview" target="DataStax"/>
+<edge source="latentview" target="jeremyphoward"/>
+<edge source="latentview" target="wahalulu"/>
+<edge source="latentview" target="noahi"/>
+<edge source="latentview" target="tableau"/>
+<edge source="latentview" target="acmurthy"/>
+<edge source="latentview" target="cutting"/>
+<edge source="latentview" target="cloudera"/>
+<edge source="latentview" target="acroll"/>
+<edge source="latentview" target="jakeporway"/>
+<edge source="latentview" target="markmadsen"/>
+<edge source="latentview" target="edd"/>
+<edge source="latentview" target="mrogati"/>
+<edge source="latentview" target="marc_smith"/>
+<edge source="latentview" target="antgoldbloom"/>
+<edge source="latentview" target="infosthetics"/>
+<edge source="latentview" target="awadallah"/>
+<edge source="latentview" target="mikeolson"/>
+<edge source="latentview" target="peteskomoroch"/>
+<edge source="latentview" target="MichaelDHealy"/>
+<edge source="latentview" target="hmason"/>
+<edge source="latentview" target="mrflip"/>
+<edge source="latentview" target="dpatil"/>
+<edge source="latentview" target="google"/>
+<edge source="laurifeldman" target="google"/>
+<edge source="lcecere" target="menadeau"/>
+<edge source="lcecere" target="markmadsen"/>
+<edge source="lcecere" target="VanessaAlvarez1"/>
+<edge source="lcecere" target="jpmorgenthal"/>
+<edge source="ldodds" target="alison_kershaw"/>
+<edge source="ldodds" target="petewarden"/>
+<edge source="ldodds" target="gcarothers"/>
+<edge source="ldodds" target="mattb"/>
+<edge source="ldodds" target="dajobe"/>
+<edge source="ldodds" target="edd"/>
+<edge source="lengningliu" target="bradoop"/>
+<edge source="lengningliu" target="davevr"/>
+<edge source="lengningliu" target="hortonworks"/>
+<edge source="lengningliu" target="stojanovic"/>
+<edge source="LevonK" target="cutting"/>
+<edge source="LevonK" target="google"/>
+<edge source="liewegas" target="DreamHostSimon"/>
+<edge source="liljango" target="VL_Carlson"/>
+<edge source="liljango" target="hmason"/>
+<edge source="liljango" target="google"/>
+<edge source="liljango" target="eventbrite"/>
+<edge source="lincverlander" target="tableau"/>
+<edge source="lionelgibbons" target="dpatil"/>
+<edge source="lionelgibbons" target="acmurthy"/>
+<edge source="lionelgibbons" target="ronbodkin"/>
+<edge source="lionelgibbons" target="AvikonHadoop"/>
+<edge source="lionelgibbons" target="LusciousPear"/>
+<edge source="lionelgibbons" target="jimkaskade"/>
+<edge source="lionelgibbons" target="VanessaAlvarez1"/>
+<edge source="lionelgibbons" target="acroll"/>
+<edge source="lisaczhang" target="doryokujin"/>
+<edge source="lisaczhang" target="jtuulos"/>
+<edge source="lisaczhang" target="edd"/>
+<edge source="lisaczhang" target="hmason"/>
+<edge source="lisaczhang" target="jakeporway"/>
+<edge source="lornlab" target="mrogati"/>
+<edge source="lornlab" target="mlcunharj"/>
+<edge source="lornlab" target="cutting"/>
+<edge source="luisdans" target="ekohlwey"/>
+<edge source="luisdans" target="shree_dandekar"/>
+<edge source="luisdans" target="jsundram"/>
+<edge source="luisdans" target="hmason"/>
+<edge source="luisdans" target="edd"/>
+<edge source="luisdans" target="antgoldbloom"/>
+<edge source="luisdans" target="aallan"/>
+<edge source="luisdans" target="acroll"/>
+<edge source="luisdans" target="hortonworks"/>
+<edge source="luisdans" target="cloudera"/>
+<edge source="luisdans" target="awadallah"/>
+<edge source="luisdans" target="wahalulu"/>
+<edge source="luisdans" target="MarkLogic"/>
+<edge source="luisdans" target="weckerson"/>
+<edge source="luisdans" target="sarahnovotny"/>
+<edge source="luisdans" target="SQLGal"/>
+<edge source="luisdans" target="rhm2k"/>
+<edge source="luisdans" target="VanessaAlvarez1"/>
+<edge source="luisdans" target="digiphile"/>
+<edge source="luisdans" target="mattb"/>
+<edge source="luisdans" target="jesserobbins"/>
+<edge source="luisdans" target="markmadsen"/>
+<edge source="lusciouspear" target="markimbriaco"/>
+<edge source="lusciouspear" target="dberkholz"/>
+<edge source="lusciouspear" target="kiwitobes"/>
+<edge source="lusciouspear" target="dpatil"/>
+<edge source="lusciouspear" target="antgoldbloom"/>
+<edge source="lusciouspear" target="postwait"/>
+<edge source="lusciouspear" target="jimkaskade"/>
+<edge source="lusciouspear" target="noahi"/>
+<edge source="lusciouspear" target="petewarden"/>
+<edge source="lusciouspear" target="SuzAxtell"/>
+<edge source="lusciouspear" target="hmason"/>
+<edge source="lusciouspear" target="sarahnovotny"/>
+<edge source="lusciouspear" target="edd"/>
+<edge source="lusciouspear" target="stevenn"/>
+<edge source="lusciouspear" target="jesserobbins"/>
+<edge source="lusciouspear" target="rhm2k"/>
+<edge source="lusciouspear" target="acroll"/>
+<edge source="lusciouspear" target="bradgillespie"/>
+<edge source="lusciouspear" target="robmay"/>
+<edge source="lusciouspear" target="nathanmarz"/>
+<edge source="lusciouspear" target="mrflip"/>
+<edge source="lusciouspear" target="rjurney"/>
+<edge source="lusciouspear" target="VanessaAlvarez1"/>
+<edge source="lusciouspear" target="mikeolson"/>
+<edge source="lusciouspear" target="cwensel"/>
+<edge source="lusciouspear" target="ginablaber"/>
+<edge source="lusciouspear" target="emileifrem"/>
+<edge source="lusciouspear" target="peteskomoroch"/>
+<edge source="M3thdman" target="petewarden"/>
+<edge source="M3thdman" target="markmadsen"/>
+<edge source="M3thdman" target="figshare"/>
+<edge source="M3thdman" target="dpatil"/>
+<edge source="M3thdman" target="VanessaAlvarez1"/>
+<edge source="M3thdman" target="mrflip"/>
+<edge source="M3thdman" target="google"/>
+<edge source="M3thdman" target="DataStax"/>
+<edge source="M3thdman" target="bradgillespie"/>
+<edge source="M3thdman" target="LusciousPear"/>
+<edge source="M3thdman" target="postwait"/>
+<edge source="M3thdman" target="edd"/>
+<edge source="M3thdman" target="hmason"/>
+<edge source="m_rastan" target="jeremyphoward"/>
+<edge source="m_rastan" target="antgoldbloom"/>
+<edge source="m_rastan" target="dpatil"/>
+<edge source="m_rastan" target="peteskomoroch"/>
+<edge source="m_rastan" target="xamat"/>
+<edge source="maejohns" target="dpatil"/>
+<edge source="maejohns" target="peteskomoroch"/>
+<edge source="maejohns" target="hmason"/>
+<edge source="maejohns" target="awadallah"/>
+<edge source="maejohns" target="mikeolson"/>
+<edge source="maejohns" target="cloudera"/>
+<edge source="manumarchal" target="dajobe"/>
+<edge source="manumarchal" target="PatrickMcFadin"/>
+<edge source="manumarchal" target="mattb"/>
+<edge source="manumarchal" target="imrantech"/>
+<edge source="manumarchal" target="VanessaAlvarez1"/>
+<edge source="manumarchal" target="awadallah"/>
+<edge source="manumarchal" target="rhm2k"/>
+<edge source="manumarchal" target="ted_dunning"/>
+<edge source="manumarchal" target="petewarden"/>
+<edge source="manumarchal" target="mrflip"/>
+<edge source="manumarchal" target="twleung"/>
+<edge source="manumarchal" target="DataStax"/>
+<edge source="manumarchal" target="nik"/>
+<edge source="manumarchal" target="mattconway"/>
+<edge source="manumarchal" target="HenryR"/>
+<edge source="manumarchal" target="spyced"/>
+<edge source="manumarchal" target="nmaillot"/>
+<edge source="marc_smith" target="daveangulo"/>
+<edge source="marc_smith" target="dtunkelang"/>
+<edge source="marc_smith" target="tableau"/>
+<edge source="marc_smith" target="digiphile"/>
+<edge source="marc_smith" target="edd"/>
+<edge source="marc_smith" target="infosthetics"/>
+<edge source="marc_smith" target="rroumeliotis"/>
+<edge source="marc_smith" target="dpatil"/>
+<edge source="marc_smith" target="petewarden"/>
+<edge source="marc_smith" target="Wojciech"/>
+<edge source="marc_smith" target="davetown101"/>
+<edge source="marc_smith" target="sadatshami"/>
+<edge source="marc_smith" target="peteskomoroch"/>
+<edge source="marc_smith" target="mattb"/>
+<edge source="marc_smith" target="cfigallo"/>
+<edge source="markimbriaco" target="alexsergeyev"/>
+<edge source="markimbriaco" target="sarahnovotny"/>
+<edge source="markimbriaco" target="acroll"/>
+<edge source="markimbriaco" target="mikeolson"/>
+<edge source="markimbriaco" target="spyced"/>
+<edge source="markimbriaco" target="postwait"/>
+<edge source="markimbriaco" target="twleung"/>
+<edge source="markimbriaco" target="jesserobbins"/>
+<edge source="MarkLogic" target="jpmorgenthal"/>
+<edge source="markmadsen" target="shree_dandekar"/>
+<edge source="markmadsen" target="mrogati"/>
+<edge source="markmadsen" target="acroll"/>
+<edge source="markmadsen" target="jakeporway"/>
+<edge source="markmadsen" target="edd"/>
+<edge source="markmadsen" target="awadallah"/>
+<edge source="markmadsen" target="bwerther"/>
+<edge source="markmadsen" target="cloudera"/>
+<edge source="markmadsen" target="dtunkelang"/>
+<edge source="markmadsen" target="luisdans"/>
+<edge source="markmadsen" target="weckerson"/>
+<edge source="martinzych" target="infosthetics"/>
+<edge source="martinzych" target="sarahnovotny"/>
+<edge source="mattb" target="jiboumans"/>
+<edge source="mattb" target="petewarden"/>
+<edge source="mattb" target="mrflip"/>
+<edge source="mattb" target="jandersen"/>
+<edge source="mattb" target="hmason"/>
+<edge source="mattb" target="bruntonspall"/>
+<edge source="mattb" target="peteskomoroch"/>
+<edge source="mattb" target="emileifrem"/>
+<edge source="mattb" target="bjepson"/>
+<edge source="mattb" target="cloudera"/>
+<edge source="mattb" target="maxgadney"/>
+<edge source="mattb" target="marc_smith"/>
+<edge source="mattb" target="ldodds"/>
+<edge source="mattb" target="dajobe"/>
+<edge source="mattb" target="edd"/>
+<edge source="mattconway" target="DataStax"/>
+<edge source="mattconway" target="spyced"/>
+<edge source="mattconway" target="robmay"/>
+<edge source="mattconway" target="peteskomoroch"/>
+<edge source="mattturck" target="stochastician"/>
+<edge source="mattturck" target="CrowdControl1"/>
+<edge source="mattturck" target="google"/>
+<edge source="mattturck" target="cloudera"/>
+<edge source="mattturck" target="nik"/>
+<edge source="mattturck" target="acroll"/>
+<edge source="mattturck" target="edd"/>
+<edge source="mattturck" target="mikeolson"/>
+<edge source="mattturck" target="antgoldbloom"/>
+<edge source="mattturck" target="jeremyphoward"/>
+<edge source="mattturck" target="mrogati"/>
+<edge source="mattturck" target="gridgain"/>
+<edge source="mattturck" target="awadallah"/>
+<edge source="mattturck" target="dpatil"/>
+<edge source="mattturck" target="hmason"/>
+<edge source="mattturck" target="pauldix"/>
+<edge source="maureenjennings" target="peteskomoroch"/>
+<edge source="maureenjennings" target="frabcus"/>
+<edge source="maureenjennings" target="sergeyche"/>
+<edge source="maureenjennings" target="patmeenan"/>
+<edge source="maureenjennings" target="postwait"/>
+<edge source="maureenjennings" target="jeroentjepkema"/>
+<edge source="maureenjennings" target="infosthetics"/>
+<edge source="maureenjennings" target="mrflip"/>
+<edge source="maureenjennings" target="ReneeEdel"/>
+<edge source="maureenjennings" target="acroll"/>
+<edge source="maureenjennings" target="digiphile"/>
+<edge source="maureenjennings" target="bjepson"/>
+<edge source="maureenjennings" target="ginablaber"/>
+<edge source="maureenjennings" target="edd"/>
+<edge source="maureenjennings" target="kathrynb"/>
+<edge source="maureenjennings" target="mjlevitt"/>
+<edge source="maureenjennings" target="jesserobbins"/>
+<edge source="maureenjennings" target="pdirden"/>
+<edge source="maureenjennings" target="SuzAxtell"/>
+<edge source="maxgadney" target="spooksandgeeks"/>
+<edge source="maxgadney" target="infosthetics"/>
+<edge source="maxgadney" target="mattb"/>
+<edge source="mchmarny" target="zelandiya"/>
+<edge source="mchmarny" target="maureenjennings"/>
+<edge source="mchmarny" target="SuzAxtell"/>
+<edge source="mchmarny" target="noahi"/>
+<edge source="mchmarny" target="ginablaber"/>
+<edge source="mchmarny" target="edd"/>
+<edge source="mchmarny" target="tovbinm"/>
+<edge source="mchmarny" target="bengoldacre"/>
+<edge source="mchmarny" target="David_R8"/>
+<edge source="mchmarny" target="markmadsen"/>
+<edge source="mchmarny" target="stefanvdwalt"/>
+<edge source="mchmarny" target="SQLGal"/>
+<edge source="mchmarny" target="dtunkelang"/>
+<edge source="mchmarny" target="RichardSJust"/>
+<edge source="mchmarny" target="postwait"/>
+<edge source="mchmarny" target="nik"/>
+<edge source="mchmarny" target="acroll"/>
+<edge source="mchmarny" target="kiwitobes"/>
+<edge source="mchmarny" target="stevenn"/>
+<edge source="mchmarny" target="datameer"/>
+<edge source="mchmarny" target="rjurney"/>
+<edge source="mchmarny" target="LusciousPear"/>
+<edge source="mchmarny" target="AvikonHadoop"/>
+<edge source="mchmarny" target="mrflip"/>
+<edge source="mchmarny" target="ted_dunning"/>
+<edge source="mchmarny" target="cwensel"/>
+<edge source="mchmarny" target="cutting"/>
+<edge source="mchmarny" target="hortonworks"/>
+<edge source="mchmarny" target="peteskomoroch"/>
+<edge source="mchmarny" target="awadallah"/>
+<edge source="mchmarny" target="spyced"/>
+<edge source="mchmarny" target="hmason"/>
+<edge source="mchmarny" target="cloudera"/>
+<edge source="mchmarny" target="DataStax"/>
+<edge source="mchmarny" target="acmurthy"/>
+<edge source="mchmarny" target="ghaff"/>
+<edge source="mchmarny" target="dpatil"/>
+<edge source="mchmarny" target="jpmorgenthal"/>
+<edge source="mchmarny" target="aallan"/>
+<edge source="mchmarny" target="mikeolson"/>
+<edge source="mchmarny" target="Calxeda"/>
+<edge source="mchmarny" target="MichaelCLeonard"/>
+<edge source="mchmarny" target="jesserobbins"/>
+<edge source="mchmarny" target="sarahnovotny"/>
+<edge source="mchmarny" target="jimkaskade"/>
+<edge source="mchmarny" target="bruntonspall"/>
+<edge source="mchmarny" target="google"/>
+<edge source="megamda" target="SQLGal"/>
+<edge source="megamda" target="cutting"/>
+<edge source="megamda" target="nathanmarz"/>
+<edge source="megamda" target="awadallah"/>
+<edge source="megamda" target="acmurthy"/>
+<edge source="megamda" target="cloudera"/>
+<edge source="megamda" target="emileifrem"/>
+<edge source="megamda" target="scyphers"/>
+<edge source="megamda" target="VanessaAlvarez1"/>
+<edge source="menadeau" target="hmason"/>
+<edge source="menadeau" target="peteskomoroch"/>
+<edge source="menadeau" target="mikeolson"/>
+<edge source="menadeau" target="ted_dunning"/>
+<edge source="menadeau" target="mrogati"/>
+<edge source="menadeau" target="dpatil"/>
+<edge source="menadeau" target="cloudera"/>
+<edge source="menadeau" target="acroll"/>
+<edge source="menadeau" target="MarkLogic"/>
+<edge source="menadeau" target="tableau"/>
+<edge source="menadeau" target="dtunkelang"/>
+<edge source="menadeau" target="jasprice"/>
+<edge source="menadeau" target="markmadsen"/>
+<edge source="metalayerHQ" target="C_Burrage"/>
+<edge source="metalayerHQ" target="DataStax"/>
+<edge source="metalayerHQ" target="edd"/>
+<edge source="metalayerHQ" target="hmason"/>
+<edge source="metalayerHQ" target="cloudera"/>
+<edge source="metalayerHQ" target="jongos"/>
+<edge source="metricmine" target="datameer"/>
+<edge source="micfarris" target="vipulsharma"/>
+<edge source="micfarris" target="SQLGal"/>
+<edge source="micfarris" target="hornpolish"/>
+<edge source="micfarris" target="SuzAxtell"/>
+<edge source="micfarris" target="ginablaber"/>
+<edge source="micfarris" target="acroll"/>
+<edge source="micfarris" target="annadivoli"/>
+<edge source="micfarris" target="markmadsen"/>
+<edge source="micfarris" target="petewarden"/>
+<edge source="micfarris" target="craigles75"/>
+<edge source="micfarris" target="dreasoning"/>
+<edge source="micfarris" target="wahalulu"/>
+<edge source="micfarris" target="eriksowa"/>
+<edge source="micfarris" target="jacomocorbo"/>
+<edge source="micfarris" target="michaelbaum"/>
+<edge source="micfarris" target="edd"/>
+<edge source="micfarris" target="wesmckinn"/>
+<edge source="micfarris" target="davidandrzej"/>
+<edge source="micfarris" target="nik"/>
+<edge source="micfarris" target="nathanmarz"/>
+<edge source="micfarris" target="bendystraw"/>
+<edge source="micfarris" target="mrgunn"/>
+<edge source="micfarris" target="kaythaney"/>
+<edge source="micfarris" target="jakeporway"/>
+<edge source="micfarris" target="mrogati"/>
+<edge source="micfarris" target="dpatil"/>
+<edge source="micfarris" target="hmason"/>
+<edge source="micfarris" target="spooksandgeeks"/>
+<edge source="micfarris" target="google"/>
+<edge source="michaelbaum" target="edd"/>
+<edge source="michaelbaum" target="acroll"/>
+<edge source="michaelbaum" target="VanessaAlvarez1"/>
+<edge source="michaelcleonard" target="jakeporway"/>
+<edge source="michaelcleonard" target="dtunkelang"/>
+<edge source="michaelcleonard" target="jpmorgenthal"/>
+<edge source="michaelcleonard" target="dberkholz"/>
+<edge source="michaelcleonard" target="ghaff"/>
+<edge source="michaelcleonard" target="cloudera"/>
+<edge source="michaelcleonard" target="mchmarny"/>
+<edge source="michaelcleonard" target="acroll"/>
+<edge source="michaelcleonard" target="jesserobbins"/>
+<edge source="michaelcleonard" target="VanessaAlvarez1"/>
+<edge source="michaelcleonard" target="rhm2k"/>
+<edge source="michaeldhealy" target="hornpolish"/>
+<edge source="michaeldhealy" target="niallohiggins"/>
+<edge source="michaeldhealy" target="dpatil"/>
+<edge source="michaeldhealy" target="hortonworks"/>
+<edge source="michaeldhealy" target="hmason"/>
+<edge source="michaeldhealy" target="mrflip"/>
+<edge source="michaeldhealy" target="antgoldbloom"/>
+<edge source="michaeldhealy" target="ted_dunning"/>
+<edge source="michaeldhealy" target="randomwalks"/>
+<edge source="michaeldhealy" target="cwensel"/>
+<edge source="michaeldhealy" target="misternaxal"/>
+<edge source="michaeldhealy" target="peteskomoroch"/>
+<edge source="michaeldhealy" target="tableau"/>
+<edge source="michaeldhealy" target="cjpberry"/>
+<edge source="michaeldhealy" target="google"/>
+<edge source="michaeldhealy" target="cloudera"/>
+<edge source="michaeldhealy" target="markmadsen"/>
+<edge source="michaeldhealy" target="japerk"/>
+<edge source="michaellasmanis" target="josh_wills"/>
+<edge source="mikeolson" target="jseidman"/>
+<edge source="mikeolson" target="VanessaAlvarez1"/>
+<edge source="mikeolson" target="stojanovic"/>
+<edge source="mikeolson" target="josh_wills"/>
+<edge source="mikeolson" target="acmurthy"/>
+<edge source="mikeolson" target="hmason"/>
+<edge source="mikeolson" target="peteskomoroch"/>
+<edge source="mikeolson" target="cutting"/>
+<edge source="mikeolson" target="HenryR"/>
+<edge source="mikeolson" target="awadallah"/>
+<edge source="mikeolson" target="cloudera"/>
+<edge source="minrk" target="wesmckinn"/>
+<edge source="minrk" target="pwang"/>
+<edge source="minrk" target="stefanvdwalt"/>
+<edge source="missleigh" target="tableau"/>
+<edge source="missleigh" target="hmason"/>
+<edge source="missleigh" target="dpatil"/>
+<edge source="misternaxal" target="marc_smith"/>
+<edge source="misternaxal" target="chunsaker"/>
+<edge source="misternaxal" target="SkytreeHQ"/>
+<edge source="misternaxal" target="bengoldacre"/>
+<edge source="misternaxal" target="jandersen"/>
+<edge source="misternaxal" target="nathanmarz"/>
+<edge source="misternaxal" target="bitsybot"/>
+<edge source="misternaxal" target="metaLayerHQ"/>
+<edge source="misternaxal" target="jakeporway"/>
+<edge source="misternaxal" target="Paradosso"/>
+<edge source="misternaxal" target="mikeolson"/>
+<edge source="misternaxal" target="dpatil"/>
+<edge source="misternaxal" target="zelandiya"/>
+<edge source="misternaxal" target="kkrugler"/>
+<edge source="misternaxal" target="JSIhealth"/>
+<edge source="misternaxal" target="polluxopera"/>
+<edge source="misternaxal" target="japerk"/>
+<edge source="misternaxal" target="spara"/>
+<edge source="misternaxal" target="tableau"/>
+<edge source="misternaxal" target="abmakulec"/>
+<edge source="misternaxal" target="antgoldbloom"/>
+<edge source="misternaxal" target="RichardSJust"/>
+<edge source="misternaxal" target="jeremyphoward"/>
+<edge source="misternaxal" target="dtunkelang"/>
+<edge source="misternaxal" target="josh_wills"/>
+<edge source="misternaxal" target="gnip"/>
+<edge source="misternaxal" target="DrSkippy27"/>
+<edge source="misternaxal" target="postwait"/>
+<edge source="misternaxal" target="wahalulu"/>
+<edge source="misternaxal" target="noahi"/>
+<edge source="misternaxal" target="LusciousPear"/>
+<edge source="misternaxal" target="figshare"/>
+<edge source="misternaxal" target="petewarden"/>
+<edge source="misternaxal" target="mattb"/>
+<edge source="misternaxal" target="sadatshami"/>
+<edge source="misternaxal" target="mrgunn"/>
+<edge source="misternaxal" target="ldodds"/>
+<edge source="misternaxal" target="VL_Carlson"/>
+<edge source="misternaxal" target="edd"/>
+<edge source="misternaxal" target="acroll"/>
+<edge source="misternaxal" target="pclark"/>
+<edge source="misternaxal" target="shoshe"/>
+<edge source="misternaxal" target="digiphile"/>
+<edge source="misternaxal" target="markmadsen"/>
+<edge source="misternaxal" target="kaythaney"/>
+<edge source="misternaxal" target="mrflip"/>
+<edge source="misternaxal" target="hmason"/>
+<edge source="misternaxal" target="peteskomoroch"/>
+<edge source="misternaxal" target="rjurney"/>
+<edge source="mjillster" target="xamat"/>
+<edge source="mjillster" target="mrflip"/>
+<edge source="mjillster" target="gnip"/>
+<edge source="mjillster" target="noahi"/>
+<edge source="mjillster" target="mattb"/>
+<edge source="mjillster" target="sadatshami"/>
+<edge source="mjillster" target="peerside"/>
+<edge source="mjillster" target="anitalillie"/>
+<edge source="mjillster" target="mrogati"/>
+<edge source="mjillster" target="nik"/>
+<edge source="mjillster" target="petewarden"/>
+<edge source="mjillster" target="dpatil"/>
+<edge source="mjillster" target="hmason"/>
+<edge source="mjlevitt" target="gcarothers"/>
+<edge source="mjlevitt" target="gretchengiles"/>
+<edge source="mjlevitt" target="acroll"/>
+<edge source="mjlevitt" target="sarahnovotny"/>
+<edge source="mjlevitt" target="digiphile"/>
+<edge source="mjlevitt" target="postwait"/>
+<edge source="mjlevitt" target="ginablaber"/>
+<edge source="mjlevitt" target="maureenjennings"/>
+<edge source="mjlevitt" target="SuzAxtell"/>
+<edge source="mjlevitt" target="bjepson"/>
+<edge source="mjlevitt" target="edd"/>
+<edge source="mjrusso" target="nathanmarz"/>
+<edge source="mjrusso" target="mrogati"/>
+<edge source="mjrusso" target="peteskomoroch"/>
+<edge source="mjrusso" target="kiwitobes"/>
+<edge source="mjrusso" target="spyced"/>
+<edge source="mjrusso" target="hmason"/>
+<edge source="mjrusso" target="DataStax"/>
+<edge source="mjrusso" target="cwensel"/>
+<edge source="mjrusso" target="mattb"/>
+<edge source="mjrusso" target="google"/>
+<edge source="mjrusso" target="peterseibel"/>
+<edge source="mkaz" target="sg_williams"/>
+<edge source="mkaz" target="bitsybot"/>
+<edge source="mkaz" target="nathanmarz"/>
+<edge source="mkaz" target="ldodds"/>
+<edge source="mkaz" target="bosko"/>
+<edge source="mkaz" target="alanchiu"/>
+<edge source="mkaz" target="spooksandgeeks"/>
+<edge source="mkaz" target="edd"/>
+<edge source="mkaz" target="gfodor"/>
+<edge source="mkaz" target="cutting"/>
+<edge source="mkaz" target="bits_of_kris"/>
+<edge source="mkaz" target="MCanalytics"/>
+<edge source="mkaz" target="MarkLogic"/>
+<edge source="mkaz" target="randomwalks"/>
+<edge source="mkaz" target="ronbodkin"/>
+<edge source="mkaz" target="ericblue"/>
+<edge source="mkaz" target="cjpberry"/>
+<edge source="mkaz" target="awadallah"/>
+<edge source="mkaz" target="noahi"/>
+<edge source="mkaz" target="kkrugler"/>
+<edge source="mkaz" target="gridgain"/>
+<edge source="mkaz" target="petewarden"/>
+<edge source="mkaz" target="kyungmink"/>
+<edge source="mkaz" target="infosthetics"/>
+<edge source="mkaz" target="anitalillie"/>
+<edge source="mkaz" target="mrflip"/>
+<edge source="mkaz" target="acroll"/>
+<edge source="mkaz" target="peteskomoroch"/>
+<edge source="mkaz" target="jsundram"/>
+<edge source="mkaz" target="jakeporway"/>
+<edge source="mkaz" target="hmason"/>
+<edge source="mlcunharj" target="lornlab"/>
+<edge source="moscajuan" target="google"/>
+<edge source="mrflip" target="sarahnovotny"/>
+<edge source="mrflip" target="dtunkelang"/>
+<edge source="mrflip" target="bjepson"/>
+<edge source="mrflip" target="manumarchal"/>
+<edge source="mrflip" target="mattb"/>
+<edge source="mrflip" target="digiphile"/>
+<edge source="mrflip" target="frabcus"/>
+<edge source="mrflip" target="acroll"/>
+<edge source="mrflip" target="postwait"/>
+<edge source="mrflip" target="aallan"/>
+<edge source="mrflip" target="mkaz"/>
+<edge source="mrflip" target="spara"/>
+<edge source="mrflip" target="mrgunn"/>
+<edge source="mrflip" target="jakeporway"/>
+<edge source="mrflip" target="crcsmnky"/>
+<edge source="mrflip" target="amcclosky"/>
+<edge source="mrflip" target="pwang"/>
+<edge source="mrflip" target="MichaelDHealy"/>
+<edge source="mrflip" target="zznate"/>
+<edge source="mrflip" target="infosthetics"/>
+<edge source="mrflip" target="bitsybot"/>
+<edge source="mrflip" target="kaythaney"/>
+<edge source="mrflip" target="antgoldbloom"/>
+<edge source="mrflip" target="anitalillie"/>
+<edge source="mrflip" target="datameer"/>
+<edge source="mrflip" target="geekaustinorg"/>
+<edge source="mrflip" target="nathanmarz"/>
+<edge source="mrflip" target="dpatil"/>
+<edge source="mrflip" target="mrogati"/>
+<edge source="mrflip" target="ted_dunning"/>
+<edge source="mrflip" target="pauldix"/>
+<edge source="mrflip" target="edd"/>
+<edge source="mrflip" target="cwensel"/>
+<edge source="mrflip" target="DataStax"/>
+<edge source="mrflip" target="spyced"/>
+<edge source="mrflip" target="LusciousPear"/>
+<edge source="mrflip" target="rjurney"/>
+<edge source="mrflip" target="petewarden"/>
+<edge source="mrflip" target="acmurthy"/>
+<edge source="mrflip" target="wahalulu"/>
+<edge source="mrflip" target="jandersen"/>
+<edge source="mrflip" target="josephkelly"/>
+<edge source="mrflip" target="tableau"/>
+<edge source="mrflip" target="hmason"/>
+<edge source="mrflip" target="dantagg"/>
+<edge source="mrflip" target="mikeolson"/>
+<edge source="mrflip" target="awadallah"/>
+<edge source="mrflip" target="HenryR"/>
+<edge source="mrflip" target="cloudera"/>
+<edge source="mrflip" target="cutting"/>
+<edge source="mrflip" target="peteskomoroch"/>
+<edge source="mrflip" target="joshdsullivan"/>
+<edge source="mrgunn" target="deejmon"/>
+<edge source="mrgunn" target="aboynejames"/>
+<edge source="mrgunn" target="jsundram"/>
+<edge source="mrgunn" target="jakeporway"/>
+<edge source="mrgunn" target="wesmckinn"/>
+<edge source="mrgunn" target="mrogati"/>
+<edge source="mrgunn" target="dpatil"/>
+<edge source="mrgunn" target="bradgillespie"/>
+<edge source="mrgunn" target="rjurney"/>
+<edge source="mrgunn" target="digiphile"/>
+<edge source="mrgunn" target="hmason"/>
+<edge source="mrgunn" target="aallan"/>
+<edge source="mrgunn" target="dberkholz"/>
+<edge source="mrgunn" target="petewarden"/>
+<edge source="mrgunn" target="mrflip"/>
+<edge source="mrgunn" target="dajobe"/>
+<edge source="mrgunn" target="dtunkelang"/>
+<edge source="mrgunn" target="bengoldacre"/>
+<edge source="mrgunn" target="kaythaney"/>
+<edge source="mrgunn" target="boudicca"/>
+<edge source="mrogati" target="mattturck"/>
+<edge source="mrogati" target="jeremyphoward"/>
+<edge source="mrogati" target="markmadsen"/>
+<edge source="mrogati" target="acmurthy"/>
+<edge source="mrogati" target="edd"/>
+<edge source="mrogati" target="chunsaker"/>
+<edge source="mrogati" target="kiwitobes"/>
+<edge source="mrogati" target="acroll"/>
+<edge source="mrogati" target="sarahnovotny"/>
+<edge source="mrogati" target="antgoldbloom"/>
+<edge source="mrogati" target="nik"/>
+<edge source="mrogati" target="petewarden"/>
+<edge source="mrogati" target="xamat"/>
+<edge source="mrogati" target="hmason"/>
+<edge source="mrogati" target="anitalillie"/>
+<edge source="mrogati" target="dtunkelang"/>
+<edge source="mrogati" target="mrflip"/>
+<edge source="mrogati" target="peteskomoroch"/>
+<edge source="mrogati" target="dpatil"/>
+<edge source="mtrumpbour" target="nik"/>
+<edge source="mtrumpbour" target="cjpberry"/>
+<edge source="mtrumpbour" target="gnip"/>
+<edge source="mtrumpbour" target="shoshe"/>
+<edge source="mtrumpbour" target="tableau"/>
+<edge source="mtrumpbour" target="asjs"/>
+<edge source="nancygrady" target="cloudera"/>
+<edge source="nathangsuh" target="nik"/>
+<edge source="nathangsuh" target="hmason"/>
+<edge source="nathangsuh" target="mattturck"/>
+<edge source="nathangsuh" target="truaxis"/>
+<edge source="nathanmarz" target="cutting"/>
+<edge source="nathanmarz" target="jakeklamka"/>
+<edge source="nathanmarz" target="deanwampler"/>
+<edge source="nathanmarz" target="petewarden"/>
+<edge source="nathanmarz" target="mrflip"/>
+<edge source="nathanmarz" target="romefort"/>
+<edge source="nathanmarz" target="rjurney"/>
+<edge source="nathanmarz" target="edd"/>
+<edge source="nathanmarz" target="peteskomoroch"/>
+<edge source="nathanmarz" target="gfodor"/>
+<edge source="nathanmarz" target="LusciousPear"/>
+<edge source="nathanmarz" target="cwensel"/>
+<edge source="nathanmarz" target="cloudera"/>
+<edge source="ndunn2" target="google"/>
+<edge source="niallohiggins" target="romefort"/>
+<edge source="NicoThieb" target="datameer"/>
+<edge source="NicoThieb" target="mrflip"/>
+<edge source="NicoThieb" target="cloudera"/>
+<edge source="NicoThieb" target="hortonworks"/>
+<edge source="NicoThieb" target="cutting"/>
+<edge source="NicoThieb" target="fbancilhon"/>
+<edge source="nik" target="digiphile"/>
+<edge source="nik" target="mattturck"/>
+<edge source="nik" target="DataStax"/>
+<edge source="nik" target="acmurthy"/>
+<edge source="nik" target="awadallah"/>
+<edge source="nik" target="junar"/>
+<edge source="nik" target="gnip"/>
+<edge source="nmaillot" target="spooksandgeeks"/>
+<edge source="nmaillot" target="xamat"/>
+<edge source="nmaillot" target="jimkaskade"/>
+<edge source="nmaillot" target="mikeolson"/>
+<edge source="nmaillot" target="AvikonHadoop"/>
+<edge source="nmaillot" target="hmason"/>
+<edge source="nmaillot" target="crobelin"/>
+<edge source="nmaillot" target="Karmasphere"/>
+<edge source="nmaillot" target="datameer"/>
+<edge source="nmaillot" target="manumarchal"/>
+<edge source="nmaillot" target="kkrugler"/>
+<edge source="nmaillot" target="dreasoning"/>
+<edge source="nmaillot" target="DataStax"/>
+<edge source="nmaillot" target="ted_dunning"/>
+<edge source="nmaillot" target="cloudera"/>
+<edge source="nmaillot" target="fbancilhon"/>
+<edge source="nmaillot" target="peteskomoroch"/>
+<edge source="noahi" target="bitsybot"/>
+<edge source="noahi" target="chunsaker"/>
+<edge source="noahi" target="JonBruner"/>
+<edge source="noahi" target="bwerther"/>
+<edge source="noahi" target="edd"/>
+<edge source="noahi" target="kaythaney"/>
+<edge source="noahi" target="hmason"/>
+<edge source="noahi" target="acroll"/>
+<edge source="noahi" target="sarahnovotny"/>
+<edge source="noahi" target="infosthetics"/>
+<edge source="noahi" target="tableau"/>
+<edge source="noahi" target="ginablaber"/>
+<edge source="noahi" target="jesserobbins"/>
+<edge source="nsebastiao" target="shree_dandekar"/>
+<edge source="nsebastiao" target="diogoeag"/>
+<edge source="nsebastiao" target="pedrobizarro"/>
+<edge source="nwenzel" target="jeremyphoward"/>
+<edge source="nwenzel" target="dpatil"/>
+<edge source="nwenzel" target="noahi"/>
+<edge source="nwenzel" target="petewarden"/>
+<edge source="nwenzel" target="hmason"/>
+<edge source="omgannaks" target="dberkholz"/>
+<edge source="omgannaks" target="stochastician"/>
+<edge source="omgannaks" target="amcclosky"/>
+<edge source="omgannaks" target="wahalulu"/>
+<edge source="omgannaks" target="bengoldacre"/>
+<edge source="omgannaks" target="kaythaney"/>
+<edge source="omgannaks" target="figshare"/>
+<edge source="omgannaks" target="jeremyphoward"/>
+<edge source="omgannaks" target="jandersen"/>
+<edge source="omgannaks" target="alexsergeyev"/>
+<edge source="omgannaks" target="kiwitobes"/>
+<edge source="omgannaks" target="peteskomoroch"/>
+<edge source="omgannaks" target="dpatil"/>
+<edge source="omgannaks" target="DrSkippy27"/>
+<edge source="omgannaks" target="jakeporway"/>
+<edge source="omgannaks" target="infosthetics"/>
+<edge source="omgannaks" target="mrogati"/>
+<edge source="omgannaks" target="hmason"/>
+<edge source="Paradosso" target="jeremyphoward"/>
+<edge source="Paradosso" target="dpatil"/>
+<edge source="Paradosso" target="peteskomoroch"/>
+<edge source="Paradosso" target="hmason"/>
+<edge source="Paradosso" target="robmay"/>
+<edge source="PatMeenan" target="google"/>
+<edge source="PatMeenan" target="blazeio"/>
+<edge source="PatMeenan" target="sergeyche"/>
+<edge source="PatMeenan" target="acroll"/>
+<edge source="PatrickMcFadin" target="hmason"/>
+<edge source="PatrickMcFadin" target="zznate"/>
+<edge source="PatrickMcFadin" target="jesserobbins"/>
+<edge source="PatrickMcFadin" target="spyced"/>
+<edge source="PatrickMcFadin" target="google"/>
+<edge source="PatrickMcFadin" target="DataStax"/>
+<edge source="PatrickMcFadin" target="cloudera"/>
+<edge source="pauldix" target="wesmckinn"/>
+<edge source="pauldix" target="mattturck"/>
+<edge source="pauldix" target="mrflip"/>
+<edge source="pauldix" target="edd"/>
+<edge source="pauldix" target="spyced"/>
+<edge source="pauldix" target="bjepson"/>
+<edge source="pauldix" target="zelandiya"/>
+<edge source="pauldix" target="peteskomoroch"/>
+<edge source="pauldix" target="hmason"/>
+<edge source="pclark" target="erinbartolo"/>
+<edge source="pclark" target="hortonworks"/>
+<edge source="pclark" target="peteskomoroch"/>
+<edge source="pclark" target="deanwampler"/>
+<edge source="pclark" target="kkrugler"/>
+<edge source="pclark" target="jakeporway"/>
+<edge source="pclark" target="mattb"/>
+<edge source="pclark" target="dpatil"/>
+<edge source="pclark" target="dberkholz"/>
+<edge source="pclark" target="kaythaney"/>
+<edge source="pclark" target="petewarden"/>
+<edge source="pclark" target="edd"/>
+<edge source="pclark" target="BusyTati"/>
+<edge source="pclark" target="shoshe"/>
+<edge source="pclark" target="aallan"/>
+<edge source="pclark" target="mrgunn"/>
+<edge source="pclark" target="markmadsen"/>
+<edge source="pclark" target="hmason"/>
+<edge source="pclark" target="digiphile"/>
+<edge source="pclark" target="acroll"/>
+<edge source="pclark" target="ldodds"/>
+<edge source="pdirden" target="bjepson"/>
+<edge source="pdirden" target="mjlevitt"/>
+<edge source="pdirden" target="edd"/>
+<edge source="pdirden" target="ginablaber"/>
+<edge source="pdirden" target="maureenjennings"/>
+<edge source="pdirden" target="SuzAxtell"/>
+<edge source="pedrobizarro" target="xamat"/>
+<edge source="pedrobizarro" target="ContinuumIO"/>
+<edge source="pedrobizarro" target="nathanmarz"/>
+<edge source="pedrobizarro" target="nsebastiao"/>
+<edge source="peerside" target="dtunkelang"/>
+<edge source="peerside" target="japerk"/>
+<edge source="peerside" target="petewarden"/>
+<edge source="peerside" target="hortonworks"/>
+<edge source="peerside" target="hmason"/>
+<edge source="peerside" target="cutting"/>
+<edge source="peerside" target="DataStax"/>
+<edge source="peerside" target="mikeolson"/>
+<edge source="peerside" target="kiwitobes"/>
+<edge source="peterseibel" target="mrogati"/>
+<edge source="peterseibel" target="Paradosso"/>
+<edge source="peterseibel" target="google"/>
+<edge source="peterseibel" target="cutting"/>
+<edge source="peterseibel" target="hmason"/>
+<edge source="peteschlampp" target="noahi"/>
+<edge source="peteschlampp" target="cloudera"/>
+<edge source="peteschlampp" target="hmason"/>
+<edge source="peteschlampp" target="dpatil"/>
+<edge source="peteskomoroch" target="wesmckinn"/>
+<edge source="peteskomoroch" target="bengoldacre"/>
+<edge source="peteskomoroch" target="stochastician"/>
+<edge source="peteskomoroch" target="kurtosis0"/>
+<edge source="peteskomoroch" target="noahi"/>
+<edge source="peteskomoroch" target="josh_wills"/>
+<edge source="peteskomoroch" target="OMGannaks"/>
+<edge source="peteskomoroch" target="markmadsen"/>
+<edge source="peteskomoroch" target="xamat"/>
+<edge source="peteskomoroch" target="mrgunn"/>
+<edge source="peteskomoroch" target="japerk"/>
+<edge source="peteskomoroch" target="bwerther"/>
+<edge source="peteskomoroch" target="spyced"/>
+<edge source="peteskomoroch" target="hortonworks"/>
+<edge source="peteskomoroch" target="antgoldbloom"/>
+<edge source="peteskomoroch" target="digiphile"/>
+<edge source="peteskomoroch" target="JonBruner"/>
+<edge source="peteskomoroch" target="rjurney"/>
+<edge source="peteskomoroch" target="jakeporway"/>
+<edge source="peteskomoroch" target="maejohns"/>
+<edge source="peteskomoroch" target="twleung"/>
+<edge source="peteskomoroch" target="acroll"/>
+<edge source="peteskomoroch" target="dtunkelang"/>
+<edge source="peteskomoroch" target="anitalillie"/>
+<edge source="peteskomoroch" target="zelandiya"/>
+<edge source="peteskomoroch" target="bradgillespie"/>
+<edge source="peteskomoroch" target="acmurthy"/>
+<edge source="peteskomoroch" target="mrogati"/>
+<edge source="peteskomoroch" target="pauldix"/>
+<edge source="peteskomoroch" target="LusciousPear"/>
+<edge source="peteskomoroch" target="nathanmarz"/>
+<edge source="peteskomoroch" target="mattb"/>
+<edge source="peteskomoroch" target="petewarden"/>
+<edge source="peteskomoroch" target="boudicca"/>
+<edge source="peteskomoroch" target="randomwalks"/>
+<edge source="peteskomoroch" target="kkrugler"/>
+<edge source="peteskomoroch" target="deanwampler"/>
+<edge source="peteskomoroch" target="stefanvdwalt"/>
+<edge source="peteskomoroch" target="cutting"/>
+<edge source="peteskomoroch" target="wahalulu"/>
+<edge source="peteskomoroch" target="mattconway"/>
+<edge source="peteskomoroch" target="arunxjacob"/>
+<edge source="peteskomoroch" target="HenryR"/>
+<edge source="peteskomoroch" target="mikeolson"/>
+<edge source="peteskomoroch" target="cwensel"/>
+<edge source="peteskomoroch" target="jandersen"/>
+<edge source="peteskomoroch" target="dpatil"/>
+<edge source="peteskomoroch" target="marc_smith"/>
+<edge source="peteskomoroch" target="awadallah"/>
+<edge source="peteskomoroch" target="edd"/>
+<edge source="peteskomoroch" target="jesserobbins"/>
+<edge source="peteskomoroch" target="joshdsullivan"/>
+<edge source="peteskomoroch" target="cloudera"/>
+<edge source="peteskomoroch" target="hmason"/>
+<edge source="peteskomoroch" target="mrflip"/>
+<edge source="peteskomoroch" target="kiwitobes"/>
+<edge source="petewarden" target="jsundram"/>
+<edge source="petewarden" target="kiwitobes"/>
+<edge source="petewarden" target="jeremyphoward"/>
+<edge source="petewarden" target="mattb"/>
+<edge source="petewarden" target="jakeporway"/>
+<edge source="petewarden" target="ginablaber"/>
+<edge source="petewarden" target="sarahnovotny"/>
+<edge source="petewarden" target="mrogati"/>
+<edge source="petewarden" target="LusciousPear"/>
+<edge source="petewarden" target="mrgunn"/>
+<edge source="petewarden" target="acroll"/>
+<edge source="petewarden" target="boudicca"/>
+<edge source="petewarden" target="nik"/>
+<edge source="petewarden" target="nathanmarz"/>
+<edge source="petewarden" target="edd"/>
+<edge source="petewarden" target="StatSheet"/>
+<edge source="petewarden" target="antgoldbloom"/>
+<edge source="petewarden" target="rjurney"/>
+<edge source="petewarden" target="aallan"/>
+<edge source="petewarden" target="hmason"/>
+<edge source="petewarden" target="kaythaney"/>
+<edge source="petewarden" target="dpatil"/>
+<edge source="petewarden" target="peteskomoroch"/>
+<edge source="petewarden" target="mrflip"/>
+<edge source="petewarden" target="noahi"/>
+<edge source="petewarden" target="jandersen"/>
+<edge source="petricek" target="jeremyphoward"/>
+<edge source="petricek" target="SkytreeHQ"/>
+<edge source="petricek" target="Alassehz"/>
+<edge source="petricek" target="annadivoli"/>
+<edge source="petricek" target="jakeporway"/>
+<edge source="petricek" target="kurtosis0"/>
+<edge source="petricek" target="kiwitobes"/>
+<edge source="petricek" target="petewarden"/>
+<edge source="petricek" target="gnip"/>
+<edge source="petricek" target="rokorokoroko"/>
+<edge source="petricek" target="ginablaber"/>
+<edge source="petricek" target="VanessaAlvarez1"/>
+<edge source="petricek" target="noahi"/>
+<edge source="petricek" target="nathanmarz"/>
+<edge source="petricek" target="josh_wills"/>
+<edge source="petricek" target="nik"/>
+<edge source="petricek" target="dpatil"/>
+<edge source="petricek" target="xamat"/>
+<edge source="petricek" target="mrogati"/>
+<edge source="petricek" target="mikeolson"/>
+<edge source="petricek" target="dtunkelang"/>
+<edge source="petricek" target="antgoldbloom"/>
+<edge source="petricek" target="mrflip"/>
+<edge source="petricek" target="LusciousPear"/>
+<edge source="petricek" target="hmason"/>
+<edge source="petricek" target="google"/>
+<edge source="petricek" target="cutting"/>
+<edge source="petricek" target="cloudera"/>
+<edge source="petricek" target="ted_dunning"/>
+<edge source="petricek" target="awadallah"/>
+<edge source="petricek" target="peteskomoroch"/>
+<edge source="polluxopera" target="markmadsen"/>
+<edge source="polluxopera" target="misternaxal"/>
+<edge source="polluxopera" target="acroll"/>
+<edge source="postwait" target="jesserobbins"/>
+<edge source="postwait" target="robtreat2"/>
+<edge source="pwang" target="wesmckinn"/>
+<edge source="pwang" target="minrk"/>
+<edge source="pwang" target="noahi"/>
+<edge source="pwang" target="kaythaney"/>
+<edge source="pwang" target="hmason"/>
+<edge source="pwang" target="mrflip"/>
+<edge source="pwang" target="stefanvdwalt"/>
+<edge source="randomwalks" target="deanwampler"/>
+<edge source="randomwalks" target="MichaelDHealy"/>
+<edge source="randomwalks" target="hmason"/>
+<edge source="randomwalks" target="cutting"/>
+<edge source="randomwalks" target="HenryR"/>
+<edge source="randomwalks" target="peteskomoroch"/>
+<edge source="randomwalks" target="cloudera"/>
+<edge source="ReneeEdel" target="digiphile"/>
+<edge source="ReneeEdel" target="edd"/>
+<edge source="ReneeEdel" target="bjepson"/>
+<edge source="ReneeEdel" target="SuzAxtell"/>
+<edge source="rhm2k" target="edd"/>
+<edge source="rhm2k" target="alanchiu"/>
+<edge source="rhm2k" target="awadallah"/>
+<edge source="rhm2k" target="DataStax"/>
+<edge source="rhm2k" target="jimkaskade"/>
+<edge source="rhm2k" target="kiwitobes"/>
+<edge source="rhm2k" target="peteskomoroch"/>
+<edge source="rhm2k" target="hmason"/>
+<edge source="rhm2k" target="MichaelCLeonard"/>
+<edge source="rhm2k" target="LusciousPear"/>
+<edge source="rhm2k" target="cloudera"/>
+<edge source="rhm2k" target="mattb"/>
+<edge source="rhm2k" target="VanessaAlvarez1"/>
+<edge source="rhm2k" target="emileifrem"/>
+<edge source="rhm2k" target="jpmorgenthal"/>
+<edge source="rhm2k" target="acroll"/>
+<edge source="rhm2k" target="jesserobbins"/>
+<edge source="RichardSJust" target="dajobe"/>
+<edge source="RichardSJust" target="misternaxal"/>
+<edge source="RichardSJust" target="deejmon"/>
+<edge source="RichardSJust" target="imrantech"/>
+<edge source="RichardSJust" target="mikeolson"/>
+<edge source="RichardSJust" target="xamat"/>
+<edge source="RichardSJust" target="peteskomoroch"/>
+<edge source="RichardSJust" target="josh_wills"/>
+<edge source="RichardSJust" target="kiwitobes"/>
+<edge source="RichardSJust" target="petewarden"/>
+<edge source="RichardSJust" target="jeremyphoward"/>
+<edge source="RichardSJust" target="acroll"/>
+<edge source="RichardSJust" target="dtunkelang"/>
+<edge source="RichardSJust" target="japerk"/>
+<edge source="RichardSJust" target="mrogati"/>
+<edge source="RichardSJust" target="zelandiya"/>
+<edge source="RichardSJust" target="ekohlwey"/>
+<edge source="RichardSJust" target="hmason"/>
+<edge source="RichardSJust" target="eventbrite"/>
+<edge source="rit" target="cutting"/>
+<edge source="rit" target="gridgain"/>
+<edge source="rit" target="deanwampler"/>
+<edge source="rjurney" target="Karmasphere"/>
+<edge source="rjurney" target="hortonworks"/>
+<edge source="rjurney" target="peteskomoroch"/>
+<edge source="rjurney" target="mrgunn"/>
+<edge source="rjurney" target="petewarden"/>
+<edge source="rjurney" target="anitalillie"/>
+<edge source="rjurney" target="hmason"/>
+<edge source="rjurney" target="nathanmarz"/>
+<edge source="rjurney" target="abetaha"/>
+<edge source="rjurney" target="LusciousPear"/>
+<edge source="rjurney" target="mrflip"/>
+<edge source="rjurney" target="mikeolson"/>
+<edge source="rjurney" target="cutting"/>
+<edge source="rmcrawford" target="JonBruner"/>
+<edge source="rob1lancaster" target="digiphile"/>
+<edge source="rob1lancaster" target="peteskomoroch"/>
+<edge source="rob1lancaster" target="antgoldbloom"/>
+<edge source="rob1lancaster" target="cloudera"/>
+<edge source="rob1lancaster" target="aallan"/>
+<edge source="rob1lancaster" target="sarahnovotny"/>
+<edge source="rob1lancaster" target="hortonworks"/>
+<edge source="rob1lancaster" target="cutting"/>
+<edge source="rob1lancaster" target="Karmasphere"/>
+<edge source="rob1lancaster" target="edd"/>
+<edge source="rob1lancaster" target="acroll"/>
+<edge source="rob1lancaster" target="acmurthy"/>
+<edge source="rob1lancaster" target="ted_dunning"/>
+<edge source="rob1lancaster" target="awadallah"/>
+<edge source="rob1lancaster" target="hmason"/>
+<edge source="rob1lancaster" target="deanwampler"/>
+<edge source="rob1lancaster" target="jseidman"/>
+<edge source="Robb_at_SAP" target="zelandiya"/>
+<edge source="Robb_at_SAP" target="digiphile"/>
+<edge source="robmay" target="JonBruner"/>
+<edge source="robmay" target="abmakulec"/>
+<edge source="robmay" target="acroll"/>
+<edge source="robmay" target="dberkholz"/>
+<edge source="robmay" target="VanessaAlvarez1"/>
+<edge source="robmay" target="mattconway"/>
+<edge source="robtreat2" target="hmason"/>
+<edge source="robtreat2" target="postwait"/>
+<edge source="rokorokoroko" target="petricek"/>
+<edge source="rokorokoroko" target="datameer"/>
+<edge source="rokorokoroko" target="ted_dunning"/>
+<edge source="rokorokoroko" target="hortonworks"/>
+<edge source="rokorokoroko" target="hmason"/>
+<edge source="rokorokoroko" target="DataStax"/>
+<edge source="rokorokoroko" target="josh_wills"/>
+<edge source="rokorokoroko" target="cutting"/>
+<edge source="rokorokoroko" target="awadallah"/>
+<edge source="rokorokoroko" target="HenryR"/>
+<edge source="rokorokoroko" target="mikeolson"/>
+<edge source="rokorokoroko" target="spyced"/>
+<edge source="rokorokoroko" target="cloudera"/>
+<edge source="rokorokoroko" target="google"/>
+<edge source="romefort" target="acroll"/>
+<edge source="romefort" target="eventbrite"/>
+<edge source="romefort" target="cutting"/>
+<edge source="romefort" target="nik"/>
+<edge source="romefort" target="hmason"/>
+<edge source="romefort" target="nathanmarz"/>
+<edge source="romefort" target="dajobe"/>
+<edge source="romefort" target="ldodds"/>
+<edge source="romefort" target="mattb"/>
+<edge source="romymisra" target="anitalillie"/>
+<edge source="romymisra" target="dpatil"/>
+<edge source="romymisra" target="jakeporway"/>
+<edge source="ronbodkin" target="Karmasphere"/>
+<edge source="ronbodkin" target="AvikonHadoop"/>
+<edge source="ronbodkin" target="ted_dunning"/>
+<edge source="ronbodkin" target="cloudera"/>
+<edge source="ronbodkin" target="megamda"/>
+<edge source="ronbodkin" target="hortonworks"/>
+<edge source="ronbodkin" target="hmason"/>
+<edge source="ronbodkin" target="DataStax"/>
+<edge source="ronbodkin" target="acmurthy"/>
+<edge source="ronbodkin" target="datameer"/>
+<edge source="ronbodkin" target="mikeolson"/>
+<edge source="ronbodkin" target="cutting"/>
+<edge source="ronbodkin" target="jseidman"/>
+<edge source="ronbodkin" target="nathanmarz"/>
+<edge source="ronbodkin" target="awadallah"/>
+<edge source="ronbodkin" target="LusciousPear"/>
+<edge source="ronbodkin" target="cwensel"/>
+<edge source="ronbodkin" target="deanwampler"/>
+<edge source="rqtaylor" target="weckerson"/>
+<edge source="rqtaylor" target="nik"/>
+<edge source="rqtaylor" target="edd"/>
+<edge source="rqtaylor" target="HenryR"/>
+<edge source="rqtaylor" target="cloudera"/>
+<edge source="rqtaylor" target="hortonworks"/>
+<edge source="rqtaylor" target="tableau"/>
+<edge source="rqtaylor" target="avillamil7"/>
+<edge source="rqtaylor" target="hmason"/>
+<edge source="rqtaylor" target="datameer"/>
+<edge source="rqtaylor" target="ds_henry"/>
+<edge source="rqtaylor" target="DataStax"/>
+<edge source="rqtaylor" target="mikeolson"/>
+<edge source="rqtaylor" target="markmadsen"/>
+<edge source="rqtaylor" target="google"/>
+<edge source="rroumeliotis" target="luisdans"/>
+<edge source="rroumeliotis" target="kathrynb"/>
+<edge source="rroumeliotis" target="bjepson"/>
+<edge source="rroumeliotis" target="jandersen"/>
+<edge source="RyanHennig" target="imrantech"/>
+<edge source="RyanHennig" target="SQLCindy"/>
+<edge source="sadatshami" target="dpatil"/>
+<edge source="sadatshami" target="hmason"/>
+<edge source="sadatshami" target="davetown101"/>
+<edge source="sadatshami" target="dtunkelang"/>
+<edge source="sadatshami" target="marc_smith"/>
+<edge source="sajanparihar" target="cloudera"/>
+<edge source="samkeen" target="kiwitobes"/>
+<edge source="sandeep_giri" target="tableau"/>
+<edge source="sanjaypat" target="rjurney"/>
+<edge source="sanjaypat" target="acmurthy"/>
+<edge source="sanjaypat" target="mrogati"/>
+<edge source="sanjaypat" target="awadallah"/>
+<edge source="sanjaypat" target="mikeolson"/>
+<edge source="sanjaypat" target="mrflip"/>
+<edge source="sanjaypat" target="hmason"/>
+<edge source="sanjaypat" target="cloudera"/>
+<edge source="sanjaypat" target="dpatil"/>
+<edge source="sanjaypat" target="bwerther"/>
+<edge source="sanjaypat" target="gnip"/>
+<edge source="sarabchugh" target="SQLGal"/>
+<edge source="sarabchugh" target="awadallah"/>
+<edge source="sarabchugh" target="acmurthy"/>
+<edge source="sarabchugh" target="edd"/>
+<edge source="sarabchugh" target="dpatil"/>
+<edge source="sarabchugh" target="mrogati"/>
+<edge source="sarabchugh" target="acroll"/>
+<edge source="sarabchugh" target="VanessaAlvarez1"/>
+<edge source="sarabchugh" target="LusciousPear"/>
+<edge source="sarahnovotny" target="ValhallaVC"/>
+<edge source="sarahnovotny" target="markimbriaco"/>
+<edge source="sarahnovotny" target="dpatil"/>
+<edge source="sarahnovotny" target="bjepson"/>
+<edge source="sarahnovotny" target="mrflip"/>
+<edge source="sarahnovotny" target="mjlevitt"/>
+<edge source="sarahnovotny" target="edd"/>
+<edge source="sarahnovotny" target="martinzych"/>
+<edge source="sarahnovotny" target="petewarden"/>
+<edge source="sarahnovotny" target="kaythaney"/>
+<edge source="sarahnovotny" target="aallan"/>
+<edge source="sarahnovotny" target="postwait"/>
+<edge source="sarahnovotny" target="hmason"/>
+<edge source="sarahnovotny" target="acroll"/>
+<edge source="sarahnovotny" target="luisdans"/>
+<edge source="sarahnovotny" target="jesserobbins"/>
+<edge source="sarahnovotny" target="noahi"/>
+<edge source="sarahnovotny" target="LusciousPear"/>
+<edge source="sarahnovotny" target="ginablaber"/>
+<edge source="scottopia" target="dtunkelang"/>
+<edge source="scottopia" target="edd"/>
+<edge source="scottopia" target="frabcus"/>
+<edge source="scottopia" target="anitalillie"/>
+<edge source="scottopia" target="dpatil"/>
+<edge source="scottopia" target="hmason"/>
+<edge source="scottopia" target="nik"/>
+<edge source="scottopia" target="dreasoning"/>
+<edge source="scottopia" target="mrogati"/>
+<edge source="scyphers" target="cloudera"/>
+<edge source="scyphers" target="emileifrem"/>
+<edge source="sergeyche" target="ginablaber"/>
+<edge source="sergeyche" target="patmeenan"/>
+<edge source="sg_williams" target="tableau"/>
+<edge source="sg_williams" target="hmason"/>
+<edge source="sg_williams" target="nathanmarz"/>
+<edge source="sg_williams" target="bengoldacre"/>
+<edge source="sg_williams" target="infosthetics"/>
+<edge source="sg_williams" target="jakeporway"/>
+<edge source="sg_williams" target="jacomocorbo"/>
+<edge source="shantiS" target="nathanmarz"/>
+<edge source="shantiS" target="patmeenan"/>
+<edge source="shantiS" target="sergeyche"/>
+<edge source="shashashasha" target="JonBruner"/>
+<edge source="shashashasha" target="mrogati"/>
+<edge source="shashashasha" target="golike"/>
+<edge source="shashashasha" target="anitalillie"/>
+<edge source="shashashasha" target="jandersen"/>
+<edge source="shawnrdavis" target="Karmasphere"/>
+<edge source="shawnrdavis" target="google"/>
+<edge source="shawnrdavis" target="cloudera"/>
+<edge source="shoshe" target="rroumeliotis"/>
+<edge source="shoshe" target="acroll"/>
+<edge source="shoshe" target="mrogati"/>
+<edge source="shoshe" target="frabcus"/>
+<edge source="shoshe" target="dpatil"/>
+<edge source="shoshe" target="piyushlumba"/>
+<edge source="shoshe" target="edd"/>
+<edge source="shoshe" target="google"/>
+<edge source="shoshe" target="markmadsen"/>
+<edge source="shoshe" target="hmason"/>
+<edge source="shoshe" target="aboynejames"/>
+<edge source="shoshe" target="wahalulu"/>
+<edge source="shoshe" target="pclark"/>
+<edge source="shoshe" target="fbancilhon"/>
+<edge source="shoshe" target="gnip"/>
+<edge source="shree_Dandekar" target="luisdans"/>
+<edge source="shree_Dandekar" target="VanessaAlvarez1"/>
+<edge source="shree_Dandekar" target="markmadsen"/>
+<edge source="sirgalahad88" target="markmadsen"/>
+<edge source="sirgalahad88" target="acroll"/>
+<edge source="sjcarriere" target="cutting"/>
+<edge source="sjcarriere" target="acmurthy"/>
+<edge source="skytreeHQ" target="dpatil"/>
+<edge source="skytreeHQ" target="alex_gurevich"/>
+<edge source="skytreeHQ" target="edd"/>
+<edge source="skytreeHQ" target="cloudera"/>
+<edge source="smhanov" target="google"/>
+<edge source="spara" target="misternaxal"/>
+<edge source="spara" target="gnip"/>
+<edge source="spara" target="petewarden"/>
+<edge source="spara" target="kaythaney"/>
+<edge source="spara" target="hmason"/>
+<edge source="spara" target="mrflip"/>
+<edge source="spara" target="dandye"/>
+<edge source="spara" target="digiphile"/>
+<edge source="spectralogic" target="VanessaAlvarez1"/>
+<edge source="spectralogic" target="LusciousPear"/>
+<edge source="spooksandgeeks" target="jimkaskade"/>
+<edge source="spooksandgeeks" target="maxgadney"/>
+<edge source="spooksandgeeks" target="sadatshami"/>
+<edge source="spooksandgeeks" target="acroll"/>
+<edge source="spooksandgeeks" target="VanessaAlvarez1"/>
+<edge source="spooksandgeeks" target="JasonRutherglen"/>
+<edge source="spooksandgeeks" target="MichaelCLeonard"/>
+<edge source="spooksandgeeks" target="dpatil"/>
+<edge source="spooksandgeeks" target="SQLCindy"/>
+<edge source="spooksandgeeks" target="noahi"/>
+<edge source="spooksandgeeks" target="stojanovic"/>
+<edge source="spooksandgeeks" target="acmurthy"/>
+<edge source="spooksandgeeks" target="costinl"/>
+<edge source="spooksandgeeks" target="akm"/>
+<edge source="spooksandgeeks" target="datameer"/>
+<edge source="spooksandgeeks" target="rjurney"/>
+<edge source="spooksandgeeks" target="awadallah"/>
+<edge source="spooksandgeeks" target="ted_dunning"/>
+<edge source="spooksandgeeks" target="Karmasphere"/>
+<edge source="spooksandgeeks" target="cutting"/>
+<edge source="spooksandgeeks" target="cloudera"/>
+<edge source="spooksandgeeks" target="mikeolson"/>
+<edge source="spooksandgeeks" target="dreasoning"/>
+<edge source="spooksandgeeks" target="spyced"/>
+<edge source="spooksandgeeks" target="DataStax"/>
+<edge source="spooksandgeeks" target="hornpolish"/>
+<edge source="spooksandgeeks" target="bengoldacre"/>
+<edge source="spooksandgeeks" target="jasprice"/>
+<edge source="spooksandgeeks" target="zelandiya"/>
+<edge source="spooksandgeeks" target="pauldix"/>
+<edge source="spooksandgeeks" target="nmaillot"/>
+<edge source="spooksandgeeks" target="MicFarris"/>
+<edge source="spooksandgeeks" target="peteskomoroch"/>
+<edge source="spooksandgeeks" target="hmason"/>
+<edge source="spooksandgeeks" target="digiphile"/>
+<edge source="spooksandgeeks" target="google"/>
+<edge source="spyced" target="zznate"/>
+<edge source="spyced" target="DataStax"/>
+<edge source="sqlcindy" target="sarabchugh"/>
+<edge source="sqlcindy" target="MicFarris"/>
+<edge source="sqlcindy" target="ted_dunning"/>
+<edge source="sqlcindy" target="tmspecial"/>
+<edge source="sqlcindy" target="ravred1"/>
+<edge source="sqlcindy" target="VL_Carlson"/>
+<edge source="sqlcindy" target="jakeporway"/>
+<edge source="sqlcindy" target="dberkholz"/>
+<edge source="sqlcindy" target="JasonRutherglen"/>
+<edge source="sqlcindy" target="deanwampler"/>
+<edge source="sqlcindy" target="acroll"/>
+<edge source="sqlcindy" target="tableau"/>
+<edge source="sqlcindy" target="weckerson"/>
+<edge source="sqlcindy" target="edd"/>
+<edge source="sqlcindy" target="hmason"/>
+<edge source="sqlcindy" target="mikeolson"/>
+<edge source="sqlcindy" target="peteskomoroch"/>
+<edge source="sqlcindy" target="datameer"/>
+<edge source="sqlcindy" target="cloudera"/>
+<edge source="sqlcindy" target="billcava"/>
+<edge source="sqlcindy" target="Karmasphere"/>
+<edge source="sqlcindy" target="spooksandgeeks"/>
+<edge source="sqlcindy" target="hortonworks"/>
+<edge source="sqlcindy" target="kaythaney"/>
+<edge source="sqlcindy" target="VanessaAlvarez1"/>
+<edge source="sqlcindy" target="aallan"/>
+<edge source="sqlcindy" target="jsundram"/>
+<edge source="sqlcindy" target="petewarden"/>
+<edge source="sqlcindy" target="bengoldacre"/>
+<edge source="sqlcindy" target="mrogati"/>
+<edge source="sqlcindy" target="DataStax"/>
+<edge source="sqlcindy" target="davevr"/>
+<edge source="sqlcindy" target="bradoop"/>
+<edge source="sqlcindy" target="acmurthy"/>
+<edge source="sqlcindy" target="stojanovic"/>
+<edge source="sqlcindy" target="RyanHennig"/>
+<edge source="sqlcindy" target="carlosbossy"/>
+<edge source="sqlcindy" target="jasprice"/>
+<edge source="sqlcindy" target="luisdans"/>
+<edge source="sqlcindy" target="SQLGal"/>
+<edge source="sqlgal" target="carlosbossy"/>
+<edge source="sqlgal" target="cutting"/>
+<edge source="sqlgal" target="dberkholz"/>
+<edge source="sqlgal" target="megamda"/>
+<edge source="sqlgal" target="hortonworks"/>
+<edge source="sqlgal" target="davevr"/>
+<edge source="sqlgal" target="emileifrem"/>
+<edge source="sqlgal" target="stojanovic"/>
+<edge source="sqlgal" target="acroll"/>
+<edge source="sqlgal" target="luisdans"/>
+<edge source="sqlgal" target="SQLCindy"/>
+<edge source="sseagraves" target="mikeolson"/>
+<edge source="sseagraves" target="hmason"/>
+<edge source="sseagraves" target="jakeporway"/>
+<edge source="sseagraves" target="peteskomoroch"/>
+<edge source="sseagraves" target="mrflip"/>
+<edge source="sseagraves" target="spyced"/>
+<edge source="sseagraves" target="rjurney"/>
+<edge source="sseagraves" target="cloudera"/>
+<edge source="ssgnr" target="jeremyphoward"/>
+<edge source="ssgnr" target="jakeporway"/>
+<edge source="ssgnr" target="cutting"/>
+<edge source="ssgnr" target="petewarden"/>
+<edge source="ssgnr" target="cloudera"/>
+<edge source="ssgnr" target="mrogati"/>
+<edge source="ssgnr" target="antgoldbloom"/>
+<edge source="ssgnr" target="edd"/>
+<edge source="ssgnr" target="JonBruner"/>
+<edge source="ssgnr" target="hmason"/>
+<edge source="ssgnr" target="peteskomoroch"/>
+<edge source="ssgnr" target="dpatil"/>
+<edge source="stefanvdwalt" target="kaythaney"/>
+<edge source="stefanvdwalt" target="hmason"/>
+<edge source="stefanvdwalt" target="pwang"/>
+<edge source="stefanvdwalt" target="minrk"/>
+<edge source="stevenn" target="dpatil"/>
+<edge source="stevenn" target="dirkvandenpoel"/>
+<edge source="stevenn" target="datameer"/>
+<edge source="stevenn" target="hortonworks"/>
+<edge source="stevenn" target="acmurthy"/>
+<edge source="stevenn" target="ted_dunning"/>
+<edge source="stevenn" target="cwensel"/>
+<edge source="stevenn" target="nathanmarz"/>
+<edge source="stevenn" target="rhm2k"/>
+<edge source="stevenn" target="edd"/>
+<edge source="stevenn" target="HenryR"/>
+<edge source="stevenn" target="cutting"/>
+<edge source="stevenn" target="DataStax"/>
+<edge source="stevenn" target="LusciousPear"/>
+<edge source="stevenn" target="mikeolson"/>
+<edge source="stevenn" target="awadallah"/>
+<edge source="stevenn" target="cloudera"/>
+<edge source="stevenn" target="spyced"/>
+<edge source="steveos" target="acmurthy"/>
+<edge source="steveos" target="memsql"/>
+<edge source="steveos" target="DataStax"/>
+<edge source="steveos" target="hortonworks"/>
+<edge source="steveos" target="Karmasphere"/>
+<edge source="steveos" target="spyced"/>
+<edge source="steveos" target="cutting"/>
+<edge source="steveos" target="AvikonHadoop"/>
+<edge source="steveos" target="hmason"/>
+<edge source="steveos" target="datameer"/>
+<edge source="steveos" target="cloudera"/>
+<edge source="stochastician" target="OMGannaks"/>
+<edge source="stochastician" target="peteskomoroch"/>
+<edge source="stochastician" target="kurtosis0"/>
+<edge source="stochastician" target="dpatil"/>
+<edge source="stojanovic" target="SQLGal"/>
+<edge source="stojanovic" target="ted_dunning"/>
+<edge source="stojanovic" target="ronbodkin"/>
+<edge source="stojanovic" target="spooksandgeeks"/>
+<edge source="stojanovic" target="spyced"/>
+<edge source="stojanovic" target="DataStax"/>
+<edge source="stojanovic" target="cwensel"/>
+<edge source="stojanovic" target="nathanmarz"/>
+<edge source="stojanovic" target="hortonworks"/>
+<edge source="stojanovic" target="acmurthy"/>
+<edge source="stojanovic" target="awadallah"/>
+<edge source="stojanovic" target="cutting"/>
+<edge source="stojanovic" target="mikeolson"/>
+<edge source="stojanovic" target="cloudera"/>
+<edge source="stojanovic" target="lengningliu"/>
+<edge source="stojanovic" target="davevr"/>
+<edge source="sundanceca" target="jeremyphoward"/>
+<edge source="sundanceca" target="stojanovic"/>
+<edge source="sundanceca" target="SQLGal"/>
+<edge source="sundanceca" target="doryokujin"/>
+<edge source="sundanceca" target="cutting"/>
+<edge source="sundanceca" target="acmurthy"/>
+<edge source="sundanceca" target="awadallah"/>
+<edge source="sundanceca" target="HenryR"/>
+<edge source="sundanceca" target="bengoldacre"/>
+<edge source="sundanceca" target="kkrugler"/>
+<edge source="sundanceca" target="edd"/>
+<edge source="sundanceca" target="ted_dunning"/>
+<edge source="sundanceca" target="stevenn"/>
+<edge source="sundanceca" target="hmason"/>
+<edge source="sundanceca" target="gfodor"/>
+<edge source="sundanceca" target="josh_wills"/>
+<edge source="sundanceca" target="AvikonHadoop"/>
+<edge source="sundanceca" target="mikeolson"/>
+<edge source="sundanceca" target="cloudera"/>
+<edge source="sundanceca" target="dpatil"/>
+<edge source="sundanceca" target="petewarden"/>
+<edge source="sundanceca" target="peteskomoroch"/>
+<edge source="sundanceca" target="google"/>
+<edge source="suneelmarthi" target="ted_dunning"/>
+<edge source="suneelmarthi" target="cutting"/>
+<edge source="suneelmarthi" target="acmurthy"/>
+<edge source="suneelmarthi" target="Karmasphere"/>
+<edge source="suneelmarthi" target="jeremyphoward"/>
+<edge source="suneelmarthi" target="antgoldbloom"/>
+<edge source="suneelmarthi" target="cloudera"/>
+<edge source="susielu_tweets" target="spyced"/>
+<edge source="susielu_tweets" target="DataStax"/>
+<edge source="suzaxtell" target="annadivoli"/>
+<edge source="suzaxtell" target="deejmon"/>
+<edge source="suzaxtell" target="abmakulec"/>
+<edge source="suzaxtell" target="bendystraw"/>
+<edge source="suzaxtell" target="datatrenk"/>
+<edge source="suzaxtell" target="kaythaney"/>
+<edge source="suzaxtell" target="heswaff"/>
+<edge source="suzaxtell" target="mrogati"/>
+<edge source="suzaxtell" target="bitsybot"/>
+<edge source="suzaxtell" target="noahi"/>
+<edge source="suzaxtell" target="anitalillie"/>
+<edge source="suzaxtell" target="gretchengiles"/>
+<edge source="suzaxtell" target="hmason"/>
+<edge source="suzaxtell" target="u_m"/>
+<edge source="suzaxtell" target="shantiS"/>
+<edge source="suzaxtell" target="luisdans"/>
+<edge source="suzaxtell" target="sarahnovotny"/>
+<edge source="suzaxtell" target="digiphile"/>
+<edge source="suzaxtell" target="aallan"/>
+<edge source="suzaxtell" target="acroll"/>
+<edge source="suzaxtell" target="ReneeEdel"/>
+<edge source="suzaxtell" target="bjepson"/>
+<edge source="suzaxtell" target="ginablaber"/>
+<edge source="suzaxtell" target="maureenjennings"/>
+<edge source="suzaxtell" target="pdirden"/>
+<edge source="suzaxtell" target="edd"/>
+<edge source="suzaxtell" target="mjlevitt"/>
+<edge source="suzaxtell" target="kathrynb"/>
+<edge source="suzaxtell" target="jesserobbins"/>
+<edge source="tableau" target="JSIhealth"/>
+<edge source="tableau" target="jasprice"/>
+<edge source="tableau" target="fzunino"/>
+<edge source="tableau" target="David_R8"/>
+<edge source="tableau" target="MichaelDHealy"/>
+<edge source="tableau" target="mjlevitt"/>
+<edge source="tableau" target="SuzAxtell"/>
+<edge source="tableau" target="peteskomoroch"/>
+<edge source="tableau" target="dpatil"/>
+<edge source="tableau" target="abmakulec"/>
+<edge source="tableau" target="marc_smith"/>
+<edge source="tableau" target="gnip"/>
+<edge source="tableau" target="jsundram"/>
+<edge source="tableau" target="LincVerlander"/>
+<edge source="tableau" target="cutting"/>
+<edge source="tableau" target="VanessaAlvarez1"/>
+<edge source="tableau" target="kiwitobes"/>
+<edge source="tableau" target="google"/>
+<edge source="tableau" target="lcecere"/>
+<edge source="tableau" target="infosthetics"/>
+<edge source="tableau" target="mtrumpbour"/>
+<edge source="tableau" target="cloudera"/>
+<edge source="tableau" target="sandeep_giri"/>
+<edge source="tableau" target="markmadsen"/>
+<edge source="tableau" target="awadallah"/>
+<edge source="tableau" target="noahi"/>
+<edge source="tableau" target="hmason"/>
+<edge source="tableau" target="mrflip"/>
+<edge source="tableau" target="weckerson"/>
+<edge source="taoawu" target="cutting"/>
+<edge source="taoawu" target="acmurthy"/>
+<edge source="taoawu" target="mrogati"/>
+<edge source="taoawu" target="hmason"/>
+<edge source="taoawu" target="ImAmyO"/>
+<edge source="taoawu" target="mikeolson"/>
+<edge source="taoawu" target="cloudera"/>
+<edge source="tdelet" target="bradgillespie"/>
+<edge source="tdelet" target="markmadsen"/>
+<edge source="tdelet" target="mattturck"/>
+<edge source="tdelet" target="noahi"/>
+<edge source="tdelet" target="mrogati"/>
+<edge source="tdelet" target="jakeporway"/>
+<edge source="tdelet" target="hmason"/>
+<edge source="tdelet" target="marc_smith"/>
+<edge source="tdelet" target="google"/>
+<edge source="tmspecial" target="SQLCindy"/>
+<edge source="tmspecial" target="SQLGal"/>
+<edge source="tmspecial" target="carlosbossy"/>
+<edge source="tongli123" target="google"/>
+<edge source="tovbinm" target="deanwampler"/>
+<edge source="tovbinm" target="alexsergeyev"/>
+<edge source="tovbinm" target="mchmarny"/>
+<edge source="tovbinm" target="mkaz"/>
+<edge source="tovbinm" target="nathanmarz"/>
+<edge source="tovbinm" target="HenryR"/>
+<edge source="tovbinm" target="acmurthy"/>
+<edge source="tovbinm" target="cloudera"/>
+<edge source="tovbinm" target="cutting"/>
+<edge source="twj2bagel" target="bitsybot"/>
+<edge source="twj2bagel" target="hmason"/>
+<edge source="twleung" target="dpatil"/>
+<edge source="twleung" target="dberkholz"/>
+<edge source="twleung" target="arunxjacob"/>
+<edge source="twleung" target="nathanmarz"/>
+<edge source="twleung" target="ted_dunning"/>
+<edge source="twleung" target="mrflip"/>
+<edge source="twleung" target="acmurthy"/>
+<edge source="twleung" target="markmadsen"/>
+<edge source="twleung" target="jesserobbins"/>
+<edge source="twleung" target="mrogati"/>
+<edge source="twleung" target="peteskomoroch"/>
+<edge source="twleung" target="dreasoning"/>
+<edge source="twleung" target="postwait"/>
+<edge source="twleung" target="hmason"/>
+<edge source="twleung" target="DataStax"/>
+<edge source="twleung" target="HenryR"/>
+<edge source="twleung" target="deanwampler"/>
+<edge source="twleung" target="shantiS"/>
+<edge source="twleung" target="markimbriaco"/>
+<edge source="twleung" target="spyced"/>
+<edge source="twleung" target="cloudera"/>
+<edge source="twleung" target="cutting"/>
+<edge source="twleung" target="SuzAxtell"/>
+<edge source="twleung" target="edd"/>
+<edge source="u_m" target="SuzAxtell"/>
+<edge source="u_m" target="acroll"/>
+<edge source="u_m" target="boudicca"/>
+<edge source="vanessaalvarez1" target="edd"/>
+<edge source="vanessaalvarez1" target="cutting"/>
+<edge source="vanessaalvarez1" target="michaelbaum"/>
+<edge source="vanessaalvarez1" target="dpatil"/>
+<edge source="vanessaalvarez1" target="shree_dandekar"/>
+<edge source="vanessaalvarez1" target="ted_dunning"/>
+<edge source="vanessaalvarez1" target="SQLGal"/>
+<edge source="vanessaalvarez1" target="megamda"/>
+<edge source="vanessaalvarez1" target="acmurthy"/>
+<edge source="vanessaalvarez1" target="mikeolson"/>
+<edge source="vanessaalvarez1" target="hortonworks"/>
+<edge source="vanessaalvarez1" target="jseidman"/>
+<edge source="vanessaalvarez1" target="robmay"/>
+<edge source="vanessaalvarez1" target="awadallah"/>
+<edge source="vanessaalvarez1" target="jpmorgenthal"/>
+<edge source="vanessaalvarez1" target="MichaelCLeonard"/>
+<edge source="vanessaalvarez1" target="cshanklin"/>
+<edge source="vanessaalvarez1" target="LusciousPear"/>
+<edge source="vanessaalvarez1" target="jesserobbins"/>
+<edge source="vanessaalvarez1" target="acroll"/>
+<edge source="vanessaalvarez1" target="rhm2k"/>
+<edge source="vanessaalvarez1" target="digiphile"/>
+<edge source="VenuAB" target="mikeolson"/>
+<edge source="VerdeVenki" target="cloudera"/>
+<edge source="VerdeVenki" target="LusciousPear"/>
+<edge source="vipulsharma" target="dpatil"/>
+<edge source="vipulsharma" target="eventbrite"/>
+<edge source="vipulsharma" target="peteskomoroch"/>
+<edge source="VL_Carlson" target="bitsybot"/>
+<edge source="VL_Carlson" target="digiphile"/>
+<edge source="VL_Carlson" target="jakeporway"/>
+<edge source="vtuulos" target="anitalillie"/>
+<edge source="vtuulos" target="jtuulos"/>
+<edge source="wahalulu" target="bengoldacre"/>
+<edge source="wahalulu" target="jasprice"/>
+<edge source="wahalulu" target="Paradosso"/>
+<edge source="wahalulu" target="wesmckinn"/>
+<edge source="wahalulu" target="figshare"/>
+<edge source="wahalulu" target="OMGannaks"/>
+<edge source="wahalulu" target="kiwitobes"/>
+<edge source="wahalulu" target="ronbodkin"/>
+<edge source="wahalulu" target="LusciousPear"/>
+<edge source="wahalulu" target="jakeporway"/>
+<edge source="wahalulu" target="petewarden"/>
+<edge source="wahalulu" target="dtunkelang"/>
+<edge source="wahalulu" target="mrogati"/>
+<edge source="wahalulu" target="jeremyphoward"/>
+<edge source="wahalulu" target="mrgunn"/>
+<edge source="wahalulu" target="JohnFritz"/>
+<edge source="wahalulu" target="shoshe"/>
+<edge source="wahalulu" target="nik"/>
+<edge source="wahalulu" target="antgoldbloom"/>
+<edge source="wahalulu" target="rjurney"/>
+<edge source="wahalulu" target="edd"/>
+<edge source="wahalulu" target="markmadsen"/>
+<edge source="wahalulu" target="dpatil"/>
+<edge source="wahalulu" target="jandersen"/>
+<edge source="wahalulu" target="mrflip"/>
+<edge source="wahalulu" target="hmason"/>
+<edge source="wahalulu" target="peteskomoroch"/>
+<edge source="wahalulu" target="cloudera"/>
+<edge source="webguppy" target="google"/>
+<edge source="weckerson" target="cloudera"/>
+<edge source="weckerson" target="jasprice"/>
+<edge source="weckerson" target="awadallah"/>
+<edge source="weckerson" target="tableau"/>
+<edge source="weckerson" target="markmadsen"/>
+<edge source="wenmingye" target="kkrugler"/>
+<edge source="wenmingye" target="stojanovic"/>
+<edge source="wenmingye" target="hortonworks"/>
+<edge source="wenmingye" target="cloudera"/>
+<edge source="wesmckinn" target="stochastician"/>
+<edge source="wesmckinn" target="bengoldacre"/>
+<edge source="wesmckinn" target="josh_wills"/>
+<edge source="wesmckinn" target="ContinuumIO"/>
+<edge source="wesmckinn" target="dpatil"/>
+<edge source="wesmckinn" target="cloudera"/>
+<edge source="wesmckinn" target="JonBruner"/>
+<edge source="wesmckinn" target="edd"/>
+<edge source="wesmckinn" target="minrk"/>
+<edge source="wesmckinn" target="pauldix"/>
+<edge source="wesmckinn" target="hmason"/>
+<edge source="wesmckinn" target="pwang"/>
+<edge source="wesmckinn" target="stefanvdwalt"/>
+<edge source="wesmckinn" target="peteskomoroch"/>
+<edge source="whern" target="bengoldacre"/>
+<edge source="wojciech" target="marc_smith"/>
+<edge source="work_paul" target="jnova1974"/>
+<edge source="xamat" target="jeremyphoward"/>
+<edge source="xamat" target="bengoldacre"/>
+<edge source="xamat" target="dpatil"/>
+<edge source="xamat" target="peteskomoroch"/>
+<edge source="xamat" target="ldodds"/>
+<edge source="xamat" target="mrogati"/>
+<edge source="xamat" target="hmason"/>
+<edge source="xamat" target="google"/>
+<edge source="xamat" target="dtunkelang"/>
+<edge source="zelandiya" target="Robb_at_SAP"/>
+<edge source="zelandiya" target="annadivoli"/>
+<edge source="zelandiya" target="mrogati"/>
+<edge source="zelandiya" target="peteskomoroch"/>
+<edge source="zelandiya" target="japerk"/>
+<edge source="zelandiya" target="deanwampler"/>
+<edge source="zelandiya" target="pauldix"/>
+<edge source="zelandiya" target="hmason"/>
+<edge source="zelandiya" target="dtunkelang"/>
+<edge source="zznate" target="jesserobbins"/>
+<edge source="zznate" target="PatrickMcFadin"/>
+<edge source="zznate" target="petewarden"/>
+<edge source="zznate" target="mrflip"/>
+<edge source="zznate" target="DataStax"/>
+<edge source="zznate" target="spyced"/>
+</graph>
+</graphml>

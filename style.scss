@@ -77,6 +77,13 @@ a {
   }
 }
 
+sup {
+    font-size: 12px;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;

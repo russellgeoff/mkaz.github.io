@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <title>Protovis Graph - Movies 2010 Box Office and Ratings</title>
+    
+    <script type="text/javascript" src="protovis-r3.2.js"></script>
+    <script type="text/javascript" src="protovis-movie-data.js"></script>
+
+  </head>
+  <body>
+
+
+<script type="text/javascript+protovis">
+
+/* Sizing and scales. */
+var w = 700,
+    h = 480,
+    x = pv.Scale.linear(0, 450000000).range(0, w),
+    y = pv.Scale.linear(0, 10).range(0, h),
+    c = pv.Scale.linear(0, 1).range("orange", "brown");
+
+/* The root panel. */
+var vis = new pv.Panel()
+    .width(w)
+    .height(h)
+    .bottom(20)
+    .left(20)
+    .right(30)
+    .top(5)
+    .events("all")
+    .event("mousemove", pv.Behavior.point());
+
+/* Y-axis and ticks. */
+vis.add(pv.Rule)
+    .data(y.ticks())
+    .bottom(y)
+    .strokeStyle(function(d) d ? "#eee" : "#000")
+  .anchor("left").add(pv.Label)
+    .visible(function(d) d > 0 && d < 10)
+    .text(y.tickFormat);
+
+/* X-axis and ticks. */
+vis.add(pv.Rule)
+    .data(x.ticks())
+    .left(x)
+    .strokeStyle(function(d) d ? "#eee" : "#000")
+  .anchor("bottom").add(pv.Label)
+    .visible(function(d) d > 0 && d < 500000000)
+    .text(x.tickFormat);
+
+/* The dot plot! */
+vis.add(pv.Dot)
+    .def("active", -1)
+    .data(data)
+    .left(function(d) x(d.x))
+    .bottom(function(d) y(d.y))
+    .strokeStyle(function(d) c(d.y))
+    .fillStyle(function() this.strokeStyle().alpha(.2))
+    .event("point", function(d) this.active(this.index).parent)
+    .event("unpoint", function() this.active(-1).parent)
+    .anchor("right").add(pv.Label)
+    .visible(function() this.anchorTarget().active() == this.index)
+    .text(function(d) d.t);
+
+vis.render();
+
+</script>
+
+</body>
+</html>

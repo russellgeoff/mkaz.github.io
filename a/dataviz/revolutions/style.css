@@ -1,0 +1,50 @@
+
+body {
+  background: #333;
+  color: #fff;
+  font-family: Calibri, Arial, sans-serif;
+}
+
+a, a:visited { color: #F0F0FF; }
+
+#container {
+  margin-top: 75px;
+  text-align:center;
+}
+#holder {
+  height: 400px;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+h2 { 
+  margin: 0px 0px 80px 0px;
+  padding: 0px;
+  text-align:center;
+  color: #AAA;
+  font-size: 28px; 
+  font-weight: 500;
+}
+
+#ct_text { 
+  color: #F0F0F0;
+  font-size: 28px; 
+  font-weight: 300;
+  height:50px;
+}
+
+#replay { 
+  margin-top: 10px;
+  height:50px;
+  display: none; 
+  cursor: pointer;
+}
+#replay a { color: #F0F0FF; }
+
+.about {
+  font-size: 0.9em;
+  margin: 100px auto;
+  color: #999;
+}
+.about a { color: #99B; }
+

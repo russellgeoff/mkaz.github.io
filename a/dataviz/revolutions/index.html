@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Revolutions around the World - Data Visualization - mkaz.com</title>
+
+	  <link rel="stylesheet" href="style.css"/> 
+		<link rel="stylesheet" href="jquery-ui-1.8.9.custom.css"/>
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+		<script type="text/javascript" src="jquery-ui-1.8.9.custom.min.js"></script>
+	
+    <script src="raphael.js" type="text/javascript"></script>
+    <script src="world.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      // Revolution data from Wikipedia
+      // http://en.wikipedia.org/wiki/List_of_revolutions_and_rebellions
+      var countries = [
+        ['GB', 'England', 1642],
+        ['US', 'United States', 1776],
+        ['FR', 'France', 1789],
+        ['BO', 'Bolivia', 1809],
+        ['MX', 'Mexico', 1810],
+        ['AR', 'Argentica', 1811],
+        ['PY', 'Paraguay', 1811],
+        ['PE', 'Peru', 1820],  
+        ['GT', 'Guatemala', 1821],
+        ['GR', 'Greece', 1821],
+        ['BG', 'Belgium', 1830],
+        ['FR', 'France', 1848],
+        ['IT', 'Italy', 1848],
+        ['DE', 'Germany', 1848],
+        ['DK', 'Denmark', 1848],
+        ['AT', 'Austria', 1848],
+        ['HU', 'Hungary', 1848],
+        ['SK', 'Slovakia', 1848],
+        ['PL', 'Poland', 1848],
+        ['CH', 'Switzerland', 1848],
+        ['PH', 'Phillipines', 1898],
+        ['TR', 'Turkey', 1908],
+        ['MX', 'Mexico', 1910],
+        ['PT', 'Portugal', 1910],
+        ['CN', 'China', 1911],
+        ['RU', 'Russia', 1917],
+        ['FI', 'Finland', 1918],
+        ['IE', 'Ireland', 1919],
+        ['DE', 'Germany', 1934],
+        ['ES', 'Spain', 1936],
+        ['VN', 'Vietnam', 1945],
+        ['KP', 'North Korea', 1948],
+        ['CN', 'China', 1949],
+        ['CU', 'Cuba', 1956],
+        ['SD', 'Sudan', 1956],
+        ['IQ', 'Iraq', 1958],
+        ['CG', 'Congo', 1960],
+        ['SO', 'Somalia', 1960],
+        ['YE', 'Yemen', 1962],
+        ['TZ', 'Tanzania', 1964],
+        ['ZW', 'Zimbabwe', 1965],
+        ['BD', 'Bangladesh', 1971],
+        ['KH', 'Cambodia', 1975],
+        ['LA', 'Laos', 1975],
+        ['AF', 'Afghanistan', 1978],  
+        ['IR', 'Iran', 1979],
+        ['PH', 'Phillipines', 1986],
+        ['MM', 'Myanmar', 1988],
+        ['EE', 'Estonia', 1989],
+        ['LV', 'Latvia', 1989],
+        ['LT', 'Lithuania', 1989],
+        ['CZ', 'Czechoslovakia', 1989],
+        ['AL', 'Albania', 1990],
+        ['HR', 'Croatia', 1990],
+        ['ET', 'Ethiopia', 1993],
+        ['VE', 'Venezuela', 1998],
+        ['TN', 'Tunisia', 2010],
+        ['EG', 'Egypt', 2011]
+      ];
+      
+
+    window.onload = function () {
+
+  		var current = null;
+  		var map = {};
+  		var m = {};
+		  var c = 0;
+		
+  		var attr = {
+  			fill: "#333",
+  			stroke: "#888",
+  			"stroke-width": .5,
+  			"stroke-linejoin": "round"
+  		};
+		
+  		var R = Raphael("holder");
+  		render_map(R,map,attr);
+
+  		for (var state in map) {							        
+        map[state].color = Raphael.getColor();
+        (function (st, state) {
+  				st[0].style.cursor = "pointer";
+
+  				st[0].onmouseover = function () {
+  					current && map[current].animate({fill: "#333", stroke: "#666"}, 300);
+  					st.animate({fill: st.color, stroke: "#ccc"}, 300);
+  					R.safari();
+  					current = state;
+
+  				};
+  				st[0].onmouseout = function () {
+  					st.animate({fill: "#333", stroke: "#666"}, 300);
+  					R.safari();
+  				};
+				
+  				/*st[0].onclick = function () {
+  					//alert(state);
+  				};*/
+
+  			})(map[state], state);
+  		}; // end for
+		
+
+      // walk through dataset highlighting countres
+      // and display text
+      function cycleCountries(state) {
+				var timeout = 1000;
+				
+        if ( c < countries.length) {
+          //alert(countries[c]);
+          state = countries[c][0];
+          st = map[state];     
+
+					// change display text show Country - Year
+					document.getElementById('ct_text').innerHTML = countries[c][1] + " " + countries[c][2];
+					
+					// animate country highlighting
+					current && map[current].animate({fill: "#333", stroke: "#666"}, 300);
+					st.animate({fill: st.color, stroke: "#ccc"}, 300);
+					R.safari();
+					current = state;
+
+          // speed up timeout if several close together
+					if (c+1 < countries.length) {          
+						timeout = (countries[c+1][2] - countries[c][2]) * 250 + 500; 
+						if (timeout > 1000) { timeout = 1000; } // but dont delay too long if far apart
+					} 
+					
+          c = c + 1
+          setTimeout(cycleCountries, timeout)
+        }
+      }
+
+      // start the timeline
+      setTimeout(cycleCountries, 1000);
+      
+  	};
+
+
+    </script>
+  </head>
+  <body>
+
+  <div id="container">
+		<h2>Revolutions around the World</h2>
+    <div id="holder" style="position:relative;"> </div>
+    
+    <div id="ct_text"></div> 
+
+
+		<script>
+		$(function() {
+			$( "#slider" ).slider({
+				value:100,
+				min: 1640,
+				max: 2011,
+				step: 1,
+				slide: function( event, ui ) {
+					//$( "#amount" ).val( "$" + ui.value );
+				}
+			});
+			//$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) );
+		});
+		</script>
+		<div align="center">
+			<div id="slider" style="width:800px"></div>
+		</div>
+
+    <div class="about">
+      Created by Marcus Kazmierczak, <a href="http://mkaz.com/">mkaz.com</a> <br/>
+      &#187; <a href="http://mkaz.com/2011/02/13/revolutions-around-the-world-a-data-visualization/">Read more about this visualization</a>
+      <br/>
+    </div>
+
+  </div><!-- end container -->
+
+
+<!-- do the google tracking thing -->
+<script src='http://www.google-analytics.com/ga.js' type='text/javascript'></script> 
+<script type="text/javascript"> 
+try {
+var pageTracker = _gat._getTracker("UA-254605-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+
