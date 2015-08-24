@@ -18,7 +18,7 @@ My thought was to chart box office gross to movie ratings, so using Needlebase a
 So I threw the data into R and got a nice chart out of it, but didn't really turn up too many patterns.
 
 <div align="center">
-  <img src="https://mkaz.com/wp-content/uploads/2011/02/movie_chart_r.png" alt="" title="movie_chart_r" width="504" height="504" class="alignnone size-full wp-image-1596" />
+  <img src="/images/movie_chart_r.png" alt="" title="movie_chart_r" width="504" height="504" class="alignnone size-full wp-image-1596" />
 </div>
 
 I figured the chart would be a lot more interesting as an interactive tool, so you can see which movies are what. So using <s>Protovis</s>, [Highcharts][6], a javascript graphing and visualization library. I created this view which allows some basic interaction, a bit better way to explore this data.
