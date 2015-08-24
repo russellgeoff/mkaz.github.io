@@ -10,7 +10,7 @@ tags:
   - json
   - xml
 ---
-About four years ago I wrote an article on [ the limitations of XML][1], I'm here to back that up with some numbers. All of the same issues apply to XML today as they did then. It is still a bloated format, still requires external libraries and still takes plenty of code to parse.
+About four years ago I wrote an article on [the limitations of XML][1], I'm here to back that up with some numbers. All of the same issues apply to XML today as they did then. It is still a bloated format, still requires external libraries and still takes plenty of code to parse.
 
 Our search at [Maya's Mom][2] runs on Lucene/Tomcat and was returning XML to PHP over HTTP. I'm not quite sure my initial decision on this, probably so used to hearing Java with XML over HTTP it sounded fine at the time. Since we are working on improving our search and always one for embracing change, we switched Lucene to return [JSON.][3]
 
@@ -25,11 +25,11 @@ Converting to JSON removed over 200 lines of code, which deleting code is even b
 
 Speed Improvements: a round trip query and parsing in XML was 400+ milliseconds; now reduced to less than 20 milliseconds, a 20x improvement!
 
-More info: there is [ a minor debate][5] about the [two interchange formats][6]. Plus [an article comparing the two][7].
+More info: there is [a minor debate][5] about the [two interchange formats][6]. Plus [an article comparing the two][7].
 
 To me, there is no comparison.
 
- [1]: https://mkaz.com/2003/01/27/xml-scalability-limitations/
+ [1]: /2003/01/27/xml-scalability-limitations/
  [2]: http://www.mayasmom.com/
  [3]: http://www.json.org/
  [4]: http://us2.php.net/manual/en/ref.json.php
