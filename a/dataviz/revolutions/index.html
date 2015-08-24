@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <title>Revolutions around the World - Data Visualization - mkaz.com</title>
 
-	  <link rel="stylesheet" href="style.css"/> 
+	  <link rel="stylesheet" href="style.css"/>
 		<link rel="stylesheet" href="jquery-ui-1.8.9.custom.css"/>
-		
+
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 		<script type="text/javascript" src="jquery-ui-1.8.9.custom.min.js"></script>
-	
+
     <script src="raphael.js" type="text/javascript"></script>
     <script src="world.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -24,7 +24,7 @@
         ['MX', 'Mexico', 1810],
         ['AR', 'Argentica', 1811],
         ['PY', 'Paraguay', 1811],
-        ['PE', 'Peru', 1820],  
+        ['PE', 'Peru', 1820],
         ['GT', 'Guatemala', 1821],
         ['GR', 'Greece', 1821],
         ['BG', 'Belgium', 1830],
@@ -61,7 +61,7 @@
         ['BD', 'Bangladesh', 1971],
         ['KH', 'Cambodia', 1975],
         ['LA', 'Laos', 1975],
-        ['AF', 'Afghanistan', 1978],  
+        ['AF', 'Afghanistan', 1978],
         ['IR', 'Iran', 1979],
         ['PH', 'Phillipines', 1986],
         ['MM', 'Myanmar', 1988],
@@ -76,7 +76,7 @@
         ['TN', 'Tunisia', 2010],
         ['EG', 'Egypt', 2011]
       ];
-      
+
 
     window.onload = function () {
 
@@ -84,18 +84,18 @@
   		var map = {};
   		var m = {};
 		  var c = 0;
-		
+
   		var attr = {
   			fill: "#333",
   			stroke: "#888",
   			"stroke-width": .5,
   			"stroke-linejoin": "round"
   		};
-		
+
   		var R = Raphael("holder");
   		render_map(R,map,attr);
 
-  		for (var state in map) {							        
+  		for (var state in map) {
         map[state].color = Raphael.getColor();
         (function (st, state) {
   				st[0].style.cursor = "pointer";
@@ -111,28 +111,28 @@
   					st.animate({fill: "#333", stroke: "#666"}, 300);
   					R.safari();
   				};
-				
+
   				/*st[0].onclick = function () {
   					//alert(state);
   				};*/
 
   			})(map[state], state);
   		}; // end for
-		
+
 
       // walk through dataset highlighting countres
       // and display text
       function cycleCountries(state) {
 				var timeout = 1000;
-				
+
         if ( c < countries.length) {
           //alert(countries[c]);
           state = countries[c][0];
-          st = map[state];     
+          st = map[state];
 
 					// change display text show Country - Year
 					document.getElementById('ct_text').innerHTML = countries[c][1] + " " + countries[c][2];
-					
+
 					// animate country highlighting
 					current && map[current].animate({fill: "#333", stroke: "#666"}, 300);
 					st.animate({fill: st.color, stroke: "#ccc"}, 300);
@@ -140,11 +140,11 @@
 					current = state;
 
           // speed up timeout if several close together
-					if (c+1 < countries.length) {          
-						timeout = (countries[c+1][2] - countries[c][2]) * 250 + 500; 
+					if (c+1 < countries.length) {
+						timeout = (countries[c+1][2] - countries[c][2]) * 250 + 500;
 						if (timeout > 1000) { timeout = 1000; } // but dont delay too long if far apart
-					} 
-					
+					}
+
           c = c + 1
           setTimeout(cycleCountries, timeout)
         }
@@ -152,7 +152,7 @@
 
       // start the timeline
       setTimeout(cycleCountries, 1000);
-      
+
   	};
 
 
@@ -163,8 +163,8 @@
   <div id="container">
 		<h2>Revolutions around the World</h2>
     <div id="holder" style="position:relative;"> </div>
-    
-    <div id="ct_text"></div> 
+
+    <div id="ct_text"></div>
 
 
 		<script>
@@ -186,8 +186,8 @@
 		</div>
 
     <div class="about">
-      Created by Marcus Kazmierczak, <a href="http://mkaz.com/">mkaz.com</a> <br/>
-      &#187; <a href="http://mkaz.com/2011/02/13/revolutions-around-the-world-a-data-visualization/">Read more about this visualization</a>
+      Created by Marcus Kazmierczak, <a href="https://mkaz.com/">mkaz.com</a> <br/>
+      &#187; <a href="/2011/02/13/revolutions-around-the-world-a-data-visualization/">Read more about this visualization</a>
       <br/>
     </div>
 
@@ -195,8 +195,8 @@
 
 
 <!-- do the google tracking thing -->
-<script src='http://www.google-analytics.com/ga.js' type='text/javascript'></script> 
-<script type="text/javascript"> 
+<script src='http://www.google-analytics.com/ga.js' type='text/javascript'></script>
+<script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-254605-1");
 pageTracker._trackPageview();
@@ -204,4 +204,3 @@ pageTracker._trackPageview();
 
 </body>
 </html>
-
