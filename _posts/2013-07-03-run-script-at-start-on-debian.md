@@ -20,7 +20,8 @@ I run a straight debian install, but the following should also work for all debi
 
 First you need to create the script to run, here is a template, modify the example commands in the start and stop sections.
 
-<pre><code class="bash">#! /bin/sh
+```bash
+#! /bin/sh
 
 ### BEGIN INIT INFO
 # Provides:          foobar
@@ -58,30 +59,34 @@ case "$1" in
 esac
 
 exit 0
-</code></pre>
+```
 
 Save this file and move to `/etc/init.d` for example if I named my file `foobar`
 
-<pre><code class="bash">sudo mv foobar /etc/init.d/       # move to init.d
+```bash
+sudo mv foobar /etc/init.d/       # move to init.d
 sudo chmod 755 /etc/init.d/foobar # make executable
-</code></pre>
+```
 
 The way linux runs script is it goes through different run levels and runs the scripts for each level. You can see these in the run level directories `ls /etc/rc*`. There exist links to each script to run at what level.
 
 You could manually create the proper links to your new script, or there is a convenience script `update-rc.d` which is much easier. To create the links:
 
-<pre><code class="bash">sudo update-rc.d foobar defaults  
-</code></pre>
+```bash
+sudo update-rc.d foobar defaults  
+```
 
 If you wish to remove the links, this still keeps the script:
 
-<pre><code class="bash">sudo update-rc.d -f foobar remove
-</code></pre>
+```
+bashsudo update-rc.d -f foobar remove
+```
 
 Once added you can test starting your service using:
 
-<pre><code class="bash">sudo service foobar start
-</code></pre>
+```bash
+sudo service foobar start
+```
 
 ### Error or Issue
 
@@ -90,4 +95,4 @@ If you see this warning
     insserv: warning: script 'foobar' missing LSB tags and overrides
 
 
-You probably did not includ the INIT INFO block, see template above. Your script will still run, just does not have the dependency info used by insserv program to try to start items in proper order.
+You probably did not include the INIT INFO block, see template above. Your script will still run, just does not have the dependency info used by insserv program to try to start items in proper order.

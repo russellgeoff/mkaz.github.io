@@ -9,8 +9,13 @@ categories:
 tags:
   - mysql
 ---
-<pre><code class="sql">DELETE from table1
+
+A query to delete duplicate records out of a table.
+
+
+```sql
+DELETE from table1
     USING table1, table1 as vtable
-WHERE (table1.ID &gt; vtable.ID)
+WHERE (table1.ID > vtable.ID)
    AND (table1.field_name = vtable.field_name)
-</code></pre>
+```

@@ -16,18 +16,20 @@ Previously the only way to store data on a local desktop was to use cookies, whi
 
 There are two basic methods, one for setting an item in storage and one for getting that item, they are:
 
-<pre><code class="javascript">// store item
+```javascript
+// store item
 localStorage.setItem("item_key", "value I am storing");
 
 // retrieve item
 var data = localStorage.getItem("item_key");
-</code></pre>
+```
 
 That's it.
 
 The storage saves values as strings, so if you want to store a different type of data object, such as an array or javascript object. You will need to JSONify it before storing. Here's an example storing an array.
 
-<pre><code class="javascript">var listdata = [1, 2, 3];
+```javascript
+var listdata = [1, 2, 3];
 
 // store array back to localstorage
 localStorage.setItem("list_data_key",  JSON.stringify(listdata));
@@ -37,7 +39,7 @@ var storedData = localStorage.getItem("listData");
 if (storedData) {
     listdata = JSON.parse(storedData);
 }
-</code></pre>
+```
 
 There are a few other helper functions that you will probably use:
 
@@ -47,9 +49,11 @@ Clear All Local Storage: `localStorage.clear()`
 
 Check if localStorage is supported:
 
-<pre><code class="javascript">if (window.localStorage) {
+```javascript
+if (window.localStorage) {
     // yes!
-}</code></pre>
+}
+```
 
 Those are the basics of local storage.
 

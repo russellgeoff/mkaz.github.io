@@ -24,7 +24,7 @@ Once started, you issue commands using `ctrl-b` (default), this is called the &#
 To rebind keys: create `~/.tmux.conf`
 
     set -g prefix C-w
-    
+
 
 After making a change to the .tmux.conf file you will need to either restart tmux, exit using `ctrl-d` or you can re-source it within tmux by typing the prefix `ctrl-b` and then `:` and the command `source-file ~/.tmux-conf`
 
@@ -35,47 +35,47 @@ After making a change to the .tmux.conf file you will need to either restart tmu
     <td>
       ctrl-w c
     </td>
-    
+
     <td>
       Create New Window
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w n
     </td>
-    
+
     <td>
       Next Window
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w p
     </td>
-    
+
     <td>
       Previous Window
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w 0-9
     </td>
-    
+
     <td>
       Switch to Window #
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w d
     </td>
-    
+
     <td>
       Detach from current session (it's still there)
     </td>
@@ -99,7 +99,7 @@ Tmux is its own window manager and operateas outside of the system windowing, wh
     ctrl-f  - forward a ag
     /       - search forward
     ?       - search backward
-    
+
 
 Hit enter to escape scrolling mode.
 
@@ -114,57 +114,57 @@ The default split window commands are as follows:
     <td>
       ctrl-w "
     </td>
-    
+
     <td>
       Split screen horizontally
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w %
     </td>
-    
+
     <td>
       Split screen vertically
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w o
     </td>
-    
+
     <td>
       Navigate between splits
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w X
     </td>
-    
+
     <td>
       Remove current split
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w Q
     </td>
-    
+
     <td>
       Remove all other splits
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ctrl-w :resize
     </td>
-    
+
     <td>
       Resize Screen (prompts for lines)
     </td>
@@ -174,8 +174,8 @@ The default split window commands are as follows:
 However, these do not map well mentally for me, so I switch the bindings to `-` and `|` which map to horizontal and vertical splits. Here's how I bind those keys:
 
     bind - splitw -v -p 50
-    bind | splitw -h -p 50 
-    
+    bind | splitw -h -p 50
+
 
 #### Navigating Windows
 
@@ -186,13 +186,13 @@ There are a few additional ways I navigate split windows, I map the Alt+Arrow ke
     bind -n M-Right select-pane -R
     bind -n M-Up select-pane -U
     bind -n M-Down select-pane -D
-    
+
     # set mouse modes
     set-window-option -g mode-mouse on
     set-option -g mouse-select-pane on
     set-option -g mouse-resize-pane on
     set-option -g mouse-select-window on
-    
+
 
 ### Sharing Interactive Sessions
 
@@ -202,12 +202,12 @@ To share a tmux session, have a user login and create session storing socket in 
 
     $ tmux -S /tmp/da_socket
     $ chmod 777 /tmp/da_socket
-    
+
 
 The second user logged in to the same machine, can now connect to that session
 
     $ tmux -S /tmp/da_socket attach
-    
+
 
 You are now in the same session, and will see and type what the other sees. Hack away!
 
@@ -215,12 +215,12 @@ You are now in the same session, and will see and type what the other sees. Hack
 
 You can also type extended commands for tmux, the command `ctrl-w :` will enter in a command-line mode. You can then issue various commands such as:
 
-    # split window horizontally 50% 
-    splitw -h -p 50 
-    
+    # split window horizontally 50%
+    splitw -h -p 50
+
     # split window vertically 80%/20%
     splitw -v -p 20
-    
+
 
 ### Additional Resources
 
@@ -237,5 +237,4 @@ You can also type extended commands for tmux, the command `ctrl-w :` will enter 
  [1]: http://tmux.sourceforge.net/
  [2]: http://manpages.ubuntu.com/manpages/precise/en/man1/tmux.1.html
  [3]: http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/
- [4]: http://pragprog.com/book/bhtmux/tmux
- [5]: https://mkaz.com/2008/05/01/gnu-screen-utility/
+ [4]: /2008/05/01/gnu-screen-utility/

@@ -24,8 +24,7 @@ So here are the scripts and how I set the rest of the 600+ images to have a feat
 
 The easiest batch to fix were the ones which were uploaded as a WordPress attachment. So the photo was already in the WP system, it just needed to be assigned as the feature image.
 
-See the linked script below for the process basically it finds all the posts without featured images and compares that image to images already uploaded and sets when matched. I ran on the server using the awesome [WP command-line  
-tool][2].
+See the linked script below for the process basically it finds all the posts without featured images and compares that image to images already uploaded and sets when matched. I ran on the server using the awesome [WP command-line tool][2].
 
 Script on Github: [set-featured-image.php][3]
 

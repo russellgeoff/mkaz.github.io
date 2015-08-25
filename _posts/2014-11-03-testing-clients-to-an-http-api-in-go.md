@@ -10,6 +10,7 @@ tags:
   - golang
   - testing
 ---
+
 An example on how to test a client which calls out to an external API, without requiring the API server to be up and running. From [Testing Techniques][1] video by Andrew Gerrand at Google I/O 2014.
 
 Go has a standard library `net/http/httptest` which you can use to create a test HTTP server, similar to Go's normal HTTP server. The test server will create a server that listens locally on a random port.
@@ -26,7 +27,8 @@ I setup my test server to just echo back whatever parameter gets passed in, so t
 
 Create test `fetcher_test.go` and run from my package dir using `go test`
 
-<pre lang="golang">// This tests GET request with passing in a parameter.
+```go
+// This tests GET request with passing in a parameter.
 func TestGetParams(t *testing.T) {
 
     // echoHandler, passes back form parameter p
@@ -51,7 +53,7 @@ func TestGetParams(t *testing.T) {
         t.Errorf("Unexpected result: %v", result)
     }
 }
-</pre>
+```
 
 That's all there is to it, check out the video for a ton more useful information around testing in Go. Plus read the [testing][3] and [httptest][4] package documentation.
 

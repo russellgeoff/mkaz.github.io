@@ -18,9 +18,10 @@ This guide is focused on development and business apps, getting work done. I do 
 
 The Mac has two great built in functions **pbcopy** and **pbpaste** which allows you to pipe content to and from the clipboard. So you can pipe the output of a command to pbcopy and it will place it in the clipboard, which you can paste elsewhere. Here's the linux equivalent, once the aliases are setup they are used the same as the Mac.
 
-<pre class="brush: plain; title: ; notranslate" title="">alias pbcopy=&#039;xclip -selection clipboard&#039;
-alias pbpaste=&#039;xclip -selection clipboard -o&#039;
-</pre>
+```
+alias pbcopy="xclip -selection clipboard"
+alias pbpaste="xclip -selection clipboard -o"
+```
 
 The Mac command **open** will open a file using its default application, the linux equivalent is simply **xdg-open**, used the same way. The following will open the image filename.png in the default image viewer.
 
@@ -45,11 +46,11 @@ See [my command-line tips][2] for more examples and ways to script on the comman
 If you want to lift a color from somewhere on screen, you can use the **gpick** utility. The package is available in the standard repository. Install: `$ apt-get install gpick`
 
 <div id="attachment_941" class="wp-caption aligncenter" >
-  <img src="https://mkaz.com/wp-content/uploads/2014/01/gpick-screenshot.jpg" alt="Screenshot of GPick Color Picker" width="500" height="270" class="size-full wp-image-941" />
-  
-  <p class="wp-caption-text">
-    GPick Color Picker
-  </p>
+<img src="/images/gpick-screenshot.jpg" alt="Screenshot of GPick Color Picker" width="500" height="270" class="size-full wp-image-941" />
+
+<p class="wp-caption-text">
+GPick Color Picker
+</p>
 </div>
 
 ### How to Install a Font in Ubuntu
@@ -67,11 +68,11 @@ The Mac has a few great apps for quick search and launching applications, Spotli
 If you are looking for the equivalent of Alfred on Ubuntu, you should try out **Synapse**, it does all the searching, built-in calculation and extendable through plug-ins. If you prefer Quicksilver, **Kupfer** is the Linux match. One other to try is **Gnome Do**, each of the launchers are slightly different, but more extendable then the base Dash, which is similar to how Alfred is to Spotlight.
 
 <div id="attachment_995" class="wp-caption aligncenter" >
-  <img src="https://mkaz.com/wp-content/uploads/2014/02/synapse-screenshot.png" alt="Screenshot of Synapse Application Launcher " title="Synapse Launcher" width="415" height="120" class="size-full wp-image-995" />
-  
-  <p class="wp-caption-text">
-    Synapse Launcher
-  </p>
+<img src="/images/synapse-screenshot.png" alt="Screenshot of Synapse Application Launcher " title="Synapse Launcher" width="415" height="120" class="size-full wp-image-995" />
+
+<p class="wp-caption-text">
+Synapse Launcher
+</p>
 </div>
 
 ### Time Savers and Shortcuts
@@ -94,12 +95,12 @@ For photo management, **Shotwell** is the best solution, but still far from Ligh
 
 The following are cross-platform applications that I use on both Mac and Linux.
 
-  * Firefox 
-  * Sublime Text 
-  * vim 
-  * Skype 
-  * Pidgin (IM) 
-  * RescueTime 
+  * Firefox
+  * Sublime Text
+  * vim
+  * Skype
+  * Pidgin (IM)
+  * RescueTime
 
 
 
@@ -116,11 +117,11 @@ Have you switched? Leave a comment to help me and others out with any other tips
   * [Xterm Colors Chart][9] &#8211; for customizing xterm and system colors
 
  [1]: https://gist.github.com/4525050
- [2]: https://mkaz.com/2013/12/29/command-line-basics-and-tips/
+ [2]: /2013/12/29/command-line-basics-and-tips/
  [3]: https://lastpass.com/
  [4]: http://help.agilebits.com/1Password3/1passwordanywhere.html
  [5]: https://help.ubuntu.com/community/OSXApplicationsEquivalents
  [6]: http://pixlr.com/
- [7]: https://mkaz.com/2011/08/31/vim-cheat-sheet/
- [8]: https://mkaz.com/2008/05/01/gnu-screen-utility/
- [9]: https://mkaz.com/2010/04/04/xterm-colors/
+ [7]: /2011/08/31/vim-cheat-sheet/
+ [8]: /2008/05/01/gnu-screen-utility/
+ [9]: /2010/04/04/xterm-colors/

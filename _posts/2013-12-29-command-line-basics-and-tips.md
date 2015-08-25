@@ -4,10 +4,6 @@ title: Command-line Basics and Tips
 author: Marcus Kazmierczak
 layout: post
 permalink: /2013/12/29/command-line-basics-and-tips/
-publicize_twitter_user:
-  - mkaz
-publicize_twitter_url:
-  - http://t.co/VX0PB5TIVY
 categories:
   - solutions log
 tags:
@@ -16,6 +12,7 @@ tags:
   - mac os x
   - unix
 ---
+
 A collection of tips to help you on the command-line using Linux, Mac OS X or other unixy command-line system. You might already know most but hopefully there are a few new ones or helpful tips on how to save time and use in productive ways. I've tried to include real and useful examples for each.
 
 ## Setup
@@ -29,7 +26,8 @@ With a repository, I can then check out my dotfiles to whatever new machine and 
 
 Secondly, what files do you put all this good stuff in. I have a main profile file which I put common pieces and since I bounce between Macs and Linux, I also have system specific profiles. Additionally, I create host specific files for each server, your mileage may vary. Here's how I source the other files from the main profile:
 
-<pre class="brush: bash; title: ; notranslate" title="">SYS_OS=`uname -a`   # linux or mac
+```
+SYS_OS=`uname -a`   # linux or mac
 SHORT_HOSTNAME=`hostname -s`
 
 # system aliases
@@ -45,7 +43,7 @@ fi
  if [[ -e ~/dotfiles/profile.$SHORT_HOSTNAME ]]; then
      source ~/dotfiles/profile.$SHORT_HOSTNAME
  fi
-</pre>
+```
 
 ## Use Aliases and Functions
 
@@ -92,7 +90,7 @@ Vim is a powerful text editor, there is way too much to go into in this article,
 
   * [Derek Wyatt Vim Tutorials][2] &#8211; fun and useful videos, I like Derek's style
   * [Vimcasts][3] &#8211; another video series
-  * [Vim Cheat Sheet][4] &#8211; my vim cheat sheet 
+  * [Vim Cheat Sheet][4] &#8211; my vim cheat sheet
 
 ## Common Commands
 
@@ -129,9 +127,9 @@ Changing permissions using chmod can be tedious at times, but there are a few sh
 
     chmod -R a+r *    # recursively give read rights to everyone
     chmod -R o-r *    # recursively remove read rights from other
-    chmod u+rw *      # give user read + write access 
+    chmod u+rw *      # give user read + write access
     chmod -R a+rX *   # sets all directories as read-executable
-    
+
 
 ## Text Processing
 
@@ -220,7 +218,7 @@ A loop example, create a file called `loop.sh` with the following
     do
         echo $VARIABLE
     done
-    
+
 
 Run using: `$ bash loop.sh`
 
@@ -254,7 +252,7 @@ For vim, add this to your vimrc, allow you to use `:w!!` to save using sudo
 
     " sudo write
     ca w!! w !sudo tee &gt;/dev/null "%"
-    
+
 
 Use `ctrl-r` on the command-line and start typing to search back for previous commands
 
@@ -267,7 +265,7 @@ You can use `{` and `}` to specify a range of items for example
 
     $ echo {one,two,three}-alligator
     one-alligator two-alligator three-alligator
-    
+
 
 This is useful in various ways to save running the same command with a minor difference, I use this often when creating a set of directories, the following creates five directories:  
 `mkdir -p app/storage/{cache,logs,meta,sessions,views}`
@@ -298,7 +296,7 @@ If you're working on the command-line and need a calendar, simply type `cal`
     15 16 17 18 19 20 21
     22 23 24 25 26 27 28
     29 30 31
-    
+
 
 You can get also get any full year: `cal 2013`, `cal 1970`, `cal 1776`
 
@@ -371,7 +369,7 @@ You might be interested in my [Ubuntu Guide for Mac Converts][18], which include
  [7]: http://www.theunixschool.com/p/awk-sed.html
  [8]: http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
  [9]: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
- [10]: http://ebeab.com/2006/05/29/unix-crontab/
+ [10]: /2006/05/29/unix-crontab/
  [11]: http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/
  [12]: http://mah.everybody.org/docs/ssh
  [13]: http://johnmacfarlane.net/pandoc/
@@ -379,4 +377,4 @@ You might be interested in my [Ubuntu Guide for Mac Converts][18], which include
  [15]: http://www.thegeekstuff.com/2010/09/rsync-command-examples/
  [16]: https://wiki.archlinux.org/index.php/msmtp
  [17]: https://wiki.debian.org/sSMTP
- [18]: https://mkaz.com/2013/01/13/ubuntu-guide-for-mac-converts/
+ [18]: /2013/01/13/ubuntu-guide-for-mac-converts/
