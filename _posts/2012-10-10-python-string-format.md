@@ -17,7 +17,7 @@ Every time I use Python's string formatter, version 2.7 and up, I get it wrong a
 
 The following table shows various ways to format numbers using python's *newish* str.format(), examples for both float formatting and integers.
 
-To run examples use ` print("FORMAT".format(NUMBER)); `  
+To run examples use ` print("FORMAT".format(NUMBER)); `
 So to get the output of the first example, you would run: ` print("{:.2f}".format(3.1415926));`
 
 <table>
@@ -151,4 +151,4 @@ print(" The {} set is often represented as {{0}} ".format("empty"))
  [2]: http://www.reddit.com/r/Python/comments/174e1i/python_string_format_cookbook/c82ot0h
  [3]: http://docs.python.org/3/library/string.html
  [4]: http://www.amazon.com/gp/product/0672329786/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0672329786&linkCode=as2&tag=mkazcom-20
- [5]: https://mkaz.com/2014/07/26/python-argparse-cookbook/
+ [5]: /2014/07/26/python-argparse-cookbook/
