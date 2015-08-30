@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "flexin";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -270,6 +271,18 @@ nav {
 //
 // .main
 //
+div.posts {
+    @include flexbox();
+    @include flex-wrap(wrap);
+    @include align-items(flex-start);
+    @include justify-content(space-between);
+}
+
+div.post-block {
+    max-width: 330px;
+    min-width: 330px;
+}
+
 ul.posts {
 
     list-style-type: none;

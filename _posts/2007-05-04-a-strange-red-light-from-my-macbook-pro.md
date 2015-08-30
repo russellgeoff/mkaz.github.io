@@ -1,6 +1,6 @@
 ---
 id: 482
-title: A strange red light from my MacBook Pro
+title: Strange red light from my MacBook Pro
 author: Marcus Kazmierczak
 layout: post
 permalink: /2007/05/04/a-strange-red-light-from-my-macbook-pro/

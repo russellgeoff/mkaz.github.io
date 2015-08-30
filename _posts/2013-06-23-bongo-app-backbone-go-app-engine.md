@@ -1,6 +1,6 @@
 ---
 id: 480
-title: 'Bongo App: Backbone + Go + App Engine'
+title: Backbone, Go and GAE starter app
 author: Marcus Kazmierczak
 layout: post
 permalink: /2013/06/23/bongo-app-backbone-go-app-engine/

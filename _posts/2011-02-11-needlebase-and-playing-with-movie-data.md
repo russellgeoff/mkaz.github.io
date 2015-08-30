@@ -1,6 +1,6 @@
 ---
 id: 3612
-title: Needlebase and playing with movie data
+title: Needlebase and Movie data
 author: Marcus Kazmierczak
 layout: post
 permalink: /2011/02/11/needlebase-and-playing-with-movie-data/

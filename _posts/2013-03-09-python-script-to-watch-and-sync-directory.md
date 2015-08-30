@@ -17,7 +17,7 @@ Both are fine tools, but I want a way to use tool and automatically upload any c
 
 I discovered the FSEvents and [Python bindings][4] which is a Mac OS X system library that can monitor a directory for file change events. Here's a brief example of how to use.
 
-```
+```python
 from fsevents import Observer, Stream
 
 def event_callback(event):

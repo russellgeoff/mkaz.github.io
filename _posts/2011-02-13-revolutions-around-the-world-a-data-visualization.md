@@ -1,6 +1,6 @@
 ---
 id: 3609
-title: Revolutions around the World, a data visualization
+title: World Revolutions data visualization
 author: Marcus Kazmierczak
 layout: post
 permalink: /2011/02/13/revolutions-around-the-world-a-data-visualization/

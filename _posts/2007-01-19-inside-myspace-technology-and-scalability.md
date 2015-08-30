@@ -1,6 +1,6 @@
 ---
 id: 494
-title: 'Inside MySpace &#8211; technology and scalability'
+title: 'MySpace architecture and scalability'
 author: Marcus Kazmierczak
 layout: post
 permalink: /2007/01/19/inside-myspace-technology-and-scalability/
