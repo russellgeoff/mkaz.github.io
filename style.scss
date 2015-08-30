@@ -276,11 +276,15 @@ div.posts {
     @include flex-wrap(wrap);
     @include align-items(flex-start);
     @include justify-content(space-between);
+
+    @include mobile {
+        @include justify-content(center);
+    }
 }
 
 div.post-block {
-    max-width: 330px;
-    min-width: 330px;
+    max-width: 320px;
+    min-width: 320px;
 }
 
 ul.posts {
