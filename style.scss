@@ -47,6 +47,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  margin-bottom: 0;
+
   a {
     color: inherit;
   }
@@ -147,8 +149,9 @@ table td {
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+  font-family: $datemono;
+  color: $dategray;
+  margin-bottom: 2.0rem;
 }
 
 // Specify the color of the selection
@@ -294,8 +297,8 @@ ul.posts {
     padding-left: 0;
 
     li time {
-        color: #999;
-        font-family: "Droid Sans Mono", monospace;
+        color: $dategray;
+        font-family: $datemono;
         font-size: 14px;
         margin-right: 8px;
     }
