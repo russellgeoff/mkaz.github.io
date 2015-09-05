@@ -2,7 +2,6 @@
 title: Using Evernote
 author: Marcus Kazmierczak
 layout: post
-permalink: /2015/04/21/using-evernote/
 categories:
   - technology
 ---
