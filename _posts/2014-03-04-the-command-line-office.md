@@ -50,8 +50,7 @@ As always, if you just need a month calendar, just do a quick **cal** on the com
 
 For password management, I now use [pass][18] command-line tool. Pass uses simple gpg-encrypted files and far quicker and easier to use, though no browser integration. Combined with [BitTorrent Sync][19] makes for a nice synchronized password system, also it uses just basic files so you can have multiline text.
 
-If you are looking for a command-line RSS reader, check out [Canto][20] and  
-[Newsbeuter][21] which claims to be the mutt of RSS readers.
+If you are looking for a command-line RSS reader, check out [Canto][20] and  [Newsbeuter][21] which claims to be the mutt of RSS readers.
 
 Twitter, may or may not be part of the new office suite, but anything with a command-line client is a win in my book, check out [python twitter tools (ptt)][22]
 
