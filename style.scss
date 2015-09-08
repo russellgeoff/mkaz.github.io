@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 0px;
   padding: 0;
 
   @include mobile {
@@ -148,6 +148,9 @@ table td {
 
 .date {
   color: $gray;
+  font-size: 13px;
+  font-family: 'PT mono', Monaco, Menlo, 'Courier New', monospace;
+  font-weight: bold;
 }
 
 // Specify the color of the selection
