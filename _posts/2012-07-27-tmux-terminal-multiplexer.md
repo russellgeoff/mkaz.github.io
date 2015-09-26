@@ -1,6 +1,5 @@
 ---
-id: 728
-title: 'Tmux &#8211; Terminal Multiplexer'
+title: 'Tmux - Terminal Multiplexer'
 author: Marcus Kazmierczak
 layout: post
 permalink: /2012/07/27/tmux-terminal-multiplexer/
@@ -11,6 +10,7 @@ tags:
   - screen
   - tmux
 ---
+
 **tmux** is a terminal multiplexer, or you can consider it a &#8220;window" or &#8220;tab" manager for the terminal. I've been a user of **screen** for a long time, but switched to tmux due to screen development being stale, it stayed stable but not as easy to use; leaving the door open for Tmux which is easier and more capable.
 
 ### Basics
@@ -230,9 +230,7 @@ You can also type extended commands for tmux, the command `ctrl-w :` will enter 
 
   * [TMUX &#8211; The Terminal Multiplexer][3]
 
-  * [tmux: Productive Mouse Free Development][4] [Book]
-
-  * [Unix Screen Notes][5] &#8211; my notes on using screen
+  * [Unix Screen Notes][4] &#8211; my notes on using screen
 
  [1]: http://tmux.sourceforge.net/
  [2]: http://manpages.ubuntu.com/manpages/precise/en/man1/tmux.1.html
