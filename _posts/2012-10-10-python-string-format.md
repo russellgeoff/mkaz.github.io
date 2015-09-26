@@ -137,7 +137,7 @@ Hat tip to [earthboundkids][2] who provided this on reddit.
 If you need to use braces when using str.format(), just double up
 
 ```python
-print(" The {} set is often represented as {{0}} ".format("empty"))
+print(" The {} set is often represented as {% raw %}{{{0}}{% endraw %}".format("empty"))
 ~~ The empty set is often represented as {0}
 ```
 

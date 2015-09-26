@@ -1,0 +1,596 @@
+Numbers: 6, 7
+    Prime Factors 6: [5]
+    Prime Factors 7: [2, 3]
+
+Numbers: 9, 10
+    Prime Factors 9: [2, 2, 2]
+    Prime Factors 10: [3, 3]
+
+Numbers: 16, 17
+    Prime Factors 16: [3, 5]
+    Prime Factors 17: [2, 2, 2, 2]
+
+Numbers: 78, 79
+    Prime Factors 78: [7, 11]
+    Prime Factors 79: [2, 3, 13]
+
+Numbers: 126, 127
+    Prime Factors 126: [5, 5, 5]
+    Prime Factors 127: [2, 3, 3, 7]
+
+Numbers: 715, 716
+    Prime Factors 715: [2, 3, 7, 17]
+    Prime Factors 716: [5, 11, 13]
+
+Numbers: 949, 950
+    Prime Factors 949: [2, 2, 3, 79]
+    Prime Factors 950: [13, 73]
+
+Numbers: 1331, 1332
+    Prime Factors 1331: [2, 5, 7, 19]
+    Prime Factors 1332: [11, 11, 11]
+
+Numbers: 1521, 1522
+    Prime Factors 1521: [2, 2, 2, 2, 5, 19]
+    Prime Factors 1522: [3, 3, 13, 13]
+
+Numbers: 1863, 1864
+    Prime Factors 1863: [2, 7, 7, 19]
+    Prime Factors 1864: [3, 3, 3, 3, 23]
+
+Numbers: 2492, 2493
+    Prime Factors 2492: [47, 53]
+    Prime Factors 2493: [2, 2, 7, 89]
+
+Numbers: 3249, 3250
+    Prime Factors 3249: [2, 2, 2, 2, 7, 29]
+    Prime Factors 3250: [3, 3, 19, 19]
+
+Numbers: 4186, 4187
+    Prime Factors 4186: [3, 3, 3, 5, 31]
+    Prime Factors 4187: [2, 7, 13, 23]
+
+Numbers: 4192, 4193
+    Prime Factors 4192: [3, 11, 127]
+    Prime Factors 4193: [2, 2, 2, 2, 2, 131]
+
+Numbers: 5406, 5407
+    Prime Factors 5406: [5, 23, 47]
+    Prime Factors 5407: [2, 3, 17, 53]
+
+Numbers: 5561, 5562
+    Prime Factors 5561: [2, 2, 2, 5, 139]
+    Prime Factors 5562: [67, 83]
+
+Numbers: 5960, 5961
+    Prime Factors 5960: [59, 101]
+    Prime Factors 5961: [2, 2, 2, 5, 149]
+
+Numbers: 6868, 6869
+    Prime Factors 6868: [3, 3, 7, 109]
+    Prime Factors 6869: [2, 2, 17, 101]
+
+Numbers: 8281, 8282
+    Prime Factors 8281: [2, 2, 2, 3, 3, 5, 23]
+    Prime Factors 8282: [7, 7, 13, 13]
+
+Numbers: 8464, 8465
+    Prime Factors 8464: [3, 7, 13, 31]
+    Prime Factors 8465: [2, 2, 2, 2, 23, 23]
+
+Numbers: 10648, 10649
+    Prime Factors 10648: [3, 3, 7, 13, 13]
+    Prime Factors 10649: [2, 2, 2, 11, 11, 11]
+
+Numbers: 12352, 12353
+    Prime Factors 12352: [3, 23, 179]
+    Prime Factors 12353: [2, 2, 2, 2, 2, 2, 193]
+
+Numbers: 14588, 14589
+    Prime Factors 14588: [29, 503]
+    Prime Factors 14589: [2, 2, 7, 521]
+
+Numbers: 16933, 16934
+    Prime Factors 16933: [2, 2, 3, 17, 83]
+    Prime Factors 16934: [7, 41, 59]
+
+Numbers: 17081, 17082
+    Prime Factors 17081: [2, 2, 2, 5, 7, 61]
+    Prime Factors 17082: [19, 29, 31]
+
+Numbers: 18491, 18492
+    Prime Factors 18491: [2, 5, 43, 43]
+    Prime Factors 18492: [11, 41, 41]
+
+Numbers: 20451, 20452
+    Prime Factors 20451: [2, 5, 5, 409]
+    Prime Factors 20452: [3, 17, 401]
+
+Numbers: 24896, 24897
+    Prime Factors 24896: [5, 13, 383]
+    Prime Factors 24897: [2, 2, 2, 2, 2, 2, 389]
+
+Numbers: 26643, 26644
+    Prime Factors 26643: [2, 7, 11, 173]
+    Prime Factors 26644: [3, 83, 107]
+
+Numbers: 26650, 26651
+    Prime Factors 26650: [3, 3, 3, 3, 7, 47]
+    Prime Factors 26651: [2, 5, 5, 13, 41]
+
+Numbers: 28449, 28450
+    Prime Factors 28449: [2, 2, 2, 2, 2, 7, 127]
+    Prime Factors 28450: [3, 3, 29, 109]
+
+Numbers: 28810, 28811
+    Prime Factors 28810: [3, 3, 3, 11, 97]
+    Prime Factors 28811: [2, 5, 43, 67]
+
+Numbers: 33020, 33021
+    Prime Factors 33020: [7, 53, 89]
+    Prime Factors 33021: [2, 2, 5, 13, 127]
+
+Numbers: 37829, 37830
+    Prime Factors 37829: [2, 2, 7, 7, 193]
+    Prime Factors 37830: [11, 19, 181]
+
+Numbers: 37882, 37883
+    Prime Factors 37882: [3, 3, 3, 23, 61]
+    Prime Factors 37883: [2, 13, 31, 47]
+
+Numbers: 41262, 41263
+    Prime Factors 41262: [11, 11, 11, 31]
+    Prime Factors 41263: [2, 3, 13, 23, 23]
+
+Numbers: 42625, 42626
+    Prime Factors 42625: [2, 2, 2, 2, 2, 2, 2, 3, 3, 37]
+    Prime Factors 42626: [5, 5, 5, 11, 31]
+
+Numbers: 43216, 43217
+    Prime Factors 43216: [3, 5, 43, 67]
+    Prime Factors 43217: [2, 2, 2, 2, 37, 73]
+
+Numbers: 44832, 44833
+    Prime Factors 44832: [127, 353]
+    Prime Factors 44833: [2, 2, 2, 2, 2, 3, 467]
+
+Numbers: 44892, 44893
+    Prime Factors 44892: [7, 11, 11, 53]
+    Prime Factors 44893: [2, 2, 3, 3, 29, 43]
+
+Numbers: 47545, 47546
+    Prime Factors 47545: [2, 2, 2, 3, 7, 283]
+    Prime Factors 47546: [5, 37, 257]
+
+Numbers: 49241, 49242
+    Prime Factors 49241: [2, 2, 2, 5, 1231]
+    Prime Factors 49242: [41, 1201]
+
+Numbers: 52555, 52556
+    Prime Factors 52555: [2, 3, 19, 461]
+    Prime Factors 52556: [5, 23, 457]
+
+Numbers: 53193, 53194
+    Prime Factors 53193: [2, 2, 2, 61, 109]
+    Prime Factors 53194: [3, 7, 17, 149]
+
+Numbers: 57076, 57077
+    Prime Factors 57076: [3, 5, 5, 761]
+    Prime Factors 57077: [2, 2, 19, 751]
+
+Numbers: 63345, 63346
+    Prime Factors 63345: [2, 2, 2, 2, 37, 107]
+    Prime Factors 63346: [3, 5, 41, 103]
+
+Numbers: 63427, 63428
+    Prime Factors 63427: [2, 3, 11, 31, 31]
+    Prime Factors 63428: [7, 13, 17, 41]
+
+Numbers: 68265, 68266
+    Prime Factors 68265: [2, 2, 2, 7, 23, 53]
+    Prime Factors 68266: [3, 3, 5, 37, 41]
+
+Numbers: 68950, 68951
+    Prime Factors 68950: [3, 3, 47, 163]
+    Prime Factors 68951: [2, 5, 5, 7, 197]
+
+Numbers: 70357, 70358
+    Prime Factors 70357: [2, 2, 3, 11, 13, 41]
+    Prime Factors 70358: [7, 19, 23, 23]
+
+Numbers: 72501, 72502
+    Prime Factors 72501: [2, 2, 5, 5, 5, 5, 29]
+    Prime Factors 72502: [3, 11, 13, 13, 13]
+
+Numbers: 81176, 81177
+    Prime Factors 81176: [5, 5, 17, 191]
+    Prime Factors 81177: [2, 2, 2, 73, 139]
+
+Numbers: 89980, 89981
+    Prime Factors 89980: [3, 89, 337]
+    Prime Factors 89981: [2, 2, 5, 11, 409]
+
+Numbers: 95710, 95711
+    Prime Factors 95710: [3, 61, 523]
+    Prime Factors 95711: [2, 5, 17, 563]
+
+Numbers: 98120, 98121
+    Prime Factors 98120: [7, 107, 131]
+    Prime Factors 98121: [2, 2, 2, 5, 11, 223]
+
+Numbers: 98645, 98646
+    Prime Factors 98645: [2, 2, 7, 13, 271]
+    Prime Factors 98646: [5, 109, 181]
+
+Numbers: 99164, 99165
+    Prime Factors 99164: [53, 1871]
+    Prime Factors 99165: [2, 2, 13, 1907]
+
+Numbers: 106800, 106801
+    Prime Factors 106800: [7, 11, 19, 73]
+    Prime Factors 106801: [2, 2, 2, 2, 3, 5, 5, 89]
+
+Numbers: 110608, 110609
+    Prime Factors 110608: [3, 7, 23, 229]
+    Prime Factors 110609: [2, 2, 2, 2, 31, 223]
+
+Numbers: 113284, 113285
+    Prime Factors 113284: [3, 3, 41, 307]
+    Prime Factors 113285: [2, 2, 127, 223]
+
+Numbers: 128775, 128776
+    Prime Factors 128775: [2, 31, 31, 67]
+    Prime Factors 128776: [3, 5, 5, 17, 101]
+
+Numbers: 141489, 141490
+    Prime Factors 141489: [2, 2, 2, 2, 37, 239]
+    Prime Factors 141490: [3, 3, 79, 199]
+
+Numbers: 154843, 154844
+    Prime Factors 154843: [2, 3, 131, 197]
+    Prime Factors 154844: [13, 43, 277]
+
+Numbers: 155709, 155710
+    Prime Factors 155709: [2, 2, 7, 67, 83]
+    Prime Factors 155710: [3, 3, 3, 73, 79]
+
+Numbers: 172774, 172775
+    Prime Factors 172774: [3, 3, 3, 3, 3, 3, 3, 79]
+    Prime Factors 172775: [2, 7, 7, 41, 43]
+
+Numbers: 173163, 173164
+    Prime Factors 173163: [2, 11, 17, 463]
+    Prime Factors 173164: [3, 197, 293]
+
+Numbers: 174097, 174098
+    Prime Factors 174097: [2, 2, 2, 2, 3, 3, 3, 13, 31]
+    Prime Factors 174098: [7, 7, 11, 17, 19]
+
+Numbers: 183447, 183448
+    Prime Factors 183447: [2, 37, 37, 67]
+    Prime Factors 183448: [3, 3, 11, 17, 109]
+
+Numbers: 204259, 204260
+    Prime Factors 204259: [2, 3, 59, 577]
+    Prime Factors 204260: [11, 31, 599]
+
+Numbers: 204611, 204612
+    Prime Factors 204611: [2, 5, 7, 37, 79]
+    Prime Factors 204612: [11, 11, 19, 89]
+
+Numbers: 208582, 208583
+    Prime Factors 208582: [3, 251, 277]
+    Prime Factors 208583: [2, 11, 19, 499]
+
+Numbers: 216294, 216295
+    Prime Factors 216294: [7, 11, 53, 53]
+    Prime Factors 216295: [2, 3, 13, 47, 59]
+
+Numbers: 224257, 224258
+    Prime Factors 224257: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 73]
+    Prime Factors 224258: [11, 19, 29, 37]
+
+Numbers: 230125, 230126
+    Prime Factors 230125: [2, 2, 3, 127, 151]
+    Prime Factors 230126: [5, 5, 5, 7, 263]
+
+Numbers: 244036, 244037
+    Prime Factors 244036: [3, 3, 5, 11, 17, 29]
+    Prime Factors 244037: [2, 2, 13, 13, 19, 19]
+
+Numbers: 247456, 247457
+    Prime Factors 247456: [3, 3, 3, 3, 5, 13, 47]
+    Prime Factors 247457: [2, 2, 2, 2, 2, 11, 19, 37]
+
+Numbers: 248110, 248111
+    Prime Factors 248110: [3, 191, 433]
+    Prime Factors 248111: [2, 5, 43, 577]
+
+Numbers: 250996, 250997
+    Prime Factors 250996: [3, 5, 29, 577]
+    Prime Factors 250997: [2, 2, 131, 479]
+
+Numbers: 261020, 261021
+    Prime Factors 261020: [11, 61, 389]
+    Prime Factors 261021: [2, 2, 5, 31, 421]
+
+Numbers: 261569, 261570
+    Prime Factors 261569: [2, 2, 2, 2, 2, 2, 61, 67]
+    Prime Factors 261570: [7, 11, 43, 79]
+
+Numbers: 263328, 263329
+    Prime Factors 263328: [23, 107, 107]
+    Prime Factors 263329: [2, 2, 2, 2, 2, 3, 13, 211]
+
+Numbers: 265113, 265114
+    Prime Factors 265113: [2, 2, 2, 31, 1069]
+    Prime Factors 265114: [3, 3, 3, 3, 3, 1091]
+
+Numbers: 268192, 268193
+    Prime Factors 268192: [3, 3, 3, 3, 7, 11, 43]
+    Prime Factors 268193: [2, 2, 2, 2, 2, 17, 17, 29]
+
+Numbers: 278278, 278279
+    Prime Factors 278278: [3, 23, 37, 109]
+    Prime Factors 278279: [2, 7, 11, 13, 139]
+
+Numbers: 292455, 292456
+    Prime Factors 292455: [2, 31, 53, 89]
+    Prime Factors 292456: [3, 3, 5, 67, 97]
+
+Numbers: 296112, 296113
+    Prime Factors 296112: [37, 53, 151]
+    Prime Factors 296113: [2, 2, 2, 2, 3, 31, 199]
+
+Numbers: 304326, 304327
+    Prime Factors 304326: [5, 5, 7, 37, 47]
+    Prime Factors 304327: [2, 3, 3, 11, 29, 53]
+
+Numbers: 329989, 329990
+    Prime Factors 329989: [2, 2, 3, 107, 257]
+    Prime Factors 329990: [11, 131, 229]
+
+Numbers: 332995, 332996
+    Prime Factors 332995: [2, 3, 19, 23, 127]
+    Prime Factors 332996: [5, 13, 47, 109]
+
+Numbers: 346693, 346694
+    Prime Factors 346693: [2, 2, 3, 167, 173]
+    Prime Factors 346694: [19, 71, 257]
+
+Numbers: 351076, 351077
+    Prime Factors 351076: [3, 5, 5, 31, 151]
+    Prime Factors 351077: [2, 2, 11, 79, 101]
+
+Numbers: 361064, 361065
+    Prime Factors 361064: [17, 67, 317]
+    Prime Factors 361065: [2, 2, 2, 11, 11, 373]
+
+Numbers: 380439, 380440
+    Prime Factors 380439: [2, 223, 853]
+    Prime Factors 380440: [3, 3, 41, 1031]
+
+Numbers: 381729, 381730
+    Prime Factors 381729: [2, 2, 2, 2, 2, 79, 151]
+    Prime Factors 381730: [3, 19, 37, 181]
+
+Numbers: 394856, 394857
+    Prime Factors 394856: [5, 157, 503]
+    Prime Factors 394857: [2, 2, 2, 7, 11, 641]
+
+Numbers: 417163, 417164
+    Prime Factors 417163: [2, 3, 251, 277]
+    Prime Factors 417164: [17, 53, 463]
+
+Numbers: 417164, 417165
+    Prime Factors 417164: [17, 53, 463]
+    Prime Factors 417165: [2, 2, 11, 19, 499]
+
+Numbers: 436933, 436934
+    Prime Factors 436933: [2, 2, 3, 3, 53, 229]
+    Prime Factors 436934: [7, 7, 37, 241]
+
+Numbers: 437716, 437717
+    Prime Factors 437716: [3, 3, 5, 71, 137]
+    Prime Factors 437717: [2, 2, 17, 41, 157]
+
+Numbers: 441212, 441213
+    Prime Factors 441212: [359, 1229]
+    Prime Factors 441213: [2, 2, 73, 1511]
+
+Numbers: 445306, 445307
+    Prime Factors 445306: [3, 5, 7, 4241]
+    Prime Factors 445307: [2, 53, 4201]
+
+Numbers: 453475, 453476
+    Prime Factors 453475: [2, 3, 3, 7, 59, 61]
+    Prime Factors 453476: [5, 5, 11, 17, 97]
+
+Numbers: 457900, 457901
+    Prime Factors 457900: [3, 13, 59, 199]
+    Prime Factors 457901: [2, 2, 5, 5, 19, 241]
+
+Numbers: 470120, 470121
+    Prime Factors 470120: [13, 29, 29, 43]
+    Prime Factors 470121: [2, 2, 2, 5, 7, 23, 73]
+
+Numbers: 477093, 477094
+    Prime Factors 477093: [2, 2, 7, 11, 1549]
+    Prime Factors 477094: [3, 109, 1459]
+
+Numbers: 488977, 488978
+    Prime Factors 488977: [2, 2, 2, 2, 3, 61, 167]
+    Prime Factors 488978: [71, 71, 97]
+
+Numbers: 493923, 493924
+    Prime Factors 493923: [2, 11, 11, 13, 157]
+    Prime Factors 493924: [3, 31, 47, 113]
+
+Numbers: 508564, 508565
+    Prime Factors 508564: [3, 3, 11, 11, 467]
+    Prime Factors 508565: [2, 2, 7, 41, 443]
+
+Numbers: 509852, 509853
+    Prime Factors 509852: [43, 71, 167]
+    Prime Factors 509853: [2, 2, 7, 131, 139]
+
+Numbers: 525225, 525226
+    Prime Factors 525225: [2, 2, 2, 7, 83, 113]
+    Prime Factors 525226: [3, 5, 5, 47, 149]
+
+Numbers: 529195, 529196
+    Prime Factors 529195: [2, 3, 89, 991]
+    Prime Factors 529196: [5, 109, 971]
+
+Numbers: 531991, 531992
+    Prime Factors 531991: [2, 3, 3, 5, 23, 257]
+    Prime Factors 531992: [31, 131, 131]
+
+Numbers: 540281, 540282
+    Prime Factors 540281: [2, 2, 2, 5, 13, 1039]
+    Prime Factors 540282: [7, 79, 977]
+
+Numbers: 550033, 550034
+    Prime Factors 550033: [2, 2, 2, 2, 3, 7, 1637]
+    Prime Factors 550034: [11, 31, 1613]
+
+Numbers: 554683, 554684
+    Prime Factors 554683: [2, 3, 193, 479]
+    Prime Factors 554684: [29, 31, 617]
+
+Numbers: 572016, 572017
+    Prime Factors 572016: [5, 233, 491]
+    Prime Factors 572017: [2, 2, 2, 2, 3, 17, 701]
+
+Numbers: 587265, 587266
+    Prime Factors 587265: [2, 2, 2, 2, 2, 2, 2, 2, 2, 31, 37]
+    Prime Factors 587266: [3, 5, 7, 7, 17, 47]
+
+Numbers: 598250, 598251
+    Prime Factors 598250: [281, 2129]
+    Prime Factors 598251: [2, 5, 5, 5, 2393]
+
+Numbers: 618752, 618753
+    Prime Factors 618752: [7, 37, 2389]
+    Prime Factors 618753: [2, 2, 2, 2, 2, 2, 2, 2, 2417]
+
+Numbers: 639848, 639849
+    Prime Factors 639848: [13, 83, 593]
+    Prime Factors 639849: [2, 2, 2, 11, 11, 661]
+
+Numbers: 643468, 643469
+    Prime Factors 643468: [3, 11, 17, 31, 37]
+    Prime Factors 643469: [2, 2, 7, 7, 7, 7, 67]
+
+Numbers: 667629, 667630
+    Prime Factors 667629: [2, 2, 13, 37, 347]
+    Prime Factors 667630: [3, 3, 3, 79, 313]
+
+Numbers: 671020, 671021
+    Prime Factors 671020: [3, 47, 4759]
+    Prime Factors 671021: [2, 2, 5, 7, 4793]
+
+Numbers: 693611, 693612
+    Prime Factors 693611: [2, 5, 139, 499]
+    Prime Factors 693612: [23, 53, 569]
+
+Numbers: 732089, 732090
+    Prime Factors 732089: [2, 2, 2, 7, 17, 769]
+    Prime Factors 732090: [19, 53, 727]
+
+Numbers: 742509, 742510
+    Prime Factors 742509: [2, 2, 13, 109, 131]
+    Prime Factors 742510: [3, 3, 17, 23, 211]
+
+Numbers: 748231, 748232
+    Prime Factors 748231: [2, 3, 5, 7, 7, 509]
+    Prime Factors 748232: [11, 251, 271]
+
+Numbers: 767833, 767834
+    Prime Factors 767833: [2, 2, 2, 3, 13, 23, 107]
+    Prime Factors 767834: [11, 29, 29, 83]
+
+Numbers: 773313, 773314
+    Prime Factors 773313: [2, 2, 2, 2, 2, 2, 43, 281]
+    Prime Factors 773314: [3, 17, 59, 257]
+
+Numbers: 788671, 788672
+    Prime Factors 788671: [2, 3, 3, 3, 5, 23, 127]
+    Prime Factors 788672: [13, 19, 31, 103]
+
+Numbers: 801296, 801297
+    Prime Factors 801296: [5, 11, 17, 857]
+    Prime Factors 801297: [2, 2, 2, 2, 61, 821]
+
+Numbers: 838936, 838937
+    Prime Factors 838936: [3, 3, 5, 103, 181]
+    Prime Factors 838937: [2, 2, 2, 7, 71, 211]
+
+Numbers: 839200, 839201
+    Prime Factors 839200: [3, 467, 599]
+    Prime Factors 839201: [2, 2, 2, 2, 2, 5, 5, 1049]
+
+Numbers: 842128, 842129
+    Prime Factors 842128: [3, 11, 13, 13, 151]
+    Prime Factors 842129: [2, 2, 2, 2, 7, 73, 103]
+
+Numbers: 851710, 851711
+    Prime Factors 851710: [3, 193, 1471]
+    Prime Factors 851711: [2, 5, 53, 1607]
+
+Numbers: 859409, 859410
+    Prime Factors 859409: [2, 2, 2, 2, 11, 19, 257]
+    Prime Factors 859410: [67, 101, 127]
+
+Numbers: 861400, 861401
+    Prime Factors 861400: [3, 3, 7, 11, 11, 113]
+    Prime Factors 861401: [2, 2, 2, 5, 5, 59, 73]
+
+Numbers: 869055, 869056
+    Prime Factors 869055: [2, 31, 107, 131]
+    Prime Factors 869056: [3, 5, 11, 23, 229]
+
+Numbers: 878899, 878900
+    Prime Factors 878899: [2, 3, 37, 37, 107]
+    Prime Factors 878900: [7, 23, 53, 103]
+
+Numbers: 882927, 882928
+    Prime Factors 882927: [2, 11, 67, 599]
+    Prime Factors 882928: [3, 3, 3, 53, 617]
+
+Numbers: 890127, 890128
+    Prime Factors 890127: [2, 29, 103, 149]
+    Prime Factors 890128: [3, 3, 7, 71, 199]
+
+Numbers: 917864, 917865
+    Prime Factors 917864: [47, 59, 331]
+    Prime Factors 917865: [2, 2, 2, 17, 17, 397]
+
+Numbers: 927775, 927776
+    Prime Factors 927775: [2, 3, 3, 3, 3, 3, 23, 83]
+    Prime Factors 927776: [5, 5, 17, 37, 59]
+
+Numbers: 942633, 942634
+    Prime Factors 942633: [2, 2, 2, 23, 47, 109]
+    Prime Factors 942634: [3, 3, 17, 61, 101]
+
+Numbers: 956040, 956041
+    Prime Factors 956040: [7, 7, 109, 179]
+    Prime Factors 956041: [2, 2, 2, 3, 5, 31, 257]
+
+Numbers: 961573, 961574
+    Prime Factors 961573: [2, 2, 3, 227, 353]
+    Prime Factors 961574: [41, 47, 499]
+
+Numbers: 965096, 965097
+    Prime Factors 965096: [5, 251, 769]
+    Prime Factors 965097: [2, 2, 2, 11, 11, 997]
+
+Numbers: 976376, 976377
+    Prime Factors 976376: [5, 5, 5, 73, 107]
+    Prime Factors 976377: [2, 2, 2, 31, 31, 127]
+
+Numbers: 977281, 977282
+    Prime Factors 977281: [2, 2, 2, 2, 2, 2, 2, 3, 5, 509]
+    Prime Factors 977282: [37, 61, 433]
+

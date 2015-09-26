@@ -247,50 +247,51 @@ Trying out various things on them, the following turned up which seemed a little
 
 So a quick script [[sum_checke.py][9]] to check if these are the first 4 values of 10-digit chunks of *e* that sum to 49, which they turned out to be. The script turned up:
 
-  1. 7182818284 
-      * 8182845904 
-          * 8747135266 
-              * 7427466391 
-                  * **5966290435** 
-                      * 2952605956 
-                          * 0753907774 
-                              * 0777449920 
-                                  * 3069697720 
-                                      * 1252389784 </ol> 
-                                        The 5th one being the correct answer.
-                                        
-                                        Following the directions, it turned out to be a recruitment tool for Google Labs, looking for the best and brightest. It was pretty fun and good idea for them. Unfortunately, their search engine is too good and anyone can look up answers to them, so I'm not sure how valid of a test it is. I did send them the link to my resume, encoded of course.
-                                        
-                                        ## Calculating *e*
-                                        
-                                        I felt like it was cheating downloading some one else's calculated digits of *e*. So using the formula:
-                                        
-                                            
-                                                e = 1/0! + 1/1! + 1/2! + 1/3! + 1/4! + ... 1/N!
-                                            
-                                        
-                                        I wrote the following script, [calc_e.py][10] to calculate the digits of *e*, the script uses the GMP libraries for precision.
-                                        
-                                        ## Related Links
-                                        
-                                          * Initial Introduction: [Google Blog][11]
-                                        
-                                          * Dr. Math's About *e*</p> </li> 
-                                            
-                                              * [GMP: GNU Multiple Precision Arithmetic Library][12] : the fastest bignum library on the planet!
-                                            
-                                              * [General Multiprecision PYthon project (GMPY)][13]</ul>
+1. 7182818284 
+1. 8182845904 
+1. 8747135266 
+1. 7427466391 
+1. **5966290435** 
+1. 2952605956 
+1. 0753907774 
+1. 0777449920 
+1. 3069697720 
+1. 1252389784 
 
- [1]: /math/krypto-analytis.html
- [2]: /math/prime-numbers.html
+The 5th one being the correct answer.
+
+Following the directions, it turned out to be a recruitment tool for Google Labs, looking for the best and brightest. It was pretty fun and good idea for them. Unfortunately, their search engine is too good and anyone can look up answers to them, so I'm not sure how valid of a test it is. I did send them the link to my resume, encoded of course.
+
+## Calculating *e*
+
+I felt like it was cheating downloading some one else's calculated digits of *e*. So using the formula:
+
+
+e = 1/0! + 1/1! + 1/2! + 1/3! + 1/4! + ... 1/N!
+
+
+I wrote the following script, [calc_e.py][10] to calculate the digits of *e*, the script uses the GMP libraries for precision.
+
+## Related Links
+
+* Initial Introduction: [Google Blog][11]
+
+* Dr. Math's About *e*</p> </li> 
+
+* [GMP: GNU Multiple Precision Arithmetic Library][12] : the fastest bignum library on the planet!
+
+* [General Multiprecision PYthon project (GMPY)][13]</ul>
+
+ [1]: /krypto-analysis/
+ [2]: /prime-numbers/
  [3]: http://antwrp.gsfc.nasa.gov/htmltest/gifcity/e.2mil
- [4]: /math/google-files/e.0
- [5]: /math/google-files/util_chunkify.py
- [6]: /math/google-files/e.10digit.chunks
- [7]: /math/google-files/primes.sm
- [8]: /math/google-files/checke.py
- [9]: /math/google-files/sum_checke.py
- [10]: /math/google-files/calc_e.py
+ [4]: /a/google-files/e.0
+ [5]: /a/google-files/util_chunkify.py
+ [6]: /a/google-files/e.10digit.chunks
+ [7]: /a/google-files/primes.sm
+ [8]: /a/google-files/checke.py
+ [9]: /a/google-files/sum_checke.py
+ [10]: /a/google-files/calc_e.py
  [11]: http://www.google.com/googleblog/2004/07/warning-we-brake-for-number-theory.html
  [12]: http://www.swox.com/gmp/
  [13]: http://gmpy.sourceforge.net/
