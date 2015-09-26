@@ -11,7 +11,7 @@ tags:
   - tmux
 ---
 
-**tmux** is a terminal multiplexer, or you can consider it a &#8220;window" or &#8220;tab" manager for the terminal. I've been a user of **screen** for a long time, but switched to tmux due to screen development being stale, it stayed stable but not as easy to use; leaving the door open for Tmux which is easier and more capable.
+**tmux** is a terminal multiplexer, or you can consider it a "window" or "tab" manager for the terminal. I've been a user of **screen** for a long time, but switched to tmux due to screen development being stale, it stayed stable but not as easy to use; leaving the door open for Tmux which is easier and more capable.
 
 ### Basics
 
@@ -19,7 +19,7 @@ Tmux is typically not installed by default, but is available in most package rep
 
 To start a session simply: `$ tmux`
 
-Once started, you issue commands using `ctrl-b` (default), this is called the &#8220;prefix". You can also map another key, I'm used to using `ctrl-w` in screen, so I remap mine in tmux.
+Once started, you issue commands using `ctrl-b` (default), this is called the "prefix". You can also map another key, I'm used to using `ctrl-w` in screen, so I remap mine in tmux.
 
 To rebind keys: create `~/.tmux.conf`
 
@@ -222,7 +222,31 @@ You can also type extended commands for tmux, the command `ctrl-w :` will enter 
     splitw -v -p 20
 
 
+##### Escape Key Slow
+
+I ran into an issue with the escape key having a noticeable delay, this was particularly annoying in vim. The follow config in tmux.conf removed the delay.
+
+    # remove delay in escape (vim)
+    set -s escape-time 0
+
+
+##### Copy and Paste - Tmux / iTerm / Mac
+
+I don't really understand the issue, you can Google to find out more but my solution was the following. First install utility using brew:
+
+    brew install reattach-to-user-namespace
+
+Next in tmux.conf include
+    
+    # copy-paste
+    set-option -g default-command "reattach-to-user-namespace -l bash"
+
+This more or less fixed it, one thing for selecting text, use Option + Mouse and then you can use cmd+c to copy.
+
+
 ### Additional Resources
+
+  * [My tmux.conf configuration](https://github.com/mkaz/dotfiles/blob/master/rcfiles/tmux.conf)
 
   * [tmux home][1]
 
